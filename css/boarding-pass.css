@@ -1,0 +1,459 @@
+/* screen - boarding-pass */
+
+.boarding-pass {
+  background-color: var(--white);
+  height: 896px;
+  overflow: hidden;
+  position: relative;
+  width: 414px;
+}
+.boarding-pass .arl1-C61RwL {
+  background-color: transparent;
+  height: 61px;
+  left: 21px;
+  position: absolute;
+  top: 157px;
+  width: 61px;
+}
+.boarding-pass .back-meduim-PBxZUg {
+  background-color: transparent;
+  height: 23px;
+  left: 6px;
+  position: absolute;
+  top: calc(47.01% - 11px);
+  width: 23px;
+}
+.boarding-pass .background-EAWbTs {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.boarding-pass .background-qQAETk {
+  background-color: transparent;
+  border-radius: 13px;
+  height: calc(100.00% + 180px);
+  left: -90px;
+  position: absolute;
+  top: -80px;
+  width: calc(100.00% + 180px);
+}
+.boarding-pass .bars-navig-arge-title-C61RwL {
+  background-color: transparent;
+  height: 140px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 414px;
+}
+.boarding-pass .boarding-pass-PBxZUg {
+  background-color: transparent;
+  bottom: 6px;
+  color: var(--black);
+  height: 42px;
+  left: 14px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 225px;
+}
+.boarding-pass .group-26-xvFZft {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 185px;
+}
+.boarding-pass .group-33-qQAETk {
+  background-color: transparent;
+  height: 84px;
+  left: 15px;
+  position: absolute;
+  top: calc(18.53% - 16px);
+  width: calc(100.00% - 41px);
+}
+.boarding-pass .group-34-C61RwL {
+  background-color: transparent;
+  height: 478px;
+  left: 16px;
+  position: absolute;
+  top: 156px;
+  width: 382px;
+}
+.boarding-pass .large-title-2P4qUJ {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 16px;
+  height: auto;
+  left: 266px;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  top: 175px;
+  white-space: nowrap;
+  width: auto;
+}
+.boarding-pass .large-title-6WKK8z {
+  background-color: transparent;
+  bottom: calc(49.22% - 10px);
+  color: var(--black);
+  font-size: 15px;
+  height: 20px;
+  left: 0px;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 31.09%;
+}
+.boarding-pass .large-title-C61RwL {
+  background-color: transparent;
+  color: var(--pizazz-2);
+  font-size: 13px;
+  height: auto;
+  left: 211px;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  top: 324px;
+  white-space: nowrap;
+  width: auto;
+}
+.boarding-pass .large-title-HlKRTo {
+  background-color: transparent;
+  color: var(--pizazz-2);
+  font-size: 13px;
+  height: auto;
+  left: 53px;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  top: 324px;
+  white-space: nowrap;
+  width: auto;
+}
+.boarding-pass .large-title-J1YQmd {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 16px;
+  height: auto;
+  left: 211px;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  top: 341px;
+  white-space: nowrap;
+  width: auto;
+}
+.boarding-pass .large-title-NTzQ0p {
+  background-color: transparent;
+  bottom: calc(117.97% - 24px);
+  color: var(--azure-radiance);
+  font-size: 15px;
+  height: 20px;
+  left: 41.71%;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 9.09%;
+}
+.boarding-pass .large-title-P2qivK {
+  background-color: transparent;
+  bottom: calc(14.84% - 3px);
+  color: var(--azure-radiance);
+  font-size: 15px;
+  height: 20px;
+  left: 0px;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 24.34%;
+}
+.boarding-pass .large-title-QJAfrg {
+  background-color: transparent;
+  bottom: calc(49.22% - 10px);
+  color: var(--black);
+  font-size: 15px;
+  height: 20px;
+  left: 41.71%;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 56.68%;
+}
+.boarding-pass .large-title-QxM5SU {
+  background-color: transparent;
+  color: var(--pizazz-2);
+  font-size: 13px;
+  height: auto;
+  left: 140px;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  top: 324px;
+  white-space: nowrap;
+  width: auto;
+}
+.boarding-pass .large-title-T9TBUa {
+  background-color: transparent;
+  bottom: calc(117.97% - 24px);
+  color: var(--azure-radiance);
+  font-size: 15px;
+  height: 20px;
+  left: 0px;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 10.26%;
+}
+.boarding-pass .large-title-VMr6Om {
+  background-color: transparent;
+  color: var(--pizazz-2);
+  font-size: 13px;
+  height: auto;
+  left: 322px;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  top: 324px;
+  white-space: nowrap;
+  width: auto;
+}
+.boarding-pass .large-title-VkPPtx {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 16px;
+  height: auto;
+  left: 53px;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  top: 341px;
+  white-space: nowrap;
+  width: auto;
+}
+.boarding-pass .large-title-a5WPlX {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 16px;
+  height: auto;
+  left: 322px;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  top: 341px;
+  white-space: nowrap;
+  width: auto;
+}
+.boarding-pass .large-title-h53Xns {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 15px;
+  height: 20px;
+  left: 42.16%;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  top: calc(16.41% - 3px);
+  white-space: nowrap;
+  width: 58.92%;
+}
+.boarding-pass .large-title-mzXdH9 {
+  background-color: transparent;
+  color: var(--pizazz-2);
+  font-size: 13px;
+  height: auto;
+  left: 266px;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  top: 158px;
+  white-space: nowrap;
+  width: auto;
+}
+.boarding-pass .large-title-qr8e7q {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 16px;
+  height: auto;
+  left: 140px;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  top: 341px;
+  white-space: nowrap;
+  width: auto;
+}
+.boarding-pass .large-title-xrK1h4 {
+  background-color: transparent;
+  bottom: calc(14.84% - 3px);
+  color: var(--azure-radiance);
+  font-size: 15px;
+  height: 20px;
+  left: 41.71%;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 52.94%;
+}
+.boarding-pass .large-title-xvFZft {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 15px;
+  height: 20px;
+  left: 0px;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  top: calc(16.41% - 3px);
+  white-space: nowrap;
+  width: 31.96%;
+}
+.boarding-pass .left-accessory-PBxZUg {
+  background-color: transparent;
+  height: 44px;
+  left: 0px;
+  position: absolute;
+  top: calc(45.83% - 20px);
+  width: 180px;
+}
+.boarding-pass .navigation-background-PBxZUg {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.boarding-pass .parent-title-iN4sVF {
+  background-color: transparent;
+  height: 22px;
+  left: 26px;
+  position: absolute;
+  text-align: left;
+  top: calc(50.00% - 11px);
+  white-space: nowrap;
+  width: 40px;
+}
+.boarding-pass .qr-pass-C61RwL {
+  background-color: transparent;
+  height: 170px;
+  left: 122px;
+  position: absolute;
+  top: 439px;
+  width: 170px;
+}
+.boarding-pass .tram-fill-copy-h53Xns {
+  background-color: transparent;
+  bottom: calc(44.19% - 18px);
+  height: 41px;
+  left: 0px;
+  position: absolute;
+  width: 41px;
+}
+.border-class-1 {
+  border: 1px solid transparent;
+}
+.border-class-2 {
+  border: 1px solid var(--black);
+}
+.font-class-1 {
+  font-family: 'SFPro Display-Medium', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 500;
+}
+.font-class-10 {
+  color: var(--coral-red);
+  font-family: 'SFPro Text-Medium', Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: -0.24px;
+  line-height: 20px;
+}
+.font-class-2 {
+  color: var(--black);
+  font-family: 'SFPro Text-Regular', Helvetica, Arial, serif;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.87px;
+  line-height: 22px;
+}
+.font-class-3 {
+  font-family: 'SFPro Display-Bold', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.font-class-4 {
+  color: var(--black);
+  font-family: 'SFPro Display-Regular', Helvetica, Arial, serif;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.29px;
+  line-height: 25px;
+}
+.font-class-5 {
+  font-family: 'SFPro Text-Medium', Helvetica, Arial, serif;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: -0.41px;
+  line-height: 22px;
+}
+.font-class-6 {
+  font-family: 'SFPro Display-Bold', Helvetica, Arial, serif;
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0.27px;
+  line-height: 41px;
+}
+.font-class-7 {
+  color: var(--azure-radiance);
+  font-family: 'SFPro Text-Regular', Helvetica, Arial, serif;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.54px;
+  line-height: 22px;
+}
+.font-class-8 {
+  color: var(--ship-gray-2);
+  font-family: 'SFPro Text-Semibold', Helvetica, Arial, serif;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.08px;
+  line-height: 22px;
+}
+.font-class-9 {
+  color: var(--black);
+  font-family: 'SFPro Text-Semibold', Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.30px;
+  line-height: 15px;
+}
+:root {
+  --azure-radiance: rgba(0,122,255,1.0);
+  --black: rgba(0,0,0,1.0);
+  --coral-red: rgba(255,69,58,0.6);
+  --oslo-gray: rgba(138,138,142,1.0);
+  --pizazz: rgba(253,147,0,1.0);
+  --pizazz-2: rgba(255,149,0,1.0);
+  --ship-gray: rgba(60,60,67,0.29);
+  --ship-gray-2: rgba(60,60,67,0.302);
+  --ship-gray-3: rgba(60,60,67,1.0);
+  --white: rgba(255,255,255,1.0);
+}

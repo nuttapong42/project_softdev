@@ -1,0 +1,506 @@
+/* screen - makkasan */
+
+.border-class-1 {
+  border: 1px solid transparent;
+}
+.border-class-2 {
+  border: 1px solid var(--black);
+}
+.font-class-1 {
+  font-family: 'SFPro Display-Medium', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 500;
+}
+.font-class-10 {
+  color: var(--coral-red);
+  font-family: 'SFPro Text-Medium', Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: -0.24px;
+  line-height: 20px;
+}
+.font-class-2 {
+  color: var(--black);
+  font-family: 'SFPro Text-Regular', Helvetica, Arial, serif;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.87px;
+  line-height: 22px;
+}
+.font-class-3 {
+  font-family: 'SFPro Display-Bold', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.font-class-4 {
+  color: var(--black);
+  font-family: 'SFPro Display-Regular', Helvetica, Arial, serif;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.29px;
+  line-height: 25px;
+}
+.font-class-5 {
+  font-family: 'SFPro Text-Medium', Helvetica, Arial, serif;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: -0.41px;
+  line-height: 22px;
+}
+.font-class-6 {
+  font-family: 'SFPro Display-Bold', Helvetica, Arial, serif;
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0.27px;
+  line-height: 41px;
+}
+.font-class-7 {
+  color: var(--azure-radiance);
+  font-family: 'SFPro Text-Regular', Helvetica, Arial, serif;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.54px;
+  line-height: 22px;
+}
+.font-class-8 {
+  color: var(--ship-gray-2);
+  font-family: 'SFPro Text-Semibold', Helvetica, Arial, serif;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.08px;
+  line-height: 22px;
+}
+.font-class-9 {
+  color: var(--black);
+  font-family: 'SFPro Text-Semibold', Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.30px;
+  line-height: 15px;
+}
+.makkasan {
+  background-color: var(--white);
+  height: 896px;
+  overflow: hidden;
+  position: relative;
+  width: 414px;
+}
+.makkasan .back-meduim-PBxZUg {
+  background-color: transparent;
+  height: 23px;
+  left: 6px;
+  position: absolute;
+  top: calc(47.01% - 11px);
+  width: 23px;
+}
+.makkasan .background-EAWbTs {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.makkasan .bars-navig-arge-title-C61RwL {
+  background-color: transparent;
+  height: 140px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 414px;
+}
+.makkasan .battery-hRp5Ot {
+  background-color: transparent;
+  height: 11px;
+  position: absolute;
+  right: 0px;
+  top: calc(50.00% - 6px);
+  width: 24px;
+}
+.makkasan .border-NZfiAq {
+  background-color: transparent;
+  border-radius: 2.7px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.35;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 2px);
+}
+.makkasan .cap-NZfiAq {
+  background-color: transparent;
+  bottom: calc(50.00% - 2px);
+  height: 4px;
+  position: absolute;
+  right: 0px;
+  width: 1px;
+}
+.makkasan .capacity-NZfiAq {
+  background-color: var(--black);
+  border-radius: 1.3px;
+  height: calc(100.00% - 4px);
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  width: 18px;
+}
+.makkasan .cellular-c-ction-path-5BR0lh {
+  background-color: transparent;
+  bottom: 1px;
+  height: 4px;
+  left: 1px;
+  position: absolute;
+  width: 3px;
+}
+.makkasan .cellular-c-ction-path-8awI5F {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 3px;
+}
+.makkasan .cellular-c-ction-path-vAYWZw {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 1px;
+  top: 0px;
+  width: 3px;
+}
+.makkasan .cellular-c-ction-path-vz6XFD {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 3px;
+}
+.makkasan .cellular-connection-hRp5Ot {
+  background-color: transparent;
+  height: calc(100.00% - 7px);
+  position: absolute;
+  right: 50px;
+  top: 4px;
+  width: 17px;
+}
+.makkasan .center-qjua3Q {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.makkasan .center-wkBC2j {
+  background-color: rgba(227,227,227,0.42);
+  border-radius: 13px;
+  height: 26px;
+  left: calc(47.29% - 34px);
+  position: absolute;
+  top: calc(50.00% - 13px);
+  width: 71px;
+}
+.makkasan .controls-p-ght-3-dots-m5qljT {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.makkasan .dot-1-gmuvTZ {
+  background-color: transparent;
+  background-image: url(../img/page-dot---light-11@1x.png);
+  background-size: 100% 100%;
+  height: calc(100.00% - 19px);
+  left: 15px;
+  position: absolute;
+  top: 10px;
+  width: 7px;
+}
+.makkasan .dot-2-gmuvTZ {
+  background-color: transparent;
+  background-image: url(../img/page-dot---light-10@1x.png);
+  background-size: 100% 100%;
+  height: calc(100.00% - 19px);
+  left: calc(50.00% - 4px);
+  position: absolute;
+  top: 10px;
+  width: 7px;
+}
+.makkasan .dot-3-gmuvTZ {
+  background-color: transparent;
+  background-image: url(../img/page-dot---light-10@1x.png);
+  background-size: 100% 100%;
+  height: calc(100.00% - 19px);
+  position: absolute;
+  right: calc(23.44% - 2px);
+  top: 10px;
+  width: 7px;
+}
+.makkasan .exclusion-4-Q7LKIV {
+  background-color: transparent;
+  height: calc(100.00% - 4px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.makkasan .exclusion-5-vAYWZw {
+  background-color: transparent;
+  bottom: 1px;
+  height: 6px;
+  left: 1px;
+  position: absolute;
+  width: 8px;
+}
+.makkasan .exclusion-6-8awI5F {
+  background-color: transparent;
+  bottom: 0px;
+  height: 8px;
+  left: 1px;
+  position: absolute;
+  width: 12px;
+}
+.makkasan .frame-qjua3Q {
+  background-color: transparent;
+  height: calc(100.00% - 6px);
+  left: 0px;
+  position: absolute;
+  top: 3px;
+  width: 100%;
+}
+.makkasan .large-title-2P4qUJ {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 20px;
+  height: auto;
+  left: 28px;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  top: 820px;
+  white-space: nowrap;
+  width: auto;
+}
+.makkasan .large-title-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 20px;
+  height: auto;
+  left: 28px;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  top: 440px;
+  white-space: nowrap;
+  width: auto;
+}
+.makkasan .large-title-QxM5SU {
+  background-color: transparent;
+  color: var(--oslo-gray);
+  font-size: 16px;
+  height: auto;
+  left: 53px;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  top: 517px;
+  white-space: nowrap;
+  width: auto;
+}
+.makkasan .large-title-VMr6Om {
+  background-color: transparent;
+  color: var(--azure-radiance);
+  font-size: 16px;
+  height: auto;
+  left: 53px;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  top: 492px;
+  white-space: nowrap;
+  width: auto;
+}
+.makkasan .large-title-mzXdH9 {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 16px;
+  height: auto;
+  left: 53px;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  top: 467px;
+  white-space: nowrap;
+  width: auto;
+}
+.makkasan .left-accessory-PBxZUg {
+  background-color: transparent;
+  height: 44px;
+  left: 0px;
+  position: absolute;
+  top: calc(45.83% - 20px);
+  width: 180px;
+}
+.makkasan .located-at-g-district-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 16px;
+  height: 221px;
+  left: 53px;
+  line-height: 20px;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: 578px;
+  width: 322px;
+}
+.makkasan .makkasan-PBxZUg {
+  background-color: transparent;
+  bottom: 6px;
+  color: var(--black);
+  height: 42px;
+  left: 14px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 169px;
+}
+.makkasan .navigation-background-PBxZUg {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.makkasan .page-control-light-C61RwL {
+  background-color: transparent;
+  height: 26px;
+  left: 108px;
+  position: absolute;
+  top: 366px;
+  width: 200px;
+}
+.makkasan .parent-title-iN4sVF {
+  background-color: transparent;
+  height: 22px;
+  left: 26px;
+  position: absolute;
+  text-align: left;
+  top: calc(50.00% - 11px);
+  white-space: nowrap;
+  width: 40px;
+}
+.makkasan .spacer-wkBC2j {
+  background-color: transparent;
+  height: calc(100.00% - 6px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.makkasan .status-bar-ASWxeQ {
+  background-color: transparent;
+  height: 18px;
+  left: 21px;
+  position: relative;
+  top: calc(50.00% - 9px);
+  width: calc(100.00% - 35px);
+}
+.makkasan .status-bar-C61RwL {
+  background-color: var(--white);
+  height: 44px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 414px;
+}
+.makkasan .time-KRAbRt {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: calc(100.00% + 2px);
+}
+.makkasan .time-style-hRp5Ot {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 54px;
+}
+.makkasan .tram-fill-copy-C61RwL {
+  background-color: transparent;
+  height: 19px;
+  left: 28px;
+  position: absolute;
+  top: 478px;
+  width: 19px;
+}
+.makkasan .wifi-hRp5Ot {
+  background-color: transparent;
+  height: calc(100.00% - 7px);
+  position: absolute;
+  right: 29px;
+  top: 3px;
+  width: 15px;
+}
+.makkasan .wifi-path-BIj6xZ {
+  background-color: transparent;
+  height: 5px;
+  left: 0px;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.makkasan .wifi-path-Nw9yab {
+  background-color: transparent;
+  bottom: 0px;
+  height: 4px;
+  left: 3px;
+  position: absolute;
+  width: calc(100.00% - 5px);
+}
+.makkasan .wifi-path-Q7LKIV {
+  background-color: transparent;
+  bottom: 0px;
+  height: 3px;
+  position: absolute;
+  right: calc(50.00% - 2px);
+  width: 5px;
+}
+.makkasan .x500866-C61RwL {
+  background-color: transparent;
+  border-radius: 20px;
+  height: 259px;
+  left: 0px;
+  position: absolute;
+  top: 156px;
+  width: 414px;
+}
+:root {
+  --azure-radiance: rgba(0,122,255,1.0);
+  --black: rgba(0,0,0,1.0);
+  --coral-red: rgba(255,69,58,0.6);
+  --oslo-gray: rgba(138,138,142,1.0);
+  --pizazz: rgba(253,147,0,1.0);
+  --pizazz-2: rgba(255,149,0,1.0);
+  --ship-gray: rgba(60,60,67,0.29);
+  --ship-gray-2: rgba(60,60,67,0.302);
+  --ship-gray-3: rgba(60,60,67,1.0);
+  --white: rgba(255,255,255,1.0);
+}

@@ -1,0 +1,865 @@
+/* screen - continue-with-apple-1 */
+
+.border-class-1 {
+  border: 1px solid var(--black);
+}
+.border-class-2 {
+  border: 1px solid transparent;
+}
+.continue-with-apple-1 {
+  background-color: transparent;
+  height: 896px;
+  overflow: hidden;
+  position: relative;
+  width: 414px;
+}
+.continue-with-apple-1 .background-AZQCka {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.continue-with-apple-1 .background-D8lsXo {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.continue-with-apple-1 .bars-navig-ark-search-C61RwL {
+  background-color: transparent;
+  height: 104px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 414px;
+}
+.continue-with-apple-1 .battery-4QZxH1 {
+  background-color: transparent;
+  height: 11px;
+  position: absolute;
+  right: 0px;
+  top: calc(50.00% - 6px);
+  width: 24px;
+}
+.continue-with-apple-1 .battery-hRp5Ot {
+  background-color: transparent;
+  height: 11px;
+  position: absolute;
+  right: 0px;
+  top: calc(50.00% - 6px);
+  width: 24px;
+}
+.continue-with-apple-1 .border-NZfiAq {
+  background-color: transparent;
+  border-radius: 2.7px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.35;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 2px);
+}
+.continue-with-apple-1 .border-YyVCWm {
+  background-color: var(--white);
+  border-radius: 2.7px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.35;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 2px);
+}
+.continue-with-apple-1 .button-1-D8lsXo {
+  background-color: var(--white);
+  height: 44px;
+  left: 8px;
+  position: absolute;
+  top: 3px;
+  width: 44px;
+}
+.continue-with-apple-1 .button-2-D8lsXo {
+  background-color: var(--white);
+  height: 44px;
+  left: calc(26.22% - 12px);
+  position: absolute;
+  top: 3px;
+  width: 44px;
+}
+.continue-with-apple-1 .button-3-D8lsXo {
+  background-color: var(--white);
+  height: 44px;
+  position: absolute;
+  right: calc(49.73% - 22px);
+  top: 3px;
+  width: 44px;
+}
+.continue-with-apple-1 .button-4-D8lsXo {
+  background-color: var(--white);
+  height: 44px;
+  position: absolute;
+  right: calc(26.22% - 12px);
+  top: 3px;
+  width: 44px;
+}
+.continue-with-apple-1 .button-5-D8lsXo {
+  background-color: var(--white);
+  height: 44px;
+  position: absolute;
+  right: 8px;
+  top: 3px;
+  width: 44px;
+}
+.continue-with-apple-1 .button-background-NCkdbP {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.continue-with-apple-1 .button-shape-AULykm {
+  background-color: transparent;
+  border-radius: 6px;
+  height: calc(100.00% + 18px);
+  left: -9px;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 18px);
+}
+.continue-with-apple-1 .cap-NZfiAq {
+  background-color: transparent;
+  bottom: calc(50.00% - 2px);
+  height: 4px;
+  position: absolute;
+  right: 1px;
+  width: 1px;
+}
+.continue-with-apple-1 .cap-YyVCWm {
+  background-color: transparent;
+  bottom: calc(50.00% - 2px);
+  height: 4px;
+  position: absolute;
+  right: 1px;
+  width: 1px;
+}
+.continue-with-apple-1 .capacity-NZfiAq {
+  background-color: var(--black);
+  border-radius: 1.3px;
+  height: calc(100.00% - 4px);
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  width: 18px;
+}
+.continue-with-apple-1 .capacity-YyVCWm {
+  background-color: var(--white);
+  border-radius: 1.3px;
+  height: calc(100.00% - 4px);
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  width: 18px;
+}
+.continue-with-apple-1 .cellular-c-ction-path-1EDXgS {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 3px;
+}
+.continue-with-apple-1 .cellular-c-ction-path-5BR0lh {
+  background-color: transparent;
+  bottom: 1px;
+  height: 4px;
+  left: 1px;
+  position: absolute;
+  width: 3px;
+}
+.continue-with-apple-1 .cellular-c-ction-path-7HBbtY {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 1px;
+  top: 0px;
+  width: 3px;
+}
+.continue-with-apple-1 .cellular-c-ction-path-8awI5F {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 3px;
+}
+.continue-with-apple-1 .cellular-c-ction-path-8xrifg {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 3px;
+}
+.continue-with-apple-1 .cellular-c-ction-path-qBt9Bd {
+  background-color: transparent;
+  bottom: 1px;
+  height: 4px;
+  left: 1px;
+  position: absolute;
+  width: 3px;
+}
+.continue-with-apple-1 .cellular-c-ction-path-vAYWZw {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 1px;
+  top: 0px;
+  width: 3px;
+}
+.continue-with-apple-1 .cellular-c-ction-path-vz6XFD {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 3px;
+}
+.continue-with-apple-1 .cellular-connection-4QZxH1 {
+  background-color: transparent;
+  height: calc(100.00% - 7px);
+  position: absolute;
+  right: 50px;
+  top: 4px;
+  width: 17px;
+}
+.continue-with-apple-1 .cellular-connection-hRp5Ot {
+  background-color: transparent;
+  height: calc(100.00% - 7px);
+  position: absolute;
+  right: 50px;
+  top: 4px;
+  width: 17px;
+}
+.continue-with-apple-1 .continue-with-apple-C61RwL {
+  background-color: transparent;
+  height: 44px;
+  left: 57px;
+  position: absolute;
+  top: 650px;
+  width: 300px;
+}
+.continue-with-apple-1 .dictation-glyph-Gvn0Ft {
+  background-color: transparent;
+  height: 1px;
+  position: absolute;
+  right: 30px;
+  top: 7px;
+  width: 1px;
+}
+.continue-with-apple-1 .exclusion-4-MxZx4U {
+  background-color: transparent;
+  height: calc(100.00% - 4px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.continue-with-apple-1 .exclusion-4-Q7LKIV {
+  background-color: transparent;
+  height: calc(100.00% - 4px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.continue-with-apple-1 .exclusion-5-7HBbtY {
+  background-color: transparent;
+  bottom: 0px;
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  width: 8px;
+}
+.continue-with-apple-1 .exclusion-5-vAYWZw {
+  background-color: transparent;
+  bottom: 0px;
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  width: 8px;
+}
+.continue-with-apple-1 .exclusion-6-1EDXgS {
+  background-color: transparent;
+  bottom: 1px;
+  height: 8px;
+  left: 1px;
+  position: absolute;
+  width: 12px;
+}
+.continue-with-apple-1 .exclusion-6-8awI5F {
+  background-color: transparent;
+  bottom: 1px;
+  height: 8px;
+  left: 1px;
+  position: absolute;
+  width: 12px;
+}
+.continue-with-apple-1 .frame-Gvn0Ft {
+  background-color: transparent;
+  height: calc(100.00% - 14px);
+  left: 5px;
+  position: absolute;
+  top: 7px;
+  width: 24px;
+}
+.continue-with-apple-1 .frame-UxQCoF {
+  background-color: var(--white);
+  height: 44px;
+  left: 0px;
+  opacity: 0.0;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.continue-with-apple-1 .frame-l1GxYx {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 1px);
+}
+.continue-with-apple-1 .frame-x4V6sB {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 1px);
+}
+.continue-with-apple-1 .group-84-oJhBTD {
+  background-color: transparent;
+  height: calc(100.00% - 16px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.continue-with-apple-1 .group-85-C61RwL {
+  background-color: transparent;
+  height: 104px;
+  left: 57px;
+  position: absolute;
+  top: 159px;
+  width: 230px;
+}
+.continue-with-apple-1 .home-indicator-BJ28qq {
+  background-color: var(--white);
+  border-radius: 100px;
+  bottom: calc(27.59% - 1px);
+  height: 5px;
+  left: 121px;
+  position: absolute;
+  width: calc(100.00% - 241px);
+}
+.continue-with-apple-1 .home-indicator-C61RwL {
+  background-color: var(--white);
+  height: 34px;
+  left: 0px;
+  position: absolute;
+  top: 862px;
+  width: 414px;
+}
+.continue-with-apple-1 .img5248-xwQzQP {
+  background-color: transparent;
+  height: 100%;
+  left: -62px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 180px);
+}
+.continue-with-apple-1 .mask-group-2-C61RwL {
+  background-color: transparent;
+  height: 896px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 414px;
+}
+.continue-with-apple-1 .navigation-background-oJhBTD {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.continue-with-apple-1 .placeholder-label-UxQCoF {
+  background-color: transparent;
+  bottom: 1px;
+  color: var(--white);
+  height: 24px;
+  left: 102px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: calc(100.00% - 202px);
+}
+.continue-with-apple-1 .search-field-IYJHyZ {
+  background-color: transparent;
+  background-image: url(../img/search-field-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 16px;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% - 32px);
+}
+.continue-with-apple-1 .search-field-type-oJhBTD {
+  background-color: transparent;
+  bottom: 10px;
+  height: 36px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.continue-with-apple-1 .search-glyph-Gvn0Ft {
+  background-color: transparent;
+  height: 22px;
+  left: 4px;
+  position: absolute;
+  top: calc(50.00% - 11px);
+  width: 25px;
+}
+.continue-with-apple-1 .span0-0DfGXk {
+  color: rgba(255,255,255,1.0);
+  font-family: 'SFPro Text-Medium', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: -0.00px;
+}
+.continue-with-apple-1 .span0-9Y5H3B {
+  color: rgba(255,255,255,1.0);
+  font-family: 'SFPro Display-Bold', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.continue-with-apple-1 .span0-Zk50JM {
+  font-family: 'SFPro Text-Medium', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: -0.00px;
+}
+.continue-with-apple-1 .span1-0DfGXk {
+  color: rgba(255,255,255,1.0);
+  font-family: 'SFPro Text-Medium', Helvetica, Arial, serif;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 500;
+}
+.continue-with-apple-1 .span1-9Y5H3B {
+  color: rgba(255,255,255,1.0);
+  font-family: 'SFPro Display-Regular', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.continue-with-apple-1 .span1-Zk50JM {
+  font-family: 'SFPro Text-Medium', Helvetica, Arial, serif;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 500;
+}
+.continue-with-apple-1 .span2-9Y5H3B {
+  color: rgba(255,255,255,1.0);
+  font-family: 'SFPro Display-Bold', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.continue-with-apple-1 .span3-9Y5H3B {
+  color: rgba(255,255,255,1.0);
+  font-family: 'SFPro Display-Regular', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.continue-with-apple-1 .status-bar-ASWxeQ {
+  background-color: transparent;
+  height: 18px;
+  left: 21px;
+  position: relative;
+  top: calc(50.00% - 9px);
+  width: calc(100.00% - 35px);
+}
+.continue-with-apple-1 .status-bar-C61RwL {
+  background-color: var(--white);
+  height: 44px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 375px;
+}
+.continue-with-apple-1 .status-bar-Ogxtjk {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.continue-with-apple-1 .status-bar-UxQCoF {
+  background-color: transparent;
+  height: 18px;
+  left: 21px;
+  position: absolute;
+  top: 13px;
+  width: calc(100.00% - 35px);
+}
+.continue-with-apple-1 .symbol-Gvn0Ft {
+  background-color: transparent;
+  height: 20px;
+  left: 7px;
+  position: absolute;
+  top: calc(50.00% - 10px);
+  width: 20px;
+}
+.continue-with-apple-1 .symbol-VWu5sy {
+  background-color: transparent;
+  bottom: calc(31.25% - 9px);
+  height: 28px;
+  position: absolute;
+  right: calc(44.44% - 12px);
+  text-align: center;
+  white-space: nowrap;
+  width: 26px;
+}
+.continue-with-apple-1 .symbol-dZNLX7 {
+  background-color: transparent;
+  bottom: calc(25.00% - 7px);
+  height: 28px;
+  position: absolute;
+  right: calc(46.15% - 8px);
+  text-align: center;
+  white-space: nowrap;
+  width: 18px;
+}
+.continue-with-apple-1 .symbol-e2Dfzs {
+  background-color: transparent;
+  bottom: calc(31.25% - 9px);
+  height: 28px;
+  position: absolute;
+  right: calc(42.86% - 13px);
+  text-align: center;
+  white-space: nowrap;
+  width: 30px;
+}
+.continue-with-apple-1 .symbol-g3xymC {
+  background-color: transparent;
+  color: var(--white);
+  font-family: "SF Pro Text", Helvetica, Arial, serif;
+  font-size: 12px;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: -0.01px;
+  line-height: 12px;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.continue-with-apple-1 .symbol-nJB6xs {
+  background-color: transparent;
+  bottom: calc(31.25% - 9px);
+  height: 28px;
+  position: absolute;
+  right: calc(42.86% - 13px);
+  text-align: center;
+  white-space: nowrap;
+  width: 30px;
+}
+.continue-with-apple-1 .symbol-vQ759w {
+  background-color: transparent;
+  bottom: calc(31.25% - 9px);
+  height: 28px;
+  position: absolute;
+  right: calc(46.15% - 8px);
+  text-align: center;
+  white-space: nowrap;
+  width: 18px;
+}
+.continue-with-apple-1 .symbol-x4V6sB {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 3px;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 5px);
+}
+.continue-with-apple-1 .symbol-xiJbvm {
+  background-color: transparent;
+  color: transparent;
+  font-family: "SF Pro Text", Helvetica, Arial, serif;
+  font-size: 12px;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: -0.01px;
+  line-height: 12px;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.continue-with-apple-1 .time-3gMaos {
+  background-color: transparent;
+  color: var(--white);
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: calc(100.00% + 2px);
+}
+.continue-with-apple-1 .time-KRAbRt {
+  background-color: transparent;
+  color: var(--black);
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: calc(100.00% + 2px);
+}
+.continue-with-apple-1 .time-style-4QZxH1 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 54px;
+}
+.continue-with-apple-1 .time-style-hRp5Ot {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 54px;
+}
+.continue-with-apple-1 .title1-rFX9Nh {
+  background-color: transparent;
+  color: var(--white);
+  font-family: "SF Pro Display", Helvetica, Arial, serif;
+  font-size: 30px;
+  height: 106px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 34px;
+  position: absolute;
+  text-align: left;
+  top: 0.96%;
+  white-space: nowrap;
+  width: 100.88%;
+}
+.continue-with-apple-1 .toolbar-C61RwL {
+  background-color: transparent;
+  height: 83px;
+  left: 0px;
+  position: absolute;
+  top: 813px;
+  width: 414px;
+}
+.continue-with-apple-1 .wifi-4QZxH1 {
+  background-color: transparent;
+  height: calc(100.00% - 7px);
+  position: absolute;
+  right: 29px;
+  top: 3px;
+  width: 15px;
+}
+.continue-with-apple-1 .wifi-hRp5Ot {
+  background-color: transparent;
+  height: calc(100.00% - 7px);
+  position: absolute;
+  right: 29px;
+  top: 3px;
+  width: 15px;
+}
+.continue-with-apple-1 .wifi-path-BIj6xZ {
+  background-color: transparent;
+  height: 5px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.continue-with-apple-1 .wifi-path-HUdXgC {
+  background-color: transparent;
+  height: 5px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.continue-with-apple-1 .wifi-path-MxZx4U {
+  background-color: transparent;
+  bottom: 0px;
+  height: 3px;
+  position: absolute;
+  right: calc(50.00% - 2px);
+  width: 5px;
+}
+.continue-with-apple-1 .wifi-path-Nw9yab {
+  background-color: transparent;
+  bottom: 1px;
+  height: 4px;
+  left: 3px;
+  position: absolute;
+  width: calc(100.00% - 5px);
+}
+.continue-with-apple-1 .wifi-path-Q7LKIV {
+  background-color: transparent;
+  bottom: 0px;
+  height: 3px;
+  position: absolute;
+  right: calc(50.00% - 2px);
+  width: 5px;
+}
+.continue-with-apple-1 .wifi-path-wXVyUC {
+  background-color: transparent;
+  bottom: 1px;
+  height: 4px;
+  left: 3px;
+  position: absolute;
+  width: calc(100.00% - 5px);
+}
+.continue-with-apple-1 .x-VzsIqu {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'HelveticaNeue-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 2px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.continue-with-apple-1 .x-continue-with-appl-NCkdbP {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'SFPro Display-Medium', Helvetica, Arial, serif;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 500;
+  height: 26px;
+  left: 14px;
+  letter-spacing: 0.38px;
+  line-height: 24px;
+  overflow: hidden;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  white-space: nowrap;
+  width: calc(100.00% - 26px);
+}
+.font-class-1 {
+  font-family: 'SFPro Display-Medium', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 500;
+}
+.font-class-10 {
+  font-family: 'SFPro Display-Bold', Helvetica, Arial, serif;
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0.27px;
+  line-height: 41px;
+}
+.font-class-2 {
+  color: var(--black);
+  font-family: 'SFPro Text-Regular', Helvetica, Arial, serif;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.87px;
+  line-height: 22px;
+}
+.font-class-3 {
+  color: var(--black);
+  font-family: 'SFPro Display-Regular', Helvetica, Arial, serif;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.29px;
+  line-height: 25px;
+}
+.font-class-4 {
+  font-family: 'SFPro Text-Semibold', Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.30px;
+  line-height: 15px;
+}
+.font-class-5 {
+  color: var(--azure-radiance-2);
+  font-family: 'SFPro Text-Light', Helvetica, Arial, serif;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 300;
+  letter-spacing: -0.01px;
+  line-height: 22px;
+}
+.font-class-6 {
+  font-family: 'SFPro Display-Bold', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.font-class-7 {
+  font-family: 'SFPro Text-Medium', Helvetica, Arial, serif;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: -0.41px;
+  line-height: 22px;
+}
+.font-class-8 {
+  color: var(--ship-gray-2);
+  font-family: 'SFPro Text-Semibold', Helvetica, Arial, serif;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.08px;
+  line-height: 22px;
+}
+.font-class-9 {
+  font-family: 'SFPro Text-Regular', Helvetica, Arial, serif;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.56px;
+  line-height: 22px;
+}
+:root {
+  --azure-radiance: rgba(0,122,255,1.0);
+  --azure-radiance-2: rgba(10,132,255,1.0);
+  --black: rgba(0,0,0,1.0);
+  --coral-red: rgba(255,69,58,0.6);
+  --pizazz: rgba(253,147,0,1.0);
+  --pizazz-2: rgba(255,149,0,1.0);
+  --ship-gray: rgba(60,60,67,0.29);
+  --ship-gray-2: rgba(60,60,67,0.302);
+  --ship-gray-3: rgba(60,60,67,1.0);
+  --white: rgba(255,255,255,1.0);
+}

@@ -1,0 +1,1667 @@
+/* screen - timetable */
+
+.border-class-1 {
+  border: 1px solid transparent;
+}
+.border-class-2 {
+  border: 1px solid var(--black);
+}
+.font-class-1 {
+  font-family: 'SFPro Display-Medium', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 500;
+}
+.font-class-10 {
+  color: var(--coral-red);
+  font-family: 'SFPro Text-Medium', Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: -0.24px;
+  line-height: 20px;
+}
+.font-class-2 {
+  color: var(--black);
+  font-family: 'SFPro Text-Regular', Helvetica, Arial, serif;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.87px;
+  line-height: 22px;
+}
+.font-class-3 {
+  font-family: 'SFPro Display-Bold', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.font-class-4 {
+  color: var(--black);
+  font-family: 'SFPro Display-Regular', Helvetica, Arial, serif;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.29px;
+  line-height: 25px;
+}
+.font-class-5 {
+  font-family: 'SFPro Text-Medium', Helvetica, Arial, serif;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: -0.41px;
+  line-height: 22px;
+}
+.font-class-6 {
+  font-family: 'SFPro Display-Bold', Helvetica, Arial, serif;
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0.27px;
+  line-height: 41px;
+}
+.font-class-7 {
+  color: var(--azure-radiance);
+  font-family: 'SFPro Text-Regular', Helvetica, Arial, serif;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.54px;
+  line-height: 22px;
+}
+.font-class-8 {
+  color: var(--ship-gray-2);
+  font-family: 'SFPro Text-Semibold', Helvetica, Arial, serif;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.08px;
+  line-height: 22px;
+}
+.font-class-9 {
+  color: var(--black);
+  font-family: 'SFPro Text-Semibold', Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.30px;
+  line-height: 15px;
+}
+.timetable {
+  background-color: var(--white);
+  height: 1114px;
+  overflow: hidden;
+  position: relative;
+  width: 414px;
+}
+.timetable .arrow-copy-2dSYCM {
+  background-color: transparent;
+  height: 12px;
+  position: absolute;
+  right: 13px;
+  top: calc(49.32% - 6px);
+  width: 12px;
+}
+.timetable .arrow-copy-4fqBU0 {
+  background-color: transparent;
+  height: 12px;
+  position: absolute;
+  right: 13px;
+  top: calc(49.32% - 6px);
+  width: 12px;
+}
+.timetable .arrow-copy-DyA7H7 {
+  background-color: transparent;
+  height: 12px;
+  position: absolute;
+  right: 13px;
+  top: calc(49.32% - 6px);
+  width: 12px;
+}
+.timetable .arrow-copy-F95zDd {
+  background-color: transparent;
+  height: 12px;
+  position: absolute;
+  right: 13px;
+  top: calc(49.32% - 6px);
+  width: 12px;
+}
+.timetable .arrow-copy-GIJknL {
+  background-color: transparent;
+  height: 12px;
+  position: absolute;
+  right: 13px;
+  top: calc(49.32% - 6px);
+  width: 12px;
+}
+.timetable .arrow-copy-Mcqwx0 {
+  background-color: transparent;
+  height: 12px;
+  position: absolute;
+  right: 13px;
+  top: calc(49.32% - 6px);
+  width: 12px;
+}
+.timetable .arrow-copy-NWK8as {
+  background-color: transparent;
+  height: 12px;
+  position: absolute;
+  right: 13px;
+  top: calc(49.32% - 6px);
+  width: 12px;
+}
+.timetable .arrow-copy-OmLLsh {
+  background-color: transparent;
+  height: 12px;
+  position: absolute;
+  right: 13px;
+  top: calc(49.32% - 6px);
+  width: 12px;
+}
+.timetable .arrow-copy-muFJUc {
+  background-color: transparent;
+  height: 12px;
+  position: absolute;
+  right: 13px;
+  top: calc(49.32% - 6px);
+  width: 12px;
+}
+.timetable .arrowforward-KsyT5A {
+  background-color: transparent;
+  height: 18px;
+  position: absolute;
+  right: calc(49.11% - 9px);
+  top: calc(46.03% - 8px);
+  width: 18px;
+}
+.timetable .back-meduim-njExNi {
+  background-color: transparent;
+  height: 23px;
+  left: 6px;
+  position: absolute;
+  top: calc(47.01% - 11px);
+  width: 23px;
+}
+.timetable .background-C7AEIO {
+  background-color: transparent;
+  border-radius: 13px;
+  height: calc(100.00% + 180px);
+  left: -90px;
+  position: absolute;
+  top: -80px;
+  width: calc(100.00% + 180px);
+}
+.timetable .background-r7NVZy {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.timetable .bars-navig-arge-title-TXD4Rx {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.timetable .battery-RZl3Dx {
+  background-color: transparent;
+  height: 11px;
+  position: absolute;
+  right: 0px;
+  top: calc(50.00% - 6px);
+  width: 24px;
+}
+.timetable .bg-0FbFGY {
+  background-color: var(--white);
+  height: 100%;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.timetable .bg-1rLtud {
+  background-color: var(--white);
+  height: 100%;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.timetable .bg-2c5jxA {
+  background-color: var(--white);
+  height: 100%;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.timetable .bg-JkccmB {
+  background-color: var(--white);
+  height: 100%;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.timetable .bg-TIfxwQ {
+  background-color: var(--white);
+  height: 100%;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.timetable .bg-TuZJln {
+  background-color: var(--white);
+  height: 100%;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.timetable .bg-fQNTDn {
+  background-color: var(--white);
+  height: 100%;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.timetable .bg-gixHxz {
+  background-color: var(--white);
+  height: 100%;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.timetable .bg-l2awdb {
+  background-color: var(--white);
+  height: 100%;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.timetable .booking-njExNi {
+  background-color: transparent;
+  bottom: 6px;
+  color: var(--black);
+  height: 42px;
+  left: 14px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 131px;
+}
+.timetable .border-4CCPuH {
+  background-color: transparent;
+  border-radius: 2.7px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.35;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 2px);
+}
+.timetable .cap-4CCPuH {
+  background-color: transparent;
+  bottom: calc(50.00% - 2px);
+  height: 4px;
+  position: absolute;
+  right: 0px;
+  width: 1px;
+}
+.timetable .capacity-4CCPuH {
+  background-color: var(--black);
+  border-radius: 1.3px;
+  height: calc(100.00% - 4px);
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  width: 18px;
+}
+.timetable .cellular-c-ction-path-0eN3dw {
+  background-color: transparent;
+  bottom: 1px;
+  height: 4px;
+  left: 1px;
+  position: absolute;
+  width: 3px;
+}
+.timetable .cellular-c-ction-path-bcQvfe {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 3px;
+}
+.timetable .cellular-c-ction-path-c0KNom {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 1px;
+  top: 0px;
+  width: 3px;
+}
+.timetable .cellular-c-ction-path-mQVIPH {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 1px;
+  top: 0px;
+  width: 3px;
+}
+.timetable .cellular-connection-RZl3Dx {
+  background-color: transparent;
+  height: calc(100.00% - 7px);
+  position: absolute;
+  right: 50px;
+  top: 4px;
+  width: 17px;
+}
+.timetable .disclosure-Dj4L9M {
+  background-color: transparent;
+  height: 100%;
+  left: 24px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% - 39px);
+}
+.timetable .disclosure-OvnlFz {
+  background-color: transparent;
+  height: 100%;
+  left: 24px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% - 39px);
+}
+.timetable .disclosure-UbxeHx {
+  background-color: transparent;
+  height: 100%;
+  left: 24px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% - 39px);
+}
+.timetable .disclosure-ejwhH4 {
+  background-color: transparent;
+  height: 100%;
+  left: 24px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% - 39px);
+}
+.timetable .disclosure-jhrq7G {
+  background-color: transparent;
+  height: 100%;
+  left: 24px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% - 39px);
+}
+.timetable .disclosure-lnEEdp {
+  background-color: transparent;
+  height: 100%;
+  left: 24px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% - 39px);
+}
+.timetable .disclosure-oBpgx7 {
+  background-color: transparent;
+  height: 100%;
+  left: 24px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% - 39px);
+}
+.timetable .disclosure-ogrTzT {
+  background-color: transparent;
+  height: 100%;
+  left: 24px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% - 39px);
+}
+.timetable .disclosure-pdxZ1l {
+  background-color: transparent;
+  height: 100%;
+  left: 24px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% - 39px);
+}
+.timetable .exclusion-4-UJrX5M {
+  background-color: transparent;
+  height: calc(100.00% - 4px);
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.timetable .exclusion-5-c0KNom {
+  background-color: transparent;
+  bottom: 0px;
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  width: 8px;
+}
+.timetable .exclusion-6-mQVIPH {
+  background-color: transparent;
+  bottom: 0px;
+  height: 8px;
+  left: 0px;
+  position: absolute;
+  width: 12px;
+}
+.timetable .group-1-2dSYCM {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.timetable .group-1-4fqBU0 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.timetable .group-1-DyA7H7 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.timetable .group-1-F95zDd {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.timetable .group-1-GIJknL {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.timetable .group-1-Mcqwx0 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.timetable .group-1-NWK8as {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.timetable .group-1-OmLLsh {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.timetable .group-1-muFJUc {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.timetable .group-25-48BnBP {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.timetable .group-25-nCPWzw {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.timetable .group-26-KsyT5A {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 122px;
+}
+.timetable .group-33-C7AEIO {
+  background-color: transparent;
+  height: 81px;
+  left: 14px;
+  position: absolute;
+  top: 18px;
+  width: calc(100.00% - 28px);
+}
+.timetable .group-34-sDLNVS {
+  background-color: transparent;
+  bottom: 23px;
+  height: 121px;
+  left: 16px;
+  position: absolute;
+  width: calc(100.00% - 32px);
+}
+.timetable .group-38-049wTs {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.timetable .group-38-CHKI5f {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.timetable .group-38-I2s3ps {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.timetable .group-38-hhZYRq {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.timetable .group-38-rLgrv9 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.timetable .group-38-yGHgUn {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.timetable .group-38-zcchbS {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.timetable .group-40-4Qo1uz {
+  background-color: transparent;
+  height: 85px;
+  left: 0px;
+  position: absolute;
+  top: calc(25.00% - 21px);
+  width: 100%;
+}
+.timetable .group-41-4Qo1uz {
+  background-color: transparent;
+  height: 85px;
+  left: 0px;
+  position: absolute;
+  top: calc(37.50% - 32px);
+  width: 100%;
+}
+.timetable .group-42-4Qo1uz {
+  background-color: transparent;
+  height: 85px;
+  left: 0px;
+  position: absolute;
+  top: calc(50.00% - 42px);
+  width: 100%;
+}
+.timetable .group-43-4Qo1uz {
+  background-color: transparent;
+  bottom: calc(37.50% - 32px);
+  height: 85px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.timetable .group-44-4Qo1uz {
+  background-color: transparent;
+  bottom: calc(25.00% - 21px);
+  height: 85px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.timetable .group-45-4Qo1uz {
+  background-color: transparent;
+  bottom: 85px;
+  height: 85px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.timetable .group-46-4Qo1uz {
+  background-color: transparent;
+  bottom: 0px;
+  height: 85px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.timetable .group-48-4Qo1uz {
+  background-color: transparent;
+  height: 85px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.timetable .group-49-4Qo1uz {
+  background-color: transparent;
+  height: 85px;
+  left: 0px;
+  position: absolute;
+  top: 85px;
+  width: 100%;
+}
+.timetable .group-73-sbe5OJ {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.timetable .group-74-Z1JSTw {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.timetable .group-75-C61RwL {
+  background-color: var(--white);
+  height: 224px;
+  left: 0px;
+  position: absolute;
+  top: 79px;
+  width: 414px;
+}
+.timetable .group-76-C61RwL {
+  background-color: transparent;
+  height: 140px;
+  left: 0px;
+  position: absolute;
+  top: 1px;
+  width: 414px;
+}
+.timetable .group-79-C61RwL {
+  background-color: transparent;
+  height: 765px;
+  left: 0px;
+  position: absolute;
+  top: 348px;
+  width: 414px;
+}
+.timetable .large-title-049wTs {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 16px;
+  height: 21px;
+  left: 12.80%;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  top: calc(20.31% - 4px);
+  white-space: nowrap;
+  width: 30.19%;
+}
+.timetable .large-title-1YovTx {
+  background-color: transparent;
+  bottom: calc(43.75% - 9px);
+  color: rgba(50,215,75,1.0);
+  font-size: 16px;
+  height: 21px;
+  left: 12.80%;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 28.02%;
+}
+.timetable .large-title-48BnBP {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 16px;
+  height: 21px;
+  left: 12.80%;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  top: calc(20.31% - 4px);
+  white-space: nowrap;
+  width: 30.19%;
+}
+.timetable .large-title-4TShLK {
+  background-color: transparent;
+  bottom: calc(118.85% - 24px);
+  color: var(--azure-radiance);
+  font-size: 15px;
+  height: 20px;
+  left: 2.46%;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 13.93%;
+}
+.timetable .large-title-BZx9mq {
+  background-color: transparent;
+  bottom: calc(118.85% - 24px);
+  color: var(--azure-radiance);
+  font-size: 15px;
+  height: 20px;
+  left: 0.28%;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 9.89%;
+}
+.timetable .large-title-CHKI5f {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 16px;
+  height: 21px;
+  left: 12.80%;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  top: calc(20.31% - 4px);
+  white-space: nowrap;
+  width: 30.19%;
+}
+.timetable .large-title-CqnGFX {
+  background-color: transparent;
+  bottom: calc(15.57% - 3px);
+  color: var(--azure-radiance);
+  font-size: 15px;
+  height: 20px;
+  left: 5.08%;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 23.45%;
+}
+.timetable .large-title-I2s3ps {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 16px;
+  height: 21px;
+  left: 12.80%;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  top: calc(20.31% - 4px);
+  white-space: nowrap;
+  width: 30.19%;
+}
+.timetable .large-title-JlWWTe {
+  background-color: transparent;
+  bottom: calc(43.75% - 9px);
+  color: rgba(50,215,75,1.0);
+  font-size: 16px;
+  height: 21px;
+  left: 12.80%;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 29.23%;
+}
+.timetable .large-title-KsyT5A {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 15px;
+  height: 20px;
+  left: 0.28%;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  top: calc(13.93% - 3px);
+  white-space: nowrap;
+  width: 30.79%;
+}
+.timetable .large-title-T6yMx5 {
+  background-color: transparent;
+  bottom: calc(43.75% - 9px);
+  color: rgba(50,215,75,1.0);
+  font-size: 16px;
+  height: 21px;
+  left: 12.80%;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 29.23%;
+}
+.timetable .large-title-TeNyoq {
+  background-color: transparent;
+  bottom: calc(43.75% - 9px);
+  color: rgba(238,27,36,1.0);
+  font-size: 16px;
+  height: 21px;
+  left: 12.80%;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 37.68%;
+}
+.timetable .large-title-beULAP {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 15px;
+  height: 20px;
+  left: 14.75%;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  top: calc(43.44% - 9px);
+  white-space: nowrap;
+  width: 86.89%;
+}
+.timetable .large-title-g7HHJS {
+  background-color: transparent;
+  bottom: calc(43.75% - 9px);
+  color: rgba(50,215,75,1.0);
+  font-size: 16px;
+  height: 21px;
+  left: 12.80%;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 27.29%;
+}
+.timetable .large-title-hhZYRq {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 16px;
+  height: 21px;
+  left: 12.80%;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  top: calc(20.31% - 4px);
+  white-space: nowrap;
+  width: 30.19%;
+}
+.timetable .large-title-j3XiBi {
+  background-color: transparent;
+  bottom: calc(43.75% - 9px);
+  color: rgba(50,215,75,1.0);
+  font-size: 16px;
+  height: 21px;
+  left: 12.80%;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 28.50%;
+}
+.timetable .large-title-km7kLX {
+  background-color: transparent;
+  bottom: calc(15.57% - 3px);
+  color: var(--azure-radiance);
+  font-size: 15px;
+  height: 20px;
+  left: 14.75%;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 81.15%;
+}
+.timetable .large-title-mR6OY7 {
+  background-color: transparent;
+  bottom: calc(43.75% - 9px);
+  color: rgba(50,215,75,1.0);
+  font-size: 16px;
+  height: 21px;
+  left: 12.80%;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 29.23%;
+}
+.timetable .large-title-nCPWzw {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 16px;
+  height: 21px;
+  left: 12.80%;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  top: calc(17.19% - 4px);
+  white-space: nowrap;
+  width: 30.19%;
+}
+.timetable .large-title-rLgrv9 {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 16px;
+  height: 21px;
+  left: 12.80%;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  top: calc(20.31% - 4px);
+  white-space: nowrap;
+  width: 30.19%;
+}
+.timetable .large-title-rlxxe5 {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 15px;
+  height: 20px;
+  left: 5.08%;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  top: calc(43.44% - 9px);
+  white-space: nowrap;
+  width: 29.94%;
+}
+.timetable .large-title-ufxVKL {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 15px;
+  height: 20px;
+  left: 2.46%;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  top: calc(13.93% - 3px);
+  white-space: nowrap;
+  width: 89.34%;
+}
+.timetable .large-title-vNrfMO {
+  background-color: transparent;
+  bottom: calc(43.75% - 9px);
+  color: rgba(50,215,75,1.0);
+  font-size: 16px;
+  height: 21px;
+  left: 12.80%;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 28.50%;
+}
+.timetable .large-title-xnViQx {
+  background-color: transparent;
+  bottom: calc(46.88% - 10px);
+  color: rgba(255,204,0,1.0);
+  font-size: 16px;
+  height: 21px;
+  left: 12.80%;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 27.54%;
+}
+.timetable .large-title-yGHgUn {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 16px;
+  height: 21px;
+  left: 12.80%;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  top: calc(20.31% - 4px);
+  white-space: nowrap;
+  width: 30.19%;
+}
+.timetable .large-title-zcchbS {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 16px;
+  height: 21px;
+  left: 12.80%;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  top: calc(20.31% - 4px);
+  white-space: nowrap;
+  width: 30.19%;
+}
+.timetable .left-accessory-njExNi {
+  background-color: transparent;
+  height: 44px;
+  left: 0px;
+  position: absolute;
+  top: calc(45.83% - 20px);
+  width: 180px;
+}
+.timetable .navigation-background-njExNi {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.timetable .parent-title-N86JIR {
+  background-color: transparent;
+  height: 22px;
+  left: 26px;
+  position: absolute;
+  text-align: left;
+  top: calc(50.00% - 11px);
+  white-space: nowrap;
+  width: 40px;
+}
+.timetable .right-accessory-0FbFGY {
+  background-color: var(--azure-radiance);
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 189px;
+}
+.timetable .right-accessory-1rLtud {
+  background-color: var(--azure-radiance);
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 189px;
+}
+.timetable .right-accessory-2c5jxA {
+  background-color: var(--azure-radiance);
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 189px;
+}
+.timetable .right-accessory-JkccmB {
+  background-color: var(--azure-radiance);
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 189px;
+}
+.timetable .right-accessory-TIfxwQ {
+  background-color: var(--azure-radiance);
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 189px;
+}
+.timetable .right-accessory-TuZJln {
+  background-color: var(--azure-radiance);
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 189px;
+}
+.timetable .right-accessory-fQNTDn {
+  background-color: var(--azure-radiance);
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 189px;
+}
+.timetable .right-accessory-gixHxz {
+  background-color: var(--azure-radiance);
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 189px;
+}
+.timetable .right-accessory-l2awdb {
+  background-color: var(--azure-radiance);
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 189px;
+}
+.timetable .row-large-2pxR3x {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.timetable .row-large-BRIuLs {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.timetable .row-large-FNCe1V {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.timetable .row-large-Rhmsym {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.timetable .row-large-UZlIT5 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.timetable .row-large-pi14P7 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.timetable .row-large-u8L17K {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.timetable .row-large-xze11T {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.timetable .row-large-z3zgVu {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.timetable .separator-0FbFGY {
+  background-color: var(--white);
+  bottom: 0px;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.timetable .separator-1rLtud {
+  background-color: var(--white);
+  bottom: 0px;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.timetable .separator-2c5jxA {
+  background-color: var(--white);
+  bottom: 0px;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.timetable .separator-3YdSja {
+  background-color: var(--ship-gray);
+  bottom: 0px;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.timetable .separator-3fIfmW {
+  background-color: var(--ship-gray);
+  bottom: 0px;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.timetable .separator-5GPZAp {
+  background-color: var(--ship-gray);
+  bottom: 0px;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.timetable .separator-8HYfOm {
+  background-color: var(--ship-gray);
+  bottom: 0px;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.timetable .separator-JkccmB {
+  background-color: var(--white);
+  bottom: 0px;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.timetable .separator-KfeeK5 {
+  background-color: var(--ship-gray);
+  bottom: 0px;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.timetable .separator-Ox1xAk {
+  background-color: var(--ship-gray);
+  bottom: 0px;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.timetable .separator-PmbyG1 {
+  background-color: var(--ship-gray);
+  bottom: 0px;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.timetable .separator-RRnK73 {
+  background-color: var(--ship-gray);
+  bottom: 0px;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.timetable .separator-TIfxwQ {
+  background-color: var(--white);
+  bottom: 0px;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.timetable .separator-TuZJln {
+  background-color: var(--white);
+  bottom: 0px;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.timetable .separator-fQNTDn {
+  background-color: var(--white);
+  bottom: 0px;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.timetable .separator-gixHxz {
+  background-color: var(--white);
+  bottom: 0px;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.timetable .separator-l2awdb {
+  background-color: var(--white);
+  bottom: 0px;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.timetable .separator-xIEEEv {
+  background-color: var(--ship-gray);
+  bottom: 0px;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.timetable .status-bar-NuQSOt {
+  background-color: transparent;
+  height: 18px;
+  left: 21px;
+  position: relative;
+  top: calc(50.00% - 9px);
+  width: calc(100.00% - 35px);
+}
+.timetable .status-bar-TXD4Rx {
+  background-color: var(--white);
+  height: 44px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.timetable .time-VdxKkJ {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: calc(100.00% + 2px);
+}
+.timetable .time-style-RZl3Dx {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 54px;
+}
+.timetable .tram-fill-copy-049wTs {
+  background-color: transparent;
+  height: 19px;
+  left: 28px;
+  position: absolute;
+  top: calc(36.36% - 7px);
+  width: 19px;
+}
+.timetable .tram-fill-copy-48BnBP {
+  background-color: transparent;
+  height: 19px;
+  left: 28px;
+  position: absolute;
+  top: calc(36.36% - 7px);
+  width: 19px;
+}
+.timetable .tram-fill-copy-CHKI5f {
+  background-color: transparent;
+  height: 19px;
+  left: 28px;
+  position: absolute;
+  top: calc(36.36% - 7px);
+  width: 19px;
+}
+.timetable .tram-fill-copy-I2s3ps {
+  background-color: transparent;
+  height: 19px;
+  left: 28px;
+  position: absolute;
+  top: calc(36.36% - 7px);
+  width: 19px;
+}
+.timetable .tram-fill-copy-KsyT5A {
+  background-color: transparent;
+  bottom: calc(40.30% - 6px);
+  height: 14px;
+  left: 0px;
+  position: absolute;
+  width: 14px;
+}
+.timetable .tram-fill-copy-hhZYRq {
+  background-color: transparent;
+  height: 19px;
+  left: 28px;
+  position: absolute;
+  top: calc(36.36% - 7px);
+  width: 19px;
+}
+.timetable .tram-fill-copy-nCPWzw {
+  background-color: transparent;
+  height: 19px;
+  left: 28px;
+  position: absolute;
+  top: calc(33.33% - 6px);
+  width: 19px;
+}
+.timetable .tram-fill-copy-rLgrv9 {
+  background-color: transparent;
+  height: 19px;
+  left: 28px;
+  position: absolute;
+  top: calc(36.36% - 7px);
+  width: 19px;
+}
+.timetable .tram-fill-copy-ufxVKL {
+  background-color: transparent;
+  bottom: calc(40.30% - 6px);
+  height: 14px;
+  left: 0px;
+  position: absolute;
+  width: 14px;
+}
+.timetable .tram-fill-copy-yGHgUn {
+  background-color: transparent;
+  height: 19px;
+  left: 28px;
+  position: absolute;
+  top: calc(36.36% - 7px);
+  width: 19px;
+}
+.timetable .tram-fill-copy-zcchbS {
+  background-color: transparent;
+  height: 19px;
+  left: 28px;
+  position: absolute;
+  top: calc(36.36% - 7px);
+  width: 19px;
+}
+.timetable .wifi-RZl3Dx {
+  background-color: transparent;
+  height: calc(100.00% - 7px);
+  position: absolute;
+  right: 29px;
+  top: 3px;
+  width: 15px;
+}
+.timetable .wifi-path-5vU6Zf {
+  background-color: transparent;
+  height: 5px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.timetable .wifi-path-77NJfL {
+  background-color: transparent;
+  bottom: 1px;
+  height: 4px;
+  left: 3px;
+  position: absolute;
+  width: calc(100.00% - 5px);
+}
+.timetable .wifi-path-UJrX5M {
+  background-color: transparent;
+  bottom: 0px;
+  height: 3px;
+  position: absolute;
+  right: calc(50.00% - 2px);
+  width: 5px;
+}
+.timetable .x-detail-2dSYCM {
+  background-color: transparent;
+  color: var(--ship-gray-3);
+  height: 22px;
+  position: absolute;
+  right: 43px;
+  text-align: right;
+  top: calc(49.21% - 11px);
+  white-space: nowrap;
+  width: 117px;
+}
+.timetable .x-detail-4fqBU0 {
+  background-color: transparent;
+  color: var(--ship-gray-3);
+  height: 22px;
+  position: absolute;
+  right: 43px;
+  text-align: right;
+  top: calc(49.21% - 11px);
+  white-space: nowrap;
+  width: 39px;
+}
+.timetable .x-detail-DyA7H7 {
+  background-color: transparent;
+  color: var(--ship-gray-3);
+  height: 22px;
+  position: absolute;
+  right: 43px;
+  text-align: right;
+  top: calc(49.21% - 11px);
+  white-space: nowrap;
+  width: 65px;
+}
+.timetable .x-detail-F95zDd {
+  background-color: transparent;
+  color: var(--ship-gray-3);
+  height: 22px;
+  position: absolute;
+  right: 43px;
+  text-align: right;
+  top: calc(49.21% - 11px);
+  white-space: nowrap;
+  width: 37px;
+}
+.timetable .x-detail-GIJknL {
+  background-color: transparent;
+  color: var(--ship-gray-3);
+  height: 22px;
+  position: absolute;
+  right: 43px;
+  text-align: right;
+  top: calc(49.21% - 11px);
+  white-space: nowrap;
+  width: 65px;
+}
+.timetable .x-detail-Mcqwx0 {
+  background-color: transparent;
+  color: var(--ship-gray-3);
+  height: 22px;
+  position: absolute;
+  right: 43px;
+  text-align: right;
+  top: calc(49.21% - 11px);
+  white-space: nowrap;
+  width: 65px;
+}
+.timetable .x-detail-NWK8as {
+  background-color: transparent;
+  color: var(--ship-gray-3);
+  height: 22px;
+  position: absolute;
+  right: 43px;
+  text-align: right;
+  top: calc(49.21% - 11px);
+  white-space: nowrap;
+  width: 65px;
+}
+.timetable .x-detail-OmLLsh {
+  background-color: transparent;
+  color: var(--ship-gray-3);
+  height: 22px;
+  position: absolute;
+  right: 43px;
+  text-align: right;
+  top: calc(49.21% - 11px);
+  white-space: nowrap;
+  width: 111px;
+}
+.timetable .x-detail-muFJUc {
+  background-color: transparent;
+  color: var(--ship-gray-3);
+  height: 22px;
+  position: absolute;
+  right: 43px;
+  text-align: right;
+  top: calc(49.21% - 11px);
+  white-space: nowrap;
+  width: 62px;
+}
+:root {
+  --azure-radiance: rgba(0,122,255,1.0);
+  --black: rgba(0,0,0,1.0);
+  --coral-red: rgba(255,69,58,0.6);
+  --oslo-gray: rgba(138,138,142,1.0);
+  --pizazz: rgba(253,147,0,1.0);
+  --pizazz-2: rgba(255,149,0,1.0);
+  --ship-gray: rgba(60,60,67,0.29);
+  --ship-gray-2: rgba(60,60,67,0.302);
+  --ship-gray-3: rgba(60,60,67,1.0);
+  --white: rgba(255,255,255,1.0);
+}

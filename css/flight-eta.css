@@ -1,0 +1,885 @@
+/* screen - flight-eta */
+
+.border-class-1 {
+  border: 1px solid transparent;
+}
+.border-class-2 {
+  border: 1px solid var(--black);
+}
+.flight-eta {
+  background-color: var(--white);
+  height: 896px;
+  overflow: hidden;
+  position: relative;
+  width: 414px;
+}
+.flight-eta .airplane-black-Ll9s2x {
+  background-color: transparent;
+  height: 28px;
+  left: calc(50.00% - 14px);
+  position: absolute;
+  top: calc(49.07% - 14px);
+  width: 28px;
+}
+.flight-eta .airplanecirclefill-C61RwL {
+  background-color: transparent;
+  height: 15px;
+  left: 264px;
+  position: absolute;
+  top: 385px;
+  width: 15px;
+}
+.flight-eta .airplanecirclefill-VMr6Om {
+  background-color: transparent;
+  height: 15px;
+  left: 29px;
+  position: absolute;
+  top: 385px;
+  width: 15px;
+}
+.flight-eta .back-meduim-4T7m0q {
+  background-color: transparent;
+  bottom: calc(47.62% - 11px);
+  height: 23px;
+  left: 6px;
+  position: absolute;
+  width: 23px;
+}
+.flight-eta .background-Ll9s2x {
+  background-color: transparent;
+  border-radius: 13px;
+  height: calc(100.00% + 180px);
+  left: -90px;
+  position: absolute;
+  top: -80px;
+  width: calc(100.00% + 180px);
+}
+.flight-eta .background-vKiZvJ {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.flight-eta .bars-navig-ith-search-R3ERnh {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.flight-eta .battery-hRp5Ot {
+  background-color: transparent;
+  height: 11px;
+  position: absolute;
+  right: 0px;
+  top: calc(50.00% - 6px);
+  width: 24px;
+}
+.flight-eta .battery-lXkwSa {
+  background-color: transparent;
+  height: 11px;
+  position: absolute;
+  right: 0px;
+  top: calc(50.00% - 6px);
+  width: 24px;
+}
+.flight-eta .booking-pvgYHY {
+  background-color: transparent;
+  bottom: calc(42.86% - 9px);
+  color: var(--white);
+  font-family: 'SFPro Text-Semibold', Helvetica, Arial, serif;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  height: 22px;
+  left: calc(49.81% - 35px);
+  letter-spacing: -0.10px;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 70px;
+}
+.flight-eta .border-0LgCOC {
+  background-color: transparent;
+  border-radius: 2.7px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.35;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 2px);
+}
+.flight-eta .border-NZfiAq {
+  background-color: transparent;
+  border-radius: 2.7px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.35;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 2px);
+}
+.flight-eta .button-shape-C61RwL {
+  background-color: var(--azure-radiance);
+  border-radius: 8px;
+  height: 50px;
+  left: 44px;
+  position: fixed;
+  top: 797px;
+  width: 329px;
+}
+.flight-eta .cap-0LgCOC {
+  background-color: transparent;
+  bottom: calc(50.00% - 2px);
+  height: 4px;
+  position: absolute;
+  right: 0px;
+  width: 1px;
+}
+.flight-eta .cap-NZfiAq {
+  background-color: transparent;
+  bottom: calc(50.00% - 2px);
+  height: 4px;
+  position: absolute;
+  right: 0px;
+  width: 1px;
+}
+.flight-eta .capacity-0LgCOC {
+  background-color: var(--black);
+  border-radius: 1.3px;
+  height: calc(100.00% - 4px);
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  width: 18px;
+}
+.flight-eta .capacity-NZfiAq {
+  background-color: var(--black);
+  border-radius: 1.3px;
+  height: calc(100.00% - 4px);
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  width: 18px;
+}
+.flight-eta .cellular-c-ction-path-5BR0lh {
+  background-color: transparent;
+  bottom: 1px;
+  height: 4px;
+  left: 1px;
+  position: absolute;
+  width: 3px;
+}
+.flight-eta .cellular-c-ction-path-5Beutz {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 1px;
+  top: 0px;
+  width: 3px;
+}
+.flight-eta .cellular-c-ction-path-8awI5F {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 3px;
+}
+.flight-eta .cellular-c-ction-path-AWZV88 {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 3px;
+}
+.flight-eta .cellular-c-ction-path-Axm6UV {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 3px;
+}
+.flight-eta .cellular-c-ction-path-koI9PI {
+  background-color: transparent;
+  bottom: 1px;
+  height: 4px;
+  left: 1px;
+  position: absolute;
+  width: 3px;
+}
+.flight-eta .cellular-c-ction-path-vAYWZw {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 1px;
+  top: 0px;
+  width: 3px;
+}
+.flight-eta .cellular-c-ction-path-vz6XFD {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 3px;
+}
+.flight-eta .cellular-connection-hRp5Ot {
+  background-color: transparent;
+  height: calc(100.00% - 7px);
+  position: absolute;
+  right: 50px;
+  top: 4px;
+  width: 17px;
+}
+.flight-eta .cellular-connection-lXkwSa {
+  background-color: transparent;
+  height: calc(100.00% - 7px);
+  position: absolute;
+  right: 50px;
+  top: 4px;
+  width: 17px;
+}
+.flight-eta .exclusion-4-Q7LKIV {
+  background-color: transparent;
+  height: calc(100.00% - 4px);
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.flight-eta .exclusion-4-TbuZmp {
+  background-color: transparent;
+  height: calc(100.00% - 4px);
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.flight-eta .exclusion-5-5Beutz {
+  background-color: transparent;
+  bottom: 1px;
+  height: 6px;
+  left: 1px;
+  position: absolute;
+  width: 8px;
+}
+.flight-eta .exclusion-5-vAYWZw {
+  background-color: transparent;
+  bottom: 1px;
+  height: 6px;
+  left: 1px;
+  position: absolute;
+  width: 8px;
+}
+.flight-eta .exclusion-6-8awI5F {
+  background-color: transparent;
+  bottom: 0px;
+  height: 8px;
+  left: 1px;
+  position: absolute;
+  width: 12px;
+}
+.flight-eta .exclusion-6-Axm6UV {
+  background-color: transparent;
+  bottom: 0px;
+  height: 8px;
+  left: 1px;
+  position: absolute;
+  width: 12px;
+}
+.flight-eta .flight-etd-ynOtxc {
+  background-color: transparent;
+  bottom: calc(39.00% - 16px);
+  color: var(--black);
+  height: 42px;
+  left: 14px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 162px;
+}
+.flight-eta .group-26-TfidM2 {
+  background-color: transparent;
+  height: 62px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 102px;
+}
+.flight-eta .group-33-Ll9s2x {
+  background-color: transparent;
+  bottom: calc(49.59% - 52px);
+  height: 104px;
+  left: 15px;
+  position: absolute;
+  width: calc(100.00% - 46px);
+}
+.flight-eta .group-34-L0cjLb {
+  background-color: transparent;
+  height: calc(100.00% - 77px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.flight-eta .group-57-C61RwL {
+  background-color: transparent;
+  height: 72px;
+  left: 20px;
+  position: absolute;
+  top: 660px;
+  width: 375px;
+}
+.flight-eta .group-63-C61RwL {
+  background-color: transparent;
+  height: 427px;
+  left: 16px;
+  position: absolute;
+  top: 216px;
+  width: 382px;
+}
+.flight-eta .group-70-AwXtS8 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.flight-eta .group-71-C61RwL {
+  background-color: transparent;
+  height: 192px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 414px;
+}
+.flight-eta .large-title-8UBrTo {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 15px;
+  height: 20px;
+  left: 5.06%;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  top: calc(38.69% - 8px);
+  white-space: nowrap;
+  width: 8.93%;
+}
+.flight-eta .large-title-C61RwL {
+  background-color: transparent;
+  color: var(--oslo-gray);
+  font-size: 16px;
+  height: auto;
+  left: 144px;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  top: 565px;
+  white-space: nowrap;
+  width: auto;
+}
+.flight-eta .large-title-L0cjLb {
+  background-color: transparent;
+  bottom: calc(38.92% - 8px);
+  color: var(--pizazz-2);
+  font-size: 16px;
+  height: 21px;
+  left: 23.04%;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 57.07%;
+}
+.flight-eta .large-title-NMIzax {
+  background-color: transparent;
+  bottom: calc(113.69% - 23px);
+  color: var(--azure-radiance);
+  font-size: 15px;
+  height: 20px;
+  left: 0px;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 10.42%;
+}
+.flight-eta .large-title-TfidM2 {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 10px;
+  height: 14px;
+  left: 0px;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  top: calc(12.78% - 2px);
+  white-space: nowrap;
+  width: 36.31%;
+}
+.flight-eta .large-title-WmbDAh {
+  background-color: transparent;
+  color: var(--azure-radiance);
+  font-family: "SF Pro Display", Helvetica, Arial, serif;
+  font-size: 15px;
+  height: 39px;
+  left: 5.06%;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: calc(100.77% - 39px);
+  white-space: nowrap;
+  width: 34.52%;
+}
+.flight-eta .large-title-bE8294 {
+  background-color: transparent;
+  bottom: calc(127.38% - 25px);
+  color: var(--azure-radiance);
+  font-size: 15px;
+  height: 20px;
+  left: 0px;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 16.35%;
+}
+.flight-eta .large-title-km8OZB {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 15px;
+  height: 20px;
+  left: 0px;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  top: calc(25.00% - 5px);
+  white-space: nowrap;
+  width: 101.96%;
+}
+.flight-eta .large-title-nKYAcY {
+  background-color: transparent;
+  bottom: calc(29.80% - 6px);
+  color: var(--pizazz-2);
+  font-size: 16px;
+  height: 21px;
+  left: 26.18%;
+  line-height: 41px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 48.17%;
+}
+.flight-eta .large-title-xBrBlv {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'SFPro Display-Light', Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 300;
+  height: 61px;
+  left: 7.07%;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: calc(100.41% - 61px);
+  white-space: nowrap;
+  width: 86.39%;
+}
+.flight-eta .large-title-xESnE9 {
+  background-color: transparent;
+  color: var(--azure-radiance);
+  font-family: "SF Pro Display", Helvetica, Arial, serif;
+  font-size: 15px;
+  height: 39px;
+  left: 69.94%;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: calc(100.77% - 39px);
+  white-space: nowrap;
+  width: 29.46%;
+}
+.flight-eta .large-title-xsUbTz {
+  background-color: transparent;
+  bottom: calc(22.62% - 5px);
+  color: var(--black);
+  font-size: 15px;
+  height: 20px;
+  left: 14.42%;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 28.85%;
+}
+.flight-eta .left-accessory-ynOtxc {
+  background-color: transparent;
+  height: 44px;
+  left: 0px;
+  position: absolute;
+  top: calc(29.73% - 13px);
+  width: 180px;
+}
+.flight-eta .micfill-6baod0 {
+  background-color: transparent;
+  bottom: calc(47.22% - 8px);
+  height: 18px;
+  position: absolute;
+  right: 21px;
+  width: 17px;
+}
+.flight-eta .navigation-background-ynOtxc {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.flight-eta .parent-title-4T7m0q {
+  background-color: transparent;
+  height: 22px;
+  left: 26px;
+  position: absolute;
+  text-align: left;
+  top: calc(43.18% - 10px);
+  white-space: nowrap;
+  width: 88px;
+}
+.flight-eta .placeholder-label-6baod0 {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'SFPro Text-Regular', Helvetica, Arial, serif;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  height: 24px;
+  left: 30px;
+  letter-spacing: -0.56px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: calc(45.83% - 11px);
+  white-space: nowrap;
+  width: 56px;
+}
+.flight-eta .right-accessory-ynOtxc {
+  background-color: transparent;
+  height: 44px;
+  position: absolute;
+  right: 1px;
+  top: calc(29.73% - 13px);
+  width: 180px;
+}
+.flight-eta .search-field-IOK5Mj {
+  background-color: rgba(118,118,128,0.122);
+  border-radius: 10px;
+  height: 100%;
+  left: 16px;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% - 32px);
+}
+.flight-eta .search-field-type-ynOtxc {
+  background-color: transparent;
+  bottom: 15px;
+  height: 36px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.flight-eta .span0-8zDgxY {
+  color: rgba(0,122,255,1.0);
+  font-family: 'SFPro Display-Medium', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 500;
+}
+.flight-eta .span0-oY34aQ {
+  color: rgba(0,122,255,1.0);
+  font-family: 'SFPro Display-Medium', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 500;
+}
+.flight-eta .span1-8zDgxY {
+  color: rgba(0,122,255,1.0);
+  font-family: 'SFPro Display-Medium', Helvetica, Arial, serif;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 500;
+}
+.flight-eta .span1-oY34aQ {
+  color: rgba(0,122,255,1.0);
+  font-family: 'SFPro Display-Medium', Helvetica, Arial, serif;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 500;
+}
+.flight-eta .status-bar-ASWxeQ {
+  background-color: transparent;
+  height: 18px;
+  left: 21px;
+  position: relative;
+  top: calc(50.00% - 9px);
+  width: calc(100.00% - 35px);
+}
+.flight-eta .status-bar-C61RwL {
+  background-color: var(--white);
+  height: 44px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 414px;
+}
+.flight-eta .status-bar-FxvGw6 {
+  background-color: transparent;
+  height: 18px;
+  left: 21px;
+  position: relative;
+  top: calc(50.00% - 9px);
+  width: calc(100.00% - 35px);
+}
+.flight-eta .status-bar-VMr6Om {
+  background-color: var(--white);
+  height: 44px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 414px;
+}
+.flight-eta .the-next-high-tide-i-mnL5Iy {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'SFPro Text-Medium', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  height: 24px;
+  left: 0px;
+  letter-spacing: -0.50px;
+  line-height: 22px;
+  overflow: hidden;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.flight-eta .time-KRAbRt {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: calc(100.00% + 2px);
+}
+.flight-eta .time-skpBmK {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: calc(100.00% + 2px);
+}
+.flight-eta .time-style-hRp5Ot {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 54px;
+}
+.flight-eta .time-style-lXkwSa {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 54px;
+}
+.flight-eta .vietjet-airlogored-Ll9s2x {
+  background-color: transparent;
+  height: 57px;
+  left: 82px;
+  position: absolute;
+  top: 42px;
+  width: calc(100.00% - 164px);
+}
+.flight-eta .wifi-hRp5Ot {
+  background-color: transparent;
+  height: calc(100.00% - 7px);
+  position: absolute;
+  right: 29px;
+  top: 3px;
+  width: 15px;
+}
+.flight-eta .wifi-lXkwSa {
+  background-color: transparent;
+  height: calc(100.00% - 7px);
+  position: absolute;
+  right: 29px;
+  top: 3px;
+  width: 15px;
+}
+.flight-eta .wifi-path-1qtquK {
+  background-color: transparent;
+  height: 5px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.flight-eta .wifi-path-BIj6xZ {
+  background-color: transparent;
+  height: 5px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.flight-eta .wifi-path-Nw9yab {
+  background-color: transparent;
+  bottom: 0px;
+  height: 4px;
+  left: 3px;
+  position: absolute;
+  width: calc(100.00% - 5px);
+}
+.flight-eta .wifi-path-Q7LKIV {
+  background-color: transparent;
+  bottom: 0px;
+  height: 3px;
+  position: absolute;
+  right: calc(50.00% - 2px);
+  width: 5px;
+}
+.flight-eta .wifi-path-TbuZmp {
+  background-color: transparent;
+  bottom: 0px;
+  height: 3px;
+  position: absolute;
+  right: calc(50.00% - 2px);
+  width: 5px;
+}
+.flight-eta .wifi-path-e2bREC {
+  background-color: transparent;
+  bottom: 0px;
+  height: 4px;
+  left: 3px;
+  position: absolute;
+  width: calc(100.00% - 5px);
+}
+.flight-eta .x64-mnL5Iy {
+  background-color: transparent;
+  bottom: -44px;
+  height: 89px;
+  left: 56px;
+  position: absolute;
+  width: calc(100.00% - 114px);
+}
+.font-class-1 {
+  font-family: 'SFPro Display-Medium', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 500;
+}
+.font-class-10 {
+  color: var(--coral-red);
+  font-family: 'SFPro Text-Medium', Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: -0.24px;
+  line-height: 20px;
+}
+.font-class-2 {
+  color: var(--black);
+  font-family: 'SFPro Text-Regular', Helvetica, Arial, serif;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.87px;
+  line-height: 22px;
+}
+.font-class-3 {
+  font-family: 'SFPro Display-Bold', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.font-class-4 {
+  color: var(--black);
+  font-family: 'SFPro Display-Regular', Helvetica, Arial, serif;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.29px;
+  line-height: 25px;
+}
+.font-class-5 {
+  font-family: 'SFPro Text-Medium', Helvetica, Arial, serif;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: -0.41px;
+  line-height: 22px;
+}
+.font-class-6 {
+  font-family: 'SFPro Display-Bold', Helvetica, Arial, serif;
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0.27px;
+  line-height: 41px;
+}
+.font-class-7 {
+  color: var(--azure-radiance);
+  font-family: 'SFPro Text-Regular', Helvetica, Arial, serif;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.54px;
+  line-height: 22px;
+}
+.font-class-8 {
+  color: var(--ship-gray-2);
+  font-family: 'SFPro Text-Semibold', Helvetica, Arial, serif;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.08px;
+  line-height: 22px;
+}
+.font-class-9 {
+  color: var(--black);
+  font-family: 'SFPro Text-Semibold', Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.30px;
+  line-height: 15px;
+}
+:root {
+  --azure-radiance: rgba(0,122,255,1.0);
+  --black: rgba(0,0,0,1.0);
+  --coral-red: rgba(255,69,58,0.6);
+  --oslo-gray: rgba(138,138,142,1.0);
+  --pizazz: rgba(253,147,0,1.0);
+  --pizazz-2: rgba(255,149,0,1.0);
+  --ship-gray: rgba(60,60,67,0.29);
+  --ship-gray-2: rgba(60,60,67,0.302);
+  --ship-gray-3: rgba(60,60,67,1.0);
+  --white: rgba(255,255,255,1.0);
+}

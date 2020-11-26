@@ -1,0 +1,632 @@
+/* screen - payment-1 */
+
+.border-class-1 {
+  border: 1px solid transparent;
+}
+.border-class-2 {
+  border: 1px solid var(--black);
+}
+.font-class-1 {
+  font-family: 'SFPro Display-Medium', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 500;
+}
+.font-class-10 {
+  color: var(--coral-red);
+  font-family: 'SFPro Text-Medium', Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: -0.24px;
+  line-height: 20px;
+}
+.font-class-2 {
+  color: var(--black);
+  font-family: 'SFPro Text-Regular', Helvetica, Arial, serif;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.87px;
+  line-height: 22px;
+}
+.font-class-3 {
+  font-family: 'SFPro Display-Bold', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.font-class-4 {
+  color: var(--black);
+  font-family: 'SFPro Display-Regular', Helvetica, Arial, serif;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.29px;
+  line-height: 25px;
+}
+.font-class-5 {
+  font-family: 'SFPro Text-Medium', Helvetica, Arial, serif;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: -0.41px;
+  line-height: 22px;
+}
+.font-class-6 {
+  font-family: 'SFPro Display-Bold', Helvetica, Arial, serif;
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0.27px;
+  line-height: 41px;
+}
+.font-class-7 {
+  color: var(--azure-radiance);
+  font-family: 'SFPro Text-Regular', Helvetica, Arial, serif;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.54px;
+  line-height: 22px;
+}
+.font-class-8 {
+  color: var(--ship-gray-2);
+  font-family: 'SFPro Text-Semibold', Helvetica, Arial, serif;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.08px;
+  line-height: 22px;
+}
+.font-class-9 {
+  color: var(--black);
+  font-family: 'SFPro Text-Semibold', Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.30px;
+  line-height: 15px;
+}
+.payment-1 {
+  background-color: var(--white);
+  height: 896px;
+  overflow: hidden;
+  position: relative;
+  width: 414px;
+}
+.payment-1 .arl1-Ll9s2x {
+  background-color: transparent;
+  height: 100px;
+  left: calc(50.00% - 50px);
+  position: absolute;
+  top: 23px;
+  width: 100px;
+}
+.payment-1 .arrowforward-TfidM2 {
+  background-color: transparent;
+  bottom: calc(40.30% - 7px);
+  height: 18px;
+  position: absolute;
+  right: calc(49.11% - 9px);
+  width: 18px;
+}
+.payment-1 .back-meduim-PBxZUg {
+  background-color: transparent;
+  height: 23px;
+  left: 6px;
+  position: absolute;
+  top: calc(47.01% - 11px);
+  width: 23px;
+}
+.payment-1 .background-EAWbTs {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment-1 .background-Ll9s2x {
+  background-color: transparent;
+  border-radius: 13px;
+  height: calc(100.00% + 180px);
+  left: -90px;
+  position: absolute;
+  top: -80px;
+  width: calc(100.00% + 180px);
+}
+.payment-1 .bars-navig-arge-title-C61RwL {
+  background-color: transparent;
+  height: 140px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 414px;
+}
+.payment-1 .battery-hRp5Ot {
+  background-color: transparent;
+  height: 11px;
+  position: absolute;
+  right: 0px;
+  top: calc(50.00% - 6px);
+  width: 24px;
+}
+.payment-1 .border-NZfiAq {
+  background-color: transparent;
+  border-radius: 2.7px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.35;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 2px);
+}
+.payment-1 .button-background-FzIVhT {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment-1 .button-shape-abj7lG {
+  background-color: var(--black);
+  border-radius: 6px;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.payment-1 .cap-NZfiAq {
+  background-color: transparent;
+  bottom: calc(50.00% - 2px);
+  height: 4px;
+  position: absolute;
+  right: 0px;
+  width: 1px;
+}
+.payment-1 .capacity-NZfiAq {
+  background-color: var(--black);
+  border-radius: 1.3px;
+  height: calc(100.00% - 4px);
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  width: 18px;
+}
+.payment-1 .cellular-c-ction-path-5BR0lh {
+  background-color: transparent;
+  bottom: 1px;
+  height: 4px;
+  left: 1px;
+  position: absolute;
+  width: 3px;
+}
+.payment-1 .cellular-c-ction-path-8awI5F {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 1px;
+  top: 0px;
+  width: 3px;
+}
+.payment-1 .cellular-c-ction-path-vAYWZw {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 1px;
+  top: 0px;
+  width: 3px;
+}
+.payment-1 .cellular-c-ction-path-vz6XFD {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 3px;
+}
+.payment-1 .cellular-connection-hRp5Ot {
+  background-color: transparent;
+  height: calc(100.00% - 7px);
+  position: absolute;
+  right: 50px;
+  top: 4px;
+  width: 17px;
+}
+.payment-1 .confirmation-PBxZUg {
+  background-color: transparent;
+  bottom: 6px;
+  color: var(--black);
+  height: 42px;
+  left: 14px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 215px;
+}
+.payment-1 .exclusion-4-Q7LKIV {
+  background-color: transparent;
+  height: calc(100.00% - 4px);
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment-1 .exclusion-5-vAYWZw {
+  background-color: transparent;
+  bottom: 0px;
+  height: 6px;
+  left: 1px;
+  position: absolute;
+  width: 8px;
+}
+.payment-1 .exclusion-6-8awI5F {
+  background-color: transparent;
+  bottom: 0px;
+  height: 8px;
+  left: 1px;
+  position: absolute;
+  width: 12px;
+}
+.payment-1 .group-26-TfidM2 {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 122px;
+}
+.payment-1 .group-33-Ll9s2x {
+  background-color: transparent;
+  bottom: calc(24.29% - 21px);
+  height: 85px;
+  left: 14px;
+  position: absolute;
+  width: calc(100.00% - 28px);
+}
+.payment-1 .group-34-L0cjLb {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment-1 .group-57-C61RwL {
+  background-color: transparent;
+  height: 180px;
+  left: 20px;
+  position: absolute;
+  top: 616px;
+  width: 377px;
+}
+.payment-1 .group-63-C61RwL {
+  background-color: transparent;
+  height: 295px;
+  left: 16px;
+  position: absolute;
+  top: 156px;
+  width: 382px;
+}
+.payment-1 .group-FzIVhT {
+  background-color: transparent;
+  height: 28px;
+  position: absolute;
+  right: calc(48.45% - 65px);
+  top: calc(43.75% - 12px);
+  width: 134px;
+}
+.payment-1 .large-title-8UBrTo {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 15px;
+  height: 20px;
+  left: 5.08%;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  top: calc(50.00% - 10px);
+  white-space: nowrap;
+  width: 29.94%;
+}
+.payment-1 .large-title-IbndMg {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 15px;
+  height: 20px;
+  left: 14.75%;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  top: calc(50.00% - 10px);
+  white-space: nowrap;
+  width: 86.89%;
+}
+.payment-1 .large-title-L0cjLb {
+  background-color: transparent;
+  bottom: calc(9.49% - 2px);
+  color: var(--pizazz-2);
+  font-size: 16px;
+  height: 21px;
+  left: 23.04%;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 54.45%;
+}
+.payment-1 .large-title-NMIzax {
+  background-color: transparent;
+  bottom: calc(117.69% - 24px);
+  color: var(--azure-radiance);
+  font-size: 15px;
+  height: 20px;
+  left: 0.28%;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 9.89%;
+}
+.payment-1 .large-title-TfidM2 {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 15px;
+  height: 20px;
+  left: 0.28%;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  top: calc(16.15% - 3px);
+  white-space: nowrap;
+  width: 30.79%;
+}
+.payment-1 .large-title-WmbDAh {
+  background-color: transparent;
+  bottom: calc(14.62% - 3px);
+  color: var(--azure-radiance);
+  font-size: 15px;
+  height: 20px;
+  left: 5.08%;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 23.45%;
+}
+.payment-1 .large-title-bE8294 {
+  background-color: transparent;
+  bottom: calc(117.69% - 24px);
+  color: var(--azure-radiance);
+  font-size: 15px;
+  height: 20px;
+  left: 2.46%;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 13.93%;
+}
+.payment-1 .large-title-km8OZB {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 15px;
+  height: 20px;
+  left: 2.46%;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  top: calc(16.15% - 3px);
+  white-space: nowrap;
+  width: 89.34%;
+}
+.payment-1 .large-title-xsUbTz {
+  background-color: transparent;
+  bottom: calc(14.62% - 3px);
+  color: var(--azure-radiance);
+  font-size: 15px;
+  height: 20px;
+  left: 14.75%;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 81.15%;
+}
+.payment-1 .left-accessory-PBxZUg {
+  background-color: transparent;
+  height: 44px;
+  left: 0px;
+  position: absolute;
+  top: calc(45.83% - 20px);
+  width: 180px;
+}
+.payment-1 .navigation-background-PBxZUg {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment-1 .parent-title-iN4sVF {
+  background-color: transparent;
+  height: 22px;
+  left: 26px;
+  position: absolute;
+  text-align: left;
+  top: calc(50.00% - 11px);
+  white-space: nowrap;
+  width: 40px;
+}
+.payment-1 .pay-with-bcxOUS {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'SFPro Display-Medium', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  height: calc(100.00% - 2px);
+  left: 0px;
+  letter-spacing: 0.05px;
+  line-height: 28px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: 74px;
+}
+.payment-1 .pay-with-pay-AwXtS8 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 44px;
+  left: 37px;
+  position: absolute;
+  width: calc(100.00% - 77px);
+}
+.payment-1 .status-bar-ASWxeQ {
+  background-color: transparent;
+  height: 18px;
+  left: 21px;
+  position: relative;
+  top: calc(50.00% - 9px);
+  width: calc(100.00% - 35px);
+}
+.payment-1 .status-bar-C61RwL {
+  background-color: var(--white);
+  height: 44px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 414px;
+}
+.payment-1 .the-next-high-tide-i-AwXtS8 {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'SFPro Text-Medium', Helvetica, Arial, serif;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 500;
+  height: 24px;
+  left: 0px;
+  letter-spacing: -0.62px;
+  line-height: 22px;
+  overflow: hidden;
+  position: absolute;
+  text-align: center;
+  top: 2px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.payment-1 .time-KRAbRt {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: calc(100.00% + 2px);
+}
+.payment-1 .time-style-hRp5Ot {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 54px;
+}
+.payment-1 .tram-fill-copy-TfidM2 {
+  background-color: transparent;
+  bottom: calc(35.21% - 5px);
+  height: 14px;
+  left: 0px;
+  position: absolute;
+  width: 14px;
+}
+.payment-1 .tram-fill-copy-km8OZB {
+  background-color: transparent;
+  bottom: calc(35.21% - 5px);
+  height: 14px;
+  left: 0px;
+  position: absolute;
+  width: 14px;
+}
+.payment-1 .wifi-hRp5Ot {
+  background-color: transparent;
+  height: calc(100.00% - 7px);
+  position: absolute;
+  right: 29px;
+  top: 3px;
+  width: 15px;
+}
+.payment-1 .wifi-path-BIj6xZ {
+  background-color: transparent;
+  height: 5px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.payment-1 .wifi-path-Nw9yab {
+  background-color: transparent;
+  bottom: 1px;
+  height: 4px;
+  left: 3px;
+  position: absolute;
+  width: calc(100.00% - 5px);
+}
+.payment-1 .wifi-path-Q7LKIV {
+  background-color: transparent;
+  bottom: 0px;
+  height: 3px;
+  position: absolute;
+  right: calc(50.00% - 2px);
+  width: 5px;
+}
+.payment-1 .x-pay-bcxOUS {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'SFPro Text-Semibold', Helvetica, Arial, serif;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 400;
+  height: calc(100.00% + 2px);
+  letter-spacing: -1.22px;
+  line-height: 23px;
+  position: absolute;
+  right: -2px;
+  text-align: center;
+  top: 2px;
+  white-space: nowrap;
+  width: 60px;
+}
+.payment-1 .x64-AwXtS8 {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'SFPro Text-Bold', Helvetica, Arial, serif;
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 700;
+  height: 41px;
+  left: 82px;
+  letter-spacing: -1.44px;
+  line-height: 22px;
+  overflow: hidden;
+  position: absolute;
+  text-align: center;
+  top: calc(37.41% - 15px);
+  width: calc(100.00% - 163px);
+}
+:root {
+  --azure-radiance: rgba(0,122,255,1.0);
+  --black: rgba(0,0,0,1.0);
+  --coral-red: rgba(255,69,58,0.6);
+  --oslo-gray: rgba(138,138,142,1.0);
+  --pizazz: rgba(253,147,0,1.0);
+  --pizazz-2: rgba(255,149,0,1.0);
+  --ship-gray: rgba(60,60,67,0.29);
+  --ship-gray-2: rgba(60,60,67,0.302);
+  --ship-gray-3: rgba(60,60,67,1.0);
+  --white: rgba(255,255,255,1.0);
+}

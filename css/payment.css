@@ -1,0 +1,2158 @@
+/* screen - payment */
+
+.border-class-1 {
+  border: 1px solid transparent;
+}
+.border-class-2 {
+  border: 1px solid var(--black);
+}
+.font-class-1 {
+  font-family: 'SFPro Display-Medium', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 500;
+}
+.font-class-10 {
+  color: var(--coral-red);
+  font-family: 'SFPro Text-Medium', Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: -0.24px;
+  line-height: 20px;
+}
+.font-class-2 {
+  color: var(--black);
+  font-family: 'SFPro Text-Regular', Helvetica, Arial, serif;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.87px;
+  line-height: 22px;
+}
+.font-class-3 {
+  font-family: 'SFPro Display-Bold', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.font-class-4 {
+  color: var(--black);
+  font-family: 'SFPro Display-Regular', Helvetica, Arial, serif;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.29px;
+  line-height: 25px;
+}
+.font-class-5 {
+  font-family: 'SFPro Text-Medium', Helvetica, Arial, serif;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: -0.41px;
+  line-height: 22px;
+}
+.font-class-6 {
+  font-family: 'SFPro Display-Bold', Helvetica, Arial, serif;
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0.27px;
+  line-height: 41px;
+}
+.font-class-7 {
+  color: var(--azure-radiance);
+  font-family: 'SFPro Text-Regular', Helvetica, Arial, serif;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.54px;
+  line-height: 22px;
+}
+.font-class-8 {
+  color: var(--ship-gray-2);
+  font-family: 'SFPro Text-Semibold', Helvetica, Arial, serif;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.08px;
+  line-height: 22px;
+}
+.font-class-9 {
+  color: var(--black);
+  font-family: 'SFPro Text-Semibold', Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.30px;
+  line-height: 15px;
+}
+.payment {
+  background-color: var(--white);
+  height: 1463px;
+  overflow: hidden;
+  position: relative;
+  width: 414px;
+}
+.payment .arl1-nU3YQ5 {
+  background-color: transparent;
+  height: 100px;
+  left: calc(50.00% - 50px);
+  position: absolute;
+  top: 23px;
+  width: 100px;
+}
+.payment .arrowforward-mtksT8 {
+  background-color: transparent;
+  bottom: calc(40.30% - 7px);
+  height: 18px;
+  position: absolute;
+  right: calc(49.11% - 9px);
+  width: 18px;
+}
+.payment .back-meduim-PBxZUg {
+  background-color: transparent;
+  height: 23px;
+  left: 6px;
+  position: absolute;
+  top: calc(47.01% - 11px);
+  width: 23px;
+}
+.payment .background-EAWbTs {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .background-jUEq3d {
+  background-color: transparent;
+  border-radius: 13px;
+  height: calc(100.00% + 180px);
+  left: -90px;
+  position: absolute;
+  top: -80px;
+  width: calc(100.00% + 180px);
+}
+.payment .background-nU3YQ5 {
+  background-color: transparent;
+  border-radius: 13px;
+  height: calc(100.00% + 180px);
+  left: -90px;
+  position: absolute;
+  top: -80px;
+  width: calc(100.00% + 180px);
+}
+.payment .bars-navig-arge-title-C61RwL {
+  background-color: transparent;
+  height: 140px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 414px;
+}
+.payment .battery-hRp5Ot {
+  background-color: transparent;
+  height: 11px;
+  position: absolute;
+  right: 0px;
+  top: calc(50.00% - 6px);
+  width: 24px;
+}
+.payment .booking-PBxZUg {
+  background-color: transparent;
+  bottom: 6px;
+  color: var(--black);
+  height: 42px;
+  left: 14px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 131px;
+}
+.payment .border-NZfiAq {
+  background-color: transparent;
+  border-radius: 2.7px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.35;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 2px);
+}
+.payment .cap-NZfiAq {
+  background-color: transparent;
+  bottom: calc(50.00% - 2px);
+  height: 4px;
+  position: absolute;
+  right: 1px;
+  width: 1px;
+}
+.payment .capacity-NZfiAq {
+  background-color: var(--black);
+  border-radius: 1.3px;
+  height: calc(100.00% - 4px);
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  width: 18px;
+}
+.payment .cellular-c-ction-path-5BR0lh {
+  background-color: transparent;
+  bottom: 1px;
+  height: 4px;
+  left: 1px;
+  position: absolute;
+  width: 3px;
+}
+.payment .cellular-c-ction-path-8awI5F {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 1px;
+  top: 0px;
+  width: 3px;
+}
+.payment .cellular-c-ction-path-vAYWZw {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 1px;
+  top: 0px;
+  width: 3px;
+}
+.payment .cellular-c-ction-path-vz6XFD {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 3px;
+}
+.payment .cellular-connection-hRp5Ot {
+  background-color: transparent;
+  height: calc(100.00% - 7px);
+  position: absolute;
+  right: 50px;
+  top: 4px;
+  width: 17px;
+}
+.payment .exclusion-4-Q7LKIV {
+  background-color: transparent;
+  height: calc(100.00% - 4px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .exclusion-5-vAYWZw {
+  background-color: transparent;
+  bottom: 0px;
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  width: 8px;
+}
+.payment .exclusion-6-8awI5F {
+  background-color: transparent;
+  bottom: 0px;
+  height: 8px;
+  left: 0px;
+  position: absolute;
+  width: 12px;
+}
+.payment .group-26-mtksT8 {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 122px;
+}
+.payment .group-33-nU3YQ5 {
+  background-color: transparent;
+  bottom: calc(24.29% - 21px);
+  height: 85px;
+  left: 14px;
+  position: absolute;
+  width: calc(100.00% - 28px);
+}
+.payment .group-34-hlxJRL {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .group-58-2osFvC {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .group-59-2osFvC {
+  background-color: transparent;
+  height: 326px;
+  left: 18px;
+  position: absolute;
+  top: 102px;
+  width: 137px;
+}
+.payment .group-60-2osFvC {
+  background-color: transparent;
+  height: 326px;
+  position: absolute;
+  right: 18px;
+  top: 102px;
+  width: 137px;
+}
+.payment .group-61-2osFvC {
+  background-color: transparent;
+  bottom: 76px;
+  height: 326px;
+  left: 18px;
+  position: absolute;
+  width: 137px;
+}
+.payment .group-62-2osFvC {
+  background-color: transparent;
+  bottom: 76px;
+  height: 326px;
+  position: absolute;
+  right: 18px;
+  width: 137px;
+}
+.payment .group-77-C61RwL {
+  background-color: transparent;
+  height: 904px;
+  left: 16px;
+  position: absolute;
+  top: 538px;
+  width: 382px;
+}
+.payment .group-78-C61RwL {
+  background-color: transparent;
+  height: 295px;
+  left: 16px;
+  position: absolute;
+  top: 156px;
+  width: 382px;
+}
+.payment .key-background-1NEvdx {
+  background-color: transparent;
+  border-radius: 5px;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .key-background-2FJCWx {
+  background-color: transparent;
+  border-radius: 5px;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .key-background-3JoC9m {
+  background-color: transparent;
+  border-radius: 5px;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .key-background-7CXfsn {
+  background-color: transparent;
+  border-radius: 5px;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .key-background-8d54YO {
+  background-color: transparent;
+  border-radius: 5px;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .key-background-9demGE {
+  background-color: transparent;
+  border-radius: 5px;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .key-background-BBLnpE {
+  background-color: transparent;
+  border-radius: 5px;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .key-background-BnxENS {
+  background-color: transparent;
+  border-radius: 5px;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .key-background-C6Q1i2 {
+  background-color: transparent;
+  border-radius: 5px;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .key-background-D2Abxd {
+  background-color: transparent;
+  border-radius: 5px;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .key-background-F23iiz {
+  background-color: transparent;
+  border-radius: 5px;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .key-background-H3jtz3 {
+  background-color: transparent;
+  border-radius: 5px;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .key-background-L2l9sI {
+  background-color: transparent;
+  border-radius: 5px;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .key-background-MBy7Xp {
+  background-color: transparent;
+  border-radius: 5px;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .key-background-MJ6QUJ {
+  background-color: transparent;
+  border-radius: 5px;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .key-background-OhmlAB {
+  background-color: transparent;
+  border-radius: 5px;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .key-background-Q2rLrH {
+  background-color: transparent;
+  border-radius: 5px;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .key-background-QHsU4H {
+  background-color: transparent;
+  border-radius: 5px;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .key-background-QkxFMd {
+  background-color: transparent;
+  border-radius: 5px;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .key-background-RHpcKT {
+  background-color: transparent;
+  border-radius: 5px;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .key-background-TRLADp {
+  background-color: transparent;
+  border-radius: 5px;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .key-background-VXca6l {
+  background-color: transparent;
+  border-radius: 5px;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .key-background-VxwZQW {
+  background-color: transparent;
+  border-radius: 5px;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .key-background-WJ3Kxh {
+  background-color: transparent;
+  border-radius: 5px;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .key-background-Y2hMUU {
+  background-color: transparent;
+  border-radius: 5px;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .key-background-YIp69B {
+  background-color: transparent;
+  border-radius: 5px;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .key-background-ZRcsqD {
+  background-color: transparent;
+  border-radius: 5px;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .key-background-aaKyQ8 {
+  background-color: transparent;
+  border-radius: 5px;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .key-background-bppxWs {
+  background-color: transparent;
+  border-radius: 5px;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .key-background-cBxNd4 {
+  background-color: transparent;
+  border-radius: 5px;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .key-background-cuMf7x {
+  background-color: transparent;
+  border-radius: 5px;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .key-background-d1jx8U {
+  background-color: transparent;
+  border-radius: 5px;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .key-background-enLoux {
+  background-color: transparent;
+  border-radius: 5px;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .key-background-iG2x5h {
+  background-color: transparent;
+  border-radius: 5px;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .key-background-iZUSmK {
+  background-color: transparent;
+  border-radius: 5px;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .key-background-jCJlFa {
+  background-color: transparent;
+  border-radius: 5px;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .key-background-k1SyVL {
+  background-color: transparent;
+  border-radius: 5px;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .key-background-lIW0fG {
+  background-color: transparent;
+  border-radius: 5px;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .key-background-mFyVGS {
+  background-color: transparent;
+  border-radius: 5px;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .key-background-maes6p {
+  background-color: transparent;
+  border-radius: 5px;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .key-background-n4gbm4 {
+  background-color: transparent;
+  border-radius: 5px;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .key-background-r6iKL9 {
+  background-color: transparent;
+  border-radius: 5px;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .key-background-t7WL49 {
+  background-color: transparent;
+  border-radius: 5px;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .key-background-usY13f {
+  background-color: transparent;
+  border-radius: 5px;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .key-background-xSZuhJ {
+  background-color: transparent;
+  border-radius: 5px;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .key-background-xtQevd {
+  background-color: transparent;
+  border-radius: 5px;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .key-background-xtlBud {
+  background-color: transparent;
+  border-radius: 5px;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .key-background-yTboyq {
+  background-color: transparent;
+  border-radius: 5px;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .keys-4r5bPd {
+  background-color: transparent;
+  height: 154px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .keys-6bhDYk {
+  background-color: transparent;
+  bottom: 0px;
+  height: 154px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.payment .keys-9iIdvM {
+  background-color: transparent;
+  height: 154px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .keys-Qz8ZKE {
+  background-color: transparent;
+  height: 154px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .keys-gz7zry {
+  background-color: transparent;
+  bottom: 0px;
+  height: 154px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.payment .keys-rrCXEs {
+  background-color: transparent;
+  bottom: 0px;
+  height: 154px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.payment .keys-tP47Gy {
+  background-color: transparent;
+  height: 154px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .keys-uVZTjy {
+  background-color: transparent;
+  bottom: 0px;
+  height: 154px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.payment .large-title-4PO7La {
+  background-color: transparent;
+  bottom: calc(14.62% - 3px);
+  color: var(--azure-radiance);
+  font-size: 15px;
+  height: 20px;
+  left: 14.75%;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 81.15%;
+}
+.payment .large-title-NxrR23 {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 15px;
+  height: 20px;
+  left: 2.46%;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  top: calc(16.15% - 3px);
+  white-space: nowrap;
+  width: 89.34%;
+}
+.payment .large-title-OYaVJE {
+  background-color: transparent;
+  bottom: calc(117.69% - 24px);
+  color: var(--azure-radiance);
+  font-size: 15px;
+  height: 20px;
+  left: 2.46%;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 13.93%;
+}
+.payment .large-title-hlxJRL {
+  background-color: transparent;
+  bottom: calc(10.95% - 2px);
+  color: var(--pizazz-2);
+  font-size: 16px;
+  height: 21px;
+  left: 35.34%;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 29.84%;
+}
+.payment .large-title-lNDROS {
+  background-color: transparent;
+  bottom: calc(117.69% - 24px);
+  color: var(--azure-radiance);
+  font-size: 15px;
+  height: 20px;
+  left: 0.28%;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 9.89%;
+}
+.payment .large-title-mtksT8 {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 15px;
+  height: 20px;
+  left: 0.28%;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  top: calc(16.15% - 3px);
+  white-space: nowrap;
+  width: 30.79%;
+}
+.payment .large-title-pAJKxS {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 15px;
+  height: 20px;
+  left: 14.75%;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  top: calc(50.00% - 10px);
+  white-space: nowrap;
+  width: 86.89%;
+}
+.payment .large-title-whYUT4 {
+  background-color: transparent;
+  bottom: calc(14.62% - 3px);
+  color: var(--azure-radiance);
+  font-size: 15px;
+  height: 20px;
+  left: 5.08%;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 23.45%;
+}
+.payment .large-title-xowGLK {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 15px;
+  height: 20px;
+  left: 5.08%;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  top: calc(50.00% - 10px);
+  white-space: nowrap;
+  width: 29.94%;
+}
+.payment .left-accessory-PBxZUg {
+  background-color: transparent;
+  height: 44px;
+  left: 0px;
+  position: absolute;
+  top: calc(45.83% - 20px);
+  width: 180px;
+}
+.payment .navigation-background-PBxZUg {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .number-1NEvdx {
+  background-color: transparent;
+  height: 33px;
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: calc(100.00% + 2px);
+}
+.payment .number-2FJCWx {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: calc(100.00% + 2px);
+}
+.payment .number-3JoC9m {
+  background-color: transparent;
+  height: 33px;
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: calc(100.00% + 2px);
+}
+.payment .number-7CXfsn {
+  background-color: transparent;
+  height: 33px;
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: calc(100.00% + 2px);
+}
+.payment .number-8d54YO {
+  background-color: transparent;
+  height: 33px;
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: calc(100.00% + 2px);
+}
+.payment .number-9demGE {
+  background-color: transparent;
+  height: 33px;
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: calc(100.00% + 2px);
+}
+.payment .number-BBLnpE {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: calc(100.00% + 2px);
+}
+.payment .number-BnxENS {
+  background-color: transparent;
+  height: 33px;
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: calc(100.00% + 2px);
+}
+.payment .number-C6Q1i2 {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: calc(100.00% + 2px);
+}
+.payment .number-D2Abxd {
+  background-color: transparent;
+  height: 33px;
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: calc(100.00% + 2px);
+}
+.payment .number-F23iiz {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: calc(100.00% + 2px);
+}
+.payment .number-H3jtz3 {
+  background-color: transparent;
+  height: 33px;
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: calc(100.00% + 2px);
+}
+.payment .number-L2l9sI {
+  background-color: transparent;
+  height: 33px;
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: calc(100.00% + 2px);
+}
+.payment .number-MBy7Xp {
+  background-color: transparent;
+  height: 33px;
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: calc(100.00% + 2px);
+}
+.payment .number-MJ6QUJ {
+  background-color: transparent;
+  height: 33px;
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: calc(100.00% + 2px);
+}
+.payment .number-OhmlAB {
+  background-color: transparent;
+  height: 33px;
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: calc(100.00% + 2px);
+}
+.payment .number-Q2rLrH {
+  background-color: transparent;
+  height: 33px;
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: calc(100.00% + 2px);
+}
+.payment .number-QHsU4H {
+  background-color: transparent;
+  height: 33px;
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: calc(100.00% + 2px);
+}
+.payment .number-QkxFMd {
+  background-color: transparent;
+  height: 33px;
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: calc(100.00% + 2px);
+}
+.payment .number-RHpcKT {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: calc(100.00% + 2px);
+}
+.payment .number-TRLADp {
+  background-color: transparent;
+  height: 33px;
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: calc(100.00% + 2px);
+}
+.payment .number-VXca6l {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: calc(100.00% + 2px);
+}
+.payment .number-VxwZQW {
+  background-color: transparent;
+  height: 33px;
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: calc(100.00% + 2px);
+}
+.payment .number-WJ3Kxh {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: calc(100.00% + 2px);
+}
+.payment .number-Y2hMUU {
+  background-color: transparent;
+  height: 33px;
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: calc(100.00% + 2px);
+}
+.payment .number-YIp69B {
+  background-color: transparent;
+  height: 33px;
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: calc(100.00% + 2px);
+}
+.payment .number-ZRcsqD {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: calc(100.00% + 2px);
+}
+.payment .number-aaKyQ8 {
+  background-color: transparent;
+  height: 33px;
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: calc(100.00% + 2px);
+}
+.payment .number-bppxWs {
+  background-color: transparent;
+  height: 33px;
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: calc(100.00% + 2px);
+}
+.payment .number-cBxNd4 {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: calc(100.00% + 2px);
+}
+.payment .number-cuMf7x {
+  background-color: transparent;
+  height: 33px;
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: calc(100.00% + 2px);
+}
+.payment .number-d1jx8U {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: calc(100.00% + 2px);
+}
+.payment .number-enLoux {
+  background-color: transparent;
+  height: 33px;
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: calc(100.00% + 2px);
+}
+.payment .number-iG2x5h {
+  background-color: transparent;
+  height: 33px;
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: calc(100.00% + 2px);
+}
+.payment .number-iZUSmK {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: calc(100.00% + 2px);
+}
+.payment .number-jCJlFa {
+  background-color: transparent;
+  height: 33px;
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: calc(100.00% + 2px);
+}
+.payment .number-k1SyVL {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: calc(100.00% + 2px);
+}
+.payment .number-lIW0fG {
+  background-color: transparent;
+  height: 33px;
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: calc(100.00% + 2px);
+}
+.payment .number-mFyVGS {
+  background-color: transparent;
+  height: 33px;
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: calc(100.00% + 2px);
+}
+.payment .number-maes6p {
+  background-color: transparent;
+  height: 33px;
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: calc(100.00% + 2px);
+}
+.payment .number-n4gbm4 {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: calc(100.00% + 2px);
+}
+.payment .number-r6iKL9 {
+  background-color: transparent;
+  height: 33px;
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: calc(100.00% + 2px);
+}
+.payment .number-t7WL49 {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: calc(100.00% + 2px);
+}
+.payment .number-usY13f {
+  background-color: transparent;
+  height: 33px;
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: calc(100.00% + 2px);
+}
+.payment .number-xSZuhJ {
+  background-color: transparent;
+  height: 33px;
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: calc(100.00% + 2px);
+}
+.payment .number-xtQevd {
+  background-color: transparent;
+  height: 33px;
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: calc(100.00% + 2px);
+}
+.payment .number-xtlBud {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: calc(100.00% + 2px);
+}
+.payment .number-yTboyq {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: calc(100.00% + 2px);
+}
+.payment .parent-title-iN4sVF {
+  background-color: transparent;
+  height: 22px;
+  left: 26px;
+  position: absolute;
+  text-align: left;
+  top: calc(50.00% - 11px);
+  white-space: nowrap;
+  width: 40px;
+}
+.payment .seat-2osFvC {
+  background-color: transparent;
+  color: var(--black);
+  height: 42px;
+  left: 18px;
+  position: absolute;
+  text-align: left;
+  top: 32px;
+  white-space: nowrap;
+  width: 74px;
+}
+.payment .status-bar-ASWxeQ {
+  background-color: transparent;
+  height: 18px;
+  left: 21px;
+  position: relative;
+  top: calc(50.00% - 9px);
+  width: calc(100.00% - 35px);
+}
+.payment .status-bar-C61RwL {
+  background-color: var(--white);
+  height: 44px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 414px;
+}
+.payment .time-KRAbRt {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: calc(100.00% + 2px);
+}
+.payment .time-style-hRp5Ot {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 54px;
+}
+.payment .tram-fill-copy-NxrR23 {
+  background-color: transparent;
+  bottom: calc(35.21% - 5px);
+  height: 14px;
+  left: 0px;
+  position: absolute;
+  width: 14px;
+}
+.payment .tram-fill-copy-mtksT8 {
+  background-color: transparent;
+  bottom: calc(35.21% - 5px);
+  height: 14px;
+  left: 0px;
+  position: absolute;
+  width: 14px;
+}
+.payment .wifi-hRp5Ot {
+  background-color: transparent;
+  height: calc(100.00% - 7px);
+  position: absolute;
+  right: 29px;
+  top: 3px;
+  width: 15px;
+}
+.payment .wifi-path-BIj6xZ {
+  background-color: transparent;
+  height: 5px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.payment .wifi-path-Nw9yab {
+  background-color: transparent;
+  bottom: 1px;
+  height: 4px;
+  left: 3px;
+  position: absolute;
+  width: calc(100.00% - 5px);
+}
+.payment .wifi-path-Q7LKIV {
+  background-color: transparent;
+  bottom: 0px;
+  height: 3px;
+  position: absolute;
+  right: calc(50.00% - 2px);
+  width: 5px;
+}
+.payment .x1-0qYe2W {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 66px;
+}
+.payment .x1-964Vxq {
+  background-color: transparent;
+  height: 46px;
+  position: absolute;
+  right: 1px;
+  top: 0px;
+  width: 66px;
+}
+.payment .x1-D47Kxg {
+  background-color: transparent;
+  height: 46px;
+  position: absolute;
+  right: 1px;
+  top: 0px;
+  width: 66px;
+}
+.payment .x1-GAa7gi {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 66px;
+}
+.payment .x1-HQfbSY {
+  background-color: transparent;
+  height: 46px;
+  position: absolute;
+  right: 1px;
+  top: 0px;
+  width: 66px;
+}
+.payment .x1-MHxu7l {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 66px;
+}
+.payment .x1-RTsqpt {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 66px;
+}
+.payment .x1-TTWctU {
+  background-color: transparent;
+  height: 46px;
+  position: absolute;
+  right: 1px;
+  top: 0px;
+  width: 66px;
+}
+.payment .x1-UkECIe {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 66px;
+}
+.payment .x1-UqTz0o {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 66px;
+}
+.payment .x1-ghXOKY {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 66px;
+}
+.payment .x1-iEWdf0 {
+  background-color: transparent;
+  height: 46px;
+  position: absolute;
+  right: 1px;
+  top: 0px;
+  width: 66px;
+}
+.payment .x1-mvOAFE {
+  background-color: transparent;
+  height: 46px;
+  position: absolute;
+  right: 1px;
+  top: 0px;
+  width: 66px;
+}
+.payment .x1-qiJpGd {
+  background-color: transparent;
+  height: 46px;
+  position: absolute;
+  right: 1px;
+  top: 0px;
+  width: 66px;
+}
+.payment .x1-s04B3L {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 66px;
+}
+.payment .x1-y4Wzp2 {
+  background-color: transparent;
+  height: 46px;
+  position: absolute;
+  right: 1px;
+  top: 0px;
+  width: 66px;
+}
+.payment .x4-0qYe2W {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: calc(49.53% - 23px);
+  width: 66px;
+}
+.payment .x4-964Vxq {
+  background-color: transparent;
+  height: 47px;
+  position: absolute;
+  right: 0px;
+  top: calc(49.53% - 23px);
+  width: 66px;
+}
+.payment .x4-D47Kxg {
+  background-color: transparent;
+  height: 47px;
+  position: absolute;
+  right: 0px;
+  top: calc(49.53% - 23px);
+  width: 66px;
+}
+.payment .x4-GAa7gi {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: calc(49.53% - 23px);
+  width: 66px;
+}
+.payment .x4-HQfbSY {
+  background-color: transparent;
+  height: 47px;
+  position: absolute;
+  right: 0px;
+  top: calc(49.53% - 23px);
+  width: 66px;
+}
+.payment .x4-MHxu7l {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: calc(49.53% - 23px);
+  width: 66px;
+}
+.payment .x4-RTsqpt {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: calc(49.53% - 23px);
+  width: 66px;
+}
+.payment .x4-TTWctU {
+  background-color: transparent;
+  height: 47px;
+  position: absolute;
+  right: 0px;
+  top: calc(49.53% - 23px);
+  width: 66px;
+}
+.payment .x4-UkECIe {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: calc(49.53% - 23px);
+  width: 66px;
+}
+.payment .x4-UqTz0o {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: calc(49.53% - 23px);
+  width: 66px;
+}
+.payment .x4-background-1NEvdx {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .x4-background-9demGE {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .x4-background-BnxENS {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .x4-background-D2Abxd {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .x4-background-L2l9sI {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .x4-background-OhmlAB {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .x4-background-QHsU4H {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .x4-background-Y2hMUU {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .x4-background-YIp69B {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .x4-background-aaKyQ8 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .x4-background-bppxWs {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .x4-background-enLoux {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .x4-background-iG2x5h {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .x4-background-jCJlFa {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .x4-background-lIW0fG {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .x4-background-maes6p {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .x4-ghXOKY {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: calc(49.53% - 23px);
+  width: 66px;
+}
+.payment .x4-iEWdf0 {
+  background-color: transparent;
+  height: 47px;
+  position: absolute;
+  right: 0px;
+  top: calc(49.53% - 23px);
+  width: 66px;
+}
+.payment .x4-mvOAFE {
+  background-color: transparent;
+  height: 47px;
+  position: absolute;
+  right: 0px;
+  top: calc(49.53% - 23px);
+  width: 66px;
+}
+.payment .x4-qiJpGd {
+  background-color: transparent;
+  height: 47px;
+  position: absolute;
+  right: 0px;
+  top: calc(49.53% - 23px);
+  width: 66px;
+}
+.payment .x4-s04B3L {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: calc(49.53% - 23px);
+  width: 66px;
+}
+.payment .x4-y4Wzp2 {
+  background-color: transparent;
+  height: 47px;
+  position: absolute;
+  right: 0px;
+  top: calc(49.53% - 23px);
+  width: 66px;
+}
+.payment .x7-0qYe2W {
+  background-color: transparent;
+  bottom: 0px;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  width: 66px;
+}
+.payment .x7-964Vxq {
+  background-color: transparent;
+  bottom: 0px;
+  height: 47px;
+  position: absolute;
+  right: 0px;
+  width: 66px;
+}
+.payment .x7-D47Kxg {
+  background-color: transparent;
+  bottom: 0px;
+  height: 47px;
+  position: absolute;
+  right: 0px;
+  width: 66px;
+}
+.payment .x7-GAa7gi {
+  background-color: transparent;
+  bottom: 0px;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  width: 66px;
+}
+.payment .x7-HQfbSY {
+  background-color: transparent;
+  bottom: 0px;
+  height: 47px;
+  position: absolute;
+  right: 0px;
+  width: 66px;
+}
+.payment .x7-MHxu7l {
+  background-color: transparent;
+  bottom: 0px;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  width: 66px;
+}
+.payment .x7-RTsqpt {
+  background-color: transparent;
+  bottom: 0px;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  width: 66px;
+}
+.payment .x7-TTWctU {
+  background-color: transparent;
+  bottom: 0px;
+  height: 47px;
+  position: absolute;
+  right: 0px;
+  width: 66px;
+}
+.payment .x7-UkECIe {
+  background-color: transparent;
+  bottom: 0px;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  width: 66px;
+}
+.payment .x7-UqTz0o {
+  background-color: transparent;
+  bottom: 0px;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  width: 66px;
+}
+.payment .x7-background-3JoC9m {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .x7-background-7CXfsn {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .x7-background-8d54YO {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .x7-background-H3jtz3 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .x7-background-MBy7Xp {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .x7-background-MJ6QUJ {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .x7-background-Q2rLrH {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .x7-background-QkxFMd {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .x7-background-TRLADp {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .x7-background-VxwZQW {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .x7-background-cuMf7x {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .x7-background-mFyVGS {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .x7-background-r6iKL9 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .x7-background-usY13f {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .x7-background-xSZuhJ {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .x7-background-xtQevd {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.payment .x7-ghXOKY {
+  background-color: transparent;
+  bottom: 0px;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  width: 66px;
+}
+.payment .x7-iEWdf0 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 47px;
+  position: absolute;
+  right: 0px;
+  width: 66px;
+}
+.payment .x7-mvOAFE {
+  background-color: transparent;
+  bottom: 0px;
+  height: 47px;
+  position: absolute;
+  right: 0px;
+  width: 66px;
+}
+.payment .x7-qiJpGd {
+  background-color: transparent;
+  bottom: 0px;
+  height: 47px;
+  position: absolute;
+  right: 0px;
+  width: 66px;
+}
+.payment .x7-s04B3L {
+  background-color: transparent;
+  bottom: 0px;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  width: 66px;
+}
+.payment .x7-y4Wzp2 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 47px;
+  position: absolute;
+  right: 0px;
+  width: 66px;
+}
+:root {
+  --azure-radiance: rgba(0,122,255,1.0);
+  --black: rgba(0,0,0,1.0);
+  --coral-red: rgba(255,69,58,0.6);
+  --oslo-gray: rgba(138,138,142,1.0);
+  --pizazz: rgba(253,147,0,1.0);
+  --pizazz-2: rgba(255,149,0,1.0);
+  --ship-gray: rgba(60,60,67,0.29);
+  --ship-gray-2: rgba(60,60,67,0.302);
+  --ship-gray-3: rgba(60,60,67,1.0);
+  --white: rgba(255,255,255,1.0);
+}

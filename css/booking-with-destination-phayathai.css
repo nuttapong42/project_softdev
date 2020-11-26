@@ -1,0 +1,1477 @@
+/* screen - booking-with-destination-phayathai */
+
+.booking-with-destination-phayathai {
+  background-color: var(--white);
+  height: 896px;
+  overflow: hidden;
+  position: relative;
+  width: 414px;
+}
+.booking-with-destination-phayathai .arrowforward-C61RwL {
+  background-color: transparent;
+  height: 18px;
+  left: 198px;
+  position: absolute;
+  top: 685px;
+  width: 18px;
+}
+.booking-with-destination-phayathai .back-meduim-C61RwL {
+  background-color: transparent;
+  height: 23px;
+  left: 6px;
+  position: absolute;
+  top: 55px;
+  width: 23px;
+}
+.booking-with-destination-phayathai .background-EAWbTs {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.booking-with-destination-phayathai .background-yebu2n {
+  background-color: transparent;
+  border-radius: 13px;
+  height: calc(100.00% + 180px);
+  left: -90px;
+  position: absolute;
+  top: -80px;
+  width: calc(100.00% + 180px);
+}
+.booking-with-destination-phayathai .bars-navig-arge-title-C61RwL {
+  background-color: transparent;
+  height: 140px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 414px;
+}
+.booking-with-destination-phayathai .bg-2TZlVx {
+  background-color: var(--white);
+  height: calc(100.00% + 21px);
+  left: -11px;
+  opacity: 0;
+  position: absolute;
+  top: -10px;
+  width: calc(100.00% + 22px);
+}
+.booking-with-destination-phayathai .bg-5R4FB1 {
+  background-color: var(--white);
+  height: calc(100.00% + 44px);
+  left: -16px;
+  opacity: 0;
+  position: relative;
+  top: -10px;
+  width: calc(100.00% + 44px);
+}
+.booking-with-destination-phayathai .bg-5WPhVT {
+  background-color: var(--white);
+  height: calc(100.00% + 21px);
+  left: -16px;
+  opacity: 0;
+  position: absolute;
+  top: -10px;
+  width: calc(100.00% + 32px);
+}
+.booking-with-destination-phayathai .bg-AbhSSq {
+  background-color: var(--white);
+  height: calc(100.00% + 21px);
+  left: -19px;
+  opacity: 0;
+  position: absolute;
+  top: -10px;
+  width: calc(100.00% + 32px);
+}
+.booking-with-destination-phayathai .bg-Cj1aEl {
+  background-color: var(--white);
+  height: calc(100.00% + 21px);
+  left: -12px;
+  opacity: 0;
+  position: absolute;
+  top: -10px;
+  width: calc(100.00% + 24px);
+}
+.booking-with-destination-phayathai .bg-F8PPVX {
+  background-color: var(--white);
+  height: calc(100.00% + 21px);
+  left: -16px;
+  opacity: 0;
+  position: absolute;
+  top: -10px;
+  width: calc(100.00% + 32px);
+}
+.booking-with-destination-phayathai .bg-FzBqUr {
+  background-color: var(--white);
+  height: calc(100.00% + 21px);
+  left: -12px;
+  opacity: 0;
+  position: absolute;
+  top: -10px;
+  width: calc(100.00% + 24px);
+}
+.booking-with-destination-phayathai .bg-G3l9Bb {
+  background-color: var(--white);
+  height: calc(100.00% + 21px);
+  opacity: 0;
+  position: absolute;
+  right: -16px;
+  top: -10px;
+  width: 44px;
+}
+.booking-with-destination-phayathai .bg-IKnBzZ {
+  background-color: var(--white);
+  height: calc(100.00% + 44px);
+  left: -10px;
+  opacity: 0;
+  position: relative;
+  top: -10px;
+  width: calc(100.00% + 44px);
+}
+.booking-with-destination-phayathai .bg-L4vzTV {
+  background-color: var(--white);
+  height: calc(100.00% + 21px);
+  left: -12px;
+  opacity: 0;
+  position: absolute;
+  top: -10px;
+  width: calc(100.00% + 24px);
+}
+.booking-with-destination-phayathai .bg-ObzCNl {
+  background-color: var(--white);
+  height: calc(100.00% + 21px);
+  left: -11px;
+  opacity: 0;
+  position: absolute;
+  top: -10px;
+  width: calc(100.00% + 22px);
+}
+.booking-with-destination-phayathai .bg-Sq1BoA {
+  background-color: var(--white);
+  height: calc(100.00% + 21px);
+  left: -16px;
+  opacity: 0;
+  position: absolute;
+  top: -10px;
+  width: calc(100.00% + 32px);
+}
+.booking-with-destination-phayathai .bg-Sv4Gz6 {
+  background-color: var(--white);
+  height: calc(100.00% + 21px);
+  left: -12px;
+  opacity: 0;
+  position: absolute;
+  top: -10px;
+  width: calc(100.00% + 24px);
+}
+.booking-with-destination-phayathai .bg-Ta8ZT6 {
+  background-color: var(--white);
+  height: calc(100.00% + 21px);
+  left: -11px;
+  opacity: 0;
+  position: absolute;
+  top: -10px;
+  width: calc(100.00% + 22px);
+}
+.booking-with-destination-phayathai .bg-W6DbBJ {
+  background-color: var(--white);
+  height: calc(100.00% + 21px);
+  left: -11px;
+  opacity: 0;
+  position: absolute;
+  top: -10px;
+  width: calc(100.00% + 22px);
+}
+.booking-with-destination-phayathai .bg-Zh7wSs {
+  background-color: var(--white);
+  bottom: -44px;
+  height: 44px;
+  opacity: 0;
+  position: absolute;
+  right: -44px;
+  width: 44px;
+}
+.booking-with-destination-phayathai .bg-dsLxRm {
+  background-color: var(--white);
+  height: calc(100.00% + 21px);
+  left: -12px;
+  opacity: 0;
+  position: absolute;
+  top: -10px;
+  width: calc(100.00% + 24px);
+}
+.booking-with-destination-phayathai .bg-eaczzm {
+  background-color: var(--white);
+  height: calc(100.00% + 21px);
+  left: -14px;
+  opacity: 0;
+  position: absolute;
+  top: -10px;
+  width: calc(100.00% + 28px);
+}
+.booking-with-destination-phayathai .bg-exaa5x {
+  background-color: var(--white);
+  height: calc(100.00% + 21px);
+  left: -12px;
+  opacity: 0;
+  position: absolute;
+  top: -10px;
+  width: calc(100.00% + 24px);
+}
+.booking-with-destination-phayathai .bg-gDxPbk {
+  background-color: var(--white);
+  height: calc(100.00% + 21px);
+  left: -11px;
+  opacity: 0;
+  position: absolute;
+  top: -10px;
+  width: calc(100.00% + 22px);
+}
+.booking-with-destination-phayathai .bg-hwOg8C {
+  background-color: var(--white);
+  height: calc(100.00% + 21px);
+  left: -12px;
+  opacity: 0;
+  position: absolute;
+  top: -10px;
+  width: calc(100.00% + 24px);
+}
+.booking-with-destination-phayathai .bg-i6xoRQ {
+  background-color: var(--white);
+  height: calc(100.00% + 21px);
+  left: -12px;
+  opacity: 0;
+  position: absolute;
+  top: -10px;
+  width: calc(100.00% + 24px);
+}
+.booking-with-destination-phayathai .bg-jMDHzF {
+  background-color: var(--white);
+  height: calc(100.00% + 21px);
+  left: -11px;
+  opacity: 0;
+  position: absolute;
+  top: -10px;
+  width: calc(100.00% + 22px);
+}
+.booking-with-destination-phayathai .bg-kjcJDS {
+  background-color: var(--white);
+  height: calc(100.00% + 44px);
+  left: -11px;
+  opacity: 0;
+  position: relative;
+  top: -10px;
+  width: calc(100.00% + 44px);
+}
+.booking-with-destination-phayathai .bg-lQqRqm {
+  background-color: var(--white);
+  height: calc(100.00% + 44px);
+  left: -11px;
+  opacity: 0;
+  position: relative;
+  top: -10px;
+  width: calc(100.00% + 44px);
+}
+.booking-with-destination-phayathai .bg-mDjvjM {
+  background-color: var(--white);
+  height: calc(100.00% + 21px);
+  left: -11px;
+  opacity: 0;
+  position: absolute;
+  top: -10px;
+  width: calc(100.00% + 22px);
+}
+.booking-with-destination-phayathai .bg-nyCAKL {
+  background-color: var(--white);
+  height: calc(100.00% + 21px);
+  left: -11px;
+  opacity: 0;
+  position: absolute;
+  top: -10px;
+  width: calc(100.00% + 22px);
+}
+.booking-with-destination-phayathai .bg-r91xlY {
+  background-color: var(--white);
+  height: calc(100.00% + 21px);
+  left: -16px;
+  opacity: 0;
+  position: absolute;
+  top: -10px;
+  width: calc(100.00% + 32px);
+}
+.booking-with-destination-phayathai .bg-rxhDVg {
+  background-color: var(--white);
+  height: calc(100.00% + 21px);
+  left: -12px;
+  opacity: 0;
+  position: absolute;
+  top: -10px;
+  width: calc(100.00% + 24px);
+}
+.booking-with-destination-phayathai .bg-uVN1gW {
+  background-color: var(--white);
+  height: calc(100.00% + 21px);
+  left: -21px;
+  opacity: 0;
+  position: absolute;
+  top: -10px;
+  width: calc(100.00% + 34px);
+}
+.booking-with-destination-phayathai .bg-vXGIX7 {
+  background-color: var(--white);
+  height: calc(100.00% + 21px);
+  left: -11px;
+  opacity: 0;
+  position: absolute;
+  top: -10px;
+  width: calc(100.00% + 22px);
+}
+.booking-with-destination-phayathai .bg-xdg7nj {
+  background-color: var(--white);
+  height: calc(100.00% + 21px);
+  left: -18px;
+  opacity: 0;
+  position: absolute;
+  top: -10px;
+  width: calc(100.00% + 32px);
+}
+.booking-with-destination-phayathai .bg-xwWH1s {
+  background-color: var(--white);
+  height: calc(100.00% + 21px);
+  left: -13px;
+  opacity: 0;
+  position: absolute;
+  top: -10px;
+  width: calc(100.00% + 26px);
+}
+.booking-with-destination-phayathai .booking-PBxZUg {
+  background-color: transparent;
+  bottom: 6px;
+  color: var(--black);
+  height: 42px;
+  left: 14px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 131px;
+}
+.booking-with-destination-phayathai .button-shape-C61RwL {
+  background-color: var(--azure-radiance);
+  border-radius: 8px;
+  height: 50px;
+  left: 44px;
+  position: absolute;
+  top: 797px;
+  width: 329px;
+}
+.booking-with-destination-phayathai .day-10-CxQCAj {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: calc(49.85% - 5px);
+  top: 0px;
+  width: 10px;
+}
+.booking-with-destination-phayathai .day-11-CxQCAj {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: calc(34.35% - 4px);
+  top: 0px;
+  width: 12px;
+}
+.booking-with-destination-phayathai .day-12-CxQCAj {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: calc(17.93% - 2px);
+  top: 0px;
+  width: 12px;
+}
+.booking-with-destination-phayathai .day-13-CxQCAj {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 20px;
+}
+.booking-with-destination-phayathai .day-14-u7EeiT {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 16px;
+}
+.booking-with-destination-phayathai .day-15-u7EeiT {
+  background-color: transparent;
+  height: 100%;
+  left: calc(16.05% - 3px);
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+.booking-with-destination-phayathai .day-16-u7EeiT {
+  background-color: transparent;
+  height: 100%;
+  left: calc(33.02% - 7px);
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+.booking-with-destination-phayathai .day-17-u7EeiT {
+  background-color: transparent;
+  height: 100%;
+  left: calc(49.69% - 10px);
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+.booking-with-destination-phayathai .day-18-u7EeiT {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: calc(33.33% - 7px);
+  top: 0px;
+  width: 20px;
+}
+.booking-with-destination-phayathai .day-19-u7EeiT {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: calc(16.67% - 3px);
+  top: 0px;
+  width: 20px;
+}
+.booking-with-destination-phayathai .day-20-u7EeiT {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 18px;
+}
+.booking-with-destination-phayathai .day-21-21qD9L {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+.booking-with-destination-phayathai .day-21-u1hB1U {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 22px;
+}
+.booking-with-destination-phayathai .day-22-21qD9L {
+  background-color: transparent;
+  height: 100%;
+  left: calc(16.46% - 3px);
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+.booking-with-destination-phayathai .day-22-u1hB1U {
+  background-color: transparent;
+  height: 100%;
+  left: calc(26.61% - 6px);
+  position: absolute;
+  top: 0px;
+  width: 22px;
+}
+.booking-with-destination-phayathai .day-23-21qD9L {
+  background-color: transparent;
+  height: 100%;
+  left: calc(33.13% - 7px);
+  position: absolute;
+  top: 0px;
+  width: 22px;
+}
+.booking-with-destination-phayathai .day-23-u1hB1U {
+  background-color: transparent;
+  height: 100%;
+  left: calc(50.00% - 11px);
+  position: absolute;
+  top: 0px;
+  width: 22px;
+}
+.booking-with-destination-phayathai .day-24-21qD9L {
+  background-color: transparent;
+  height: 100%;
+  left: calc(49.70% - 10px);
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+.booking-with-destination-phayathai .day-24-u1hB1U {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: calc(25.23% - 6px);
+  top: 0px;
+  width: 22px;
+}
+.booking-with-destination-phayathai .day-25-21qD9L {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: calc(33.44% - 7px);
+  top: 0px;
+  width: 22px;
+}
+.booking-with-destination-phayathai .day-25-u1hB1U {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 22px;
+}
+.booking-with-destination-phayathai .day-26-21qD9L {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: calc(16.87% - 4px);
+  top: 0px;
+  width: 22px;
+}
+.booking-with-destination-phayathai .day-26-u1hB1U {
+  background-color: transparent;
+  height: 0px;
+  position: absolute;
+  right: -32px;
+  top: 0px;
+  width: 0px;
+}
+.booking-with-destination-phayathai .day-27-21qD9L {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 22px;
+}
+.booking-with-destination-phayathai .day-27-u1hB1U {
+  background-color: transparent;
+  height: 0px;
+  position: absolute;
+  right: -87px;
+  top: 0px;
+  width: 0px;
+}
+.booking-with-destination-phayathai .day-3-XtblLg {
+  background-color: transparent;
+  height: 0px;
+  left: -38px;
+  position: absolute;
+  top: 0px;
+  width: 0px;
+}
+.booking-with-destination-phayathai .day-30-jcejLM {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: -95px;
+  top: 0px;
+  width: 0px;
+}
+.booking-with-destination-phayathai .day-4-XRTa7A {
+  background-color: var(--white);
+  background-image: url(../img/colour-1@1x.png);
+  background-size: 100% 100%;
+  bottom: 0px;
+  height: 44px;
+  left: calc(45.95% - 20px);
+  position: absolute;
+  width: 44px;
+}
+.booking-with-destination-phayathai .day-4-XtblLg {
+  background-color: transparent;
+  height: 0px;
+  left: -22px;
+  position: absolute;
+  top: -10px;
+  width: 0px;
+}
+.booking-with-destination-phayathai .day-5-XtblLg {
+  background-color: transparent;
+  height: 23px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 62px;
+}
+.booking-with-destination-phayathai .day-6-XtblLg {
+  background-color: transparent;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 12px;
+}
+.booking-with-destination-phayathai .day-7-CxQCAj {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 12px;
+}
+.booking-with-destination-phayathai .day-8-CxQCAj {
+  background-color: transparent;
+  height: 100%;
+  left: 56px;
+  position: absolute;
+  top: 0px;
+  width: 12px;
+}
+.booking-with-destination-phayathai .day-9-CxQCAj {
+  background-color: transparent;
+  height: 100%;
+  left: calc(33.43% - 4px);
+  position: absolute;
+  top: 0px;
+  width: 12px;
+}
+.booking-with-destination-phayathai .fri-rTwSIF {
+  background-color: transparent;
+  height: 17px;
+  position: absolute;
+  right: calc(16.97% - 4px);
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: 23px;
+}
+.booking-with-destination-phayathai .group-27-C61RwL {
+  background-color: transparent;
+  height: 85px;
+  left: 259px;
+  position: absolute;
+  top: 645px;
+  width: 124px;
+}
+.booking-with-destination-phayathai .group-83-C61RwL {
+  background-color: transparent;
+  height: 85px;
+  left: 27px;
+  position: absolute;
+  top: 645px;
+  width: 124px;
+}
+.booking-with-destination-phayathai .info-C61RwL {
+  background-color: var(--azure-radiance);
+  height: 144px;
+  left: 370px;
+  position: absolute;
+  top: 44px;
+  width: 44px;
+}
+.booking-with-destination-phayathai .large-title-4X9iy5 {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 15px;
+  height: 20px;
+  left: 14.75%;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  top: calc(50.00% - 10px);
+  white-space: nowrap;
+  width: 86.89%;
+}
+.booking-with-destination-phayathai .large-title-5nOBl0 {
+  background-color: transparent;
+  bottom: calc(117.69% - 24px);
+  color: var(--azure-radiance);
+  font-size: 15px;
+  height: 20px;
+  left: 0.81%;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 28.23%;
+}
+.booking-with-destination-phayathai .large-title-BKbGut {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 15px;
+  height: 20px;
+  left: 2.46%;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  top: calc(16.15% - 3px);
+  white-space: nowrap;
+  width: 89.34%;
+}
+.booking-with-destination-phayathai .large-title-N420tw {
+  background-color: transparent;
+  bottom: calc(14.62% - 3px);
+  color: var(--azure-radiance);
+  font-size: 15px;
+  height: 20px;
+  left: 14.75%;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 81.15%;
+}
+.booking-with-destination-phayathai .large-title-QqDjSa {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 15px;
+  height: 20px;
+  left: 14.75%;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  top: calc(50.00% - 10px);
+  white-space: nowrap;
+  width: 86.89%;
+}
+.booking-with-destination-phayathai .large-title-jQ4qbJ {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 15px;
+  height: 20px;
+  left: 0.82%;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  top: calc(16.15% - 3px);
+  white-space: nowrap;
+  width: 89.34%;
+}
+.booking-with-destination-phayathai .large-title-kDBFcx {
+  background-color: transparent;
+  bottom: calc(117.69% - 24px);
+  color: var(--azure-radiance);
+  font-size: 15px;
+  height: 20px;
+  left: 2.46%;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 13.93%;
+}
+.booking-with-destination-phayathai .large-title-xp7Z8m {
+  background-color: transparent;
+  bottom: calc(14.62% - 3px);
+  color: var(--azure-radiance);
+  font-size: 15px;
+  height: 20px;
+  left: 14.75%;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 68.03%;
+}
+.booking-with-destination-phayathai .left-accessory-PBxZUg {
+  background-color: transparent;
+  height: 44px;
+  left: 0px;
+  position: absolute;
+  top: calc(45.83% - 20px);
+  width: 180px;
+}
+.booking-with-destination-phayathai .mon-rTwSIF {
+  background-color: transparent;
+  height: 17px;
+  left: 45px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: 34px;
+}
+.booking-with-destination-phayathai .month-and-year-yebu2n {
+  background-color: transparent;
+  height: 24px;
+  left: 16px;
+  position: absolute;
+  top: 13px;
+  width: 129px;
+}
+.booking-with-destination-phayathai .month-yebu2n {
+  background-color: transparent;
+  height: 270px;
+  left: 15px;
+  position: absolute;
+  top: 53px;
+  width: calc(100.00% - 30px);
+}
+.booking-with-destination-phayathai .navigation-background-PBxZUg {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.booking-with-destination-phayathai .next-pvgYHY {
+  background-color: transparent;
+  bottom: calc(42.86% - 9px);
+  color: var(--white);
+  font-family: 'SFPro Text-Semibold', Helvetica, Arial, serif;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  height: 22px;
+  left: calc(49.83% - 20px);
+  letter-spacing: -0.10px;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 40px;
+}
+.booking-with-destination-phayathai .october-2020-oe30j2 {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'SFPro Display-Semibold', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.32px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.booking-with-destination-phayathai .parent-title-iN4sVF {
+  background-color: transparent;
+  height: 22px;
+  left: 26px;
+  position: absolute;
+  text-align: left;
+  top: calc(50.00% - 11px);
+  white-space: nowrap;
+  width: 40px;
+}
+.booking-with-destination-phayathai .picker-compact-light-C61RwL {
+  background-color: transparent;
+  height: 380px;
+  left: 16px;
+  position: absolute;
+  top: 158px;
+  width: 382px;
+}
+.booking-with-destination-phayathai .sat-rTwSIF {
+  background-color: transparent;
+  height: 17px;
+  position: absolute;
+  right: -1px;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: 27px;
+}
+.booking-with-destination-phayathai .sun-rTwSIF {
+  background-color: transparent;
+  height: 17px;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: 30px;
+}
+.booking-with-destination-phayathai .thu-rTwSIF {
+  background-color: transparent;
+  height: 17px;
+  position: absolute;
+  right: calc(33.13% - 10px);
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: 30px;
+}
+.booking-with-destination-phayathai .time-4DY9tO {
+  background-color: transparent;
+  bottom: calc(30.00% - 8px);
+  color: var(--black);
+  font-family: 'SFPro Display-Semibold', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 26px;
+  left: 0px;
+  letter-spacing: 0.32px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 47px;
+}
+.booking-with-destination-phayathai .time-picker-4DY9tO {
+  background-color: rgba(118,118,128,0.122);
+  border-radius: 6px;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 86px;
+}
+.booking-with-destination-phayathai .time-picker-inline-yebu2n {
+  background-color: transparent;
+  bottom: 16px;
+  height: 36px;
+  left: 16px;
+  position: absolute;
+  width: 226px;
+}
+.booking-with-destination-phayathai .tram-fill-copy-BKbGut {
+  background-color: transparent;
+  bottom: calc(35.21% - 5px);
+  height: 14px;
+  left: 0px;
+  position: absolute;
+  width: 14px;
+}
+.booking-with-destination-phayathai .tram-fill-copy-jQ4qbJ {
+  background-color: transparent;
+  bottom: calc(35.21% - 5px);
+  height: 14px;
+  left: 0px;
+  position: absolute;
+  width: 14px;
+}
+.booking-with-destination-phayathai .tue-rTwSIF {
+  background-color: transparent;
+  height: 17px;
+  left: calc(33.54% - 9px);
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: 28px;
+}
+.booking-with-destination-phayathai .wed-rTwSIF {
+  background-color: transparent;
+  height: 17px;
+  position: absolute;
+  right: calc(49.69% - 16px);
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: 33px;
+}
+.booking-with-destination-phayathai .week-1-rTwSIF {
+  background-color: transparent;
+  height: calc(100.00% - 40px);
+  position: absolute;
+  right: 5px;
+  top: 40px;
+  width: 118px;
+}
+.booking-with-destination-phayathai .week-2-rTwSIF {
+  background-color: transparent;
+  height: 23px;
+  left: 10px;
+  position: absolute;
+  top: calc(36.03% - 8px);
+  width: calc(100.00% - 11px);
+}
+.booking-with-destination-phayathai .week-3-rTwSIF {
+  background-color: transparent;
+  bottom: calc(44.13% - 10px);
+  height: 23px;
+  left: 6px;
+  position: absolute;
+  width: calc(100.00% - 8px);
+}
+.booking-with-destination-phayathai .week-4-rTwSIF {
+  background-color: transparent;
+  bottom: calc(24.29% - 6px);
+  height: 23px;
+  left: 4px;
+  position: absolute;
+  width: calc(100.00% - 4px);
+}
+.booking-with-destination-phayathai .week-4-uxLCbl {
+  background-color: transparent;
+  bottom: 11px;
+  height: 23px;
+  left: 1px;
+  position: absolute;
+  width: 240px;
+}
+.booking-with-destination-phayathai .week-5-rTwSIF {
+  background-color: transparent;
+  bottom: 34px;
+  height: 0px;
+  left: 3px;
+  position: absolute;
+  width: 0px;
+}
+.booking-with-destination-phayathai .x-fFT1hT {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'SFPro Display-Regular', Helvetica, Arial, serif;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+  height: 28px;
+  letter-spacing: 0.35px;
+  line-height: 22px;
+  position: absolute;
+  right: calc(49.37% - 3px);
+  text-align: right;
+  top: 6px;
+  white-space: nowrap;
+  width: 7px;
+}
+.booking-with-destination-phayathai .x09-fFT1hT {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'SFPro Display-Regular', Helvetica, Arial, serif;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+  height: calc(100.00% - 8px);
+  left: 8px;
+  letter-spacing: 1.01px;
+  line-height: 22px;
+  position: absolute;
+  text-align: right;
+  top: 7px;
+  white-space: nowrap;
+  width: 30px;
+}
+.booking-with-destination-phayathai .x1-G3l9Bb {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: 10px;
+}
+.booking-with-destination-phayathai .x10-hwOg8C {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.booking-with-destination-phayathai .x11-eaczzm {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.booking-with-destination-phayathai .x12-Cj1aEl {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.booking-with-destination-phayathai .x13-FzBqUr {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.booking-with-destination-phayathai .x14-exaa5x {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.booking-with-destination-phayathai .x15-rxhDVg {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.booking-with-destination-phayathai .x16-i6xoRQ {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.booking-with-destination-phayathai .x17-xwWH1s {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.booking-with-destination-phayathai .x18-Sv4Gz6 {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.booking-with-destination-phayathai .x19-dsLxRm {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.booking-with-destination-phayathai .x2-G3l9Bb {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  position: absolute;
+  right: -2px;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: 14px;
+}
+.booking-with-destination-phayathai .x20-W6DbBJ {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.booking-with-destination-phayathai .x21-L4vzTV {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.booking-with-destination-phayathai .x22-mDjvjM {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.booking-with-destination-phayathai .x23-vXGIX7 {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.booking-with-destination-phayathai .x24-2TZlVx {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.booking-with-destination-phayathai .x25-gDxPbk {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.booking-with-destination-phayathai .x26-ObzCNl {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.booking-with-destination-phayathai .x27-jMDHzF {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.booking-with-destination-phayathai .x28-Ta8ZT6 {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.booking-with-destination-phayathai .x29-nyCAKL {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.booking-with-destination-phayathai .x3-r91xlY {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.booking-with-destination-phayathai .x30-oZfUs1 {
+  background-color: transparent;
+  bottom: calc(11.54% - 4px);
+  color: var(--azure-radiance);
+  font-family: 'SFPro Text-Medium', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  height: 31px;
+  left: 6px;
+  letter-spacing: 0.14px;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: calc(100.00% - 10px);
+}
+.booking-with-destination-phayathai .x4-xdg7nj {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.booking-with-destination-phayathai .x41-fFT1hT {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'SFPro Display-Regular', Helvetica, Arial, serif;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+  height: calc(100.00% - 8px);
+  letter-spacing: 1.01px;
+  line-height: 22px;
+  position: absolute;
+  right: 9px;
+  text-align: right;
+  top: 7px;
+  white-space: nowrap;
+  width: 26px;
+}
+.booking-with-destination-phayathai .x5-F8PPVX {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.booking-with-destination-phayathai .x6-AbhSSq {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.booking-with-destination-phayathai .x7-uVN1gW {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.booking-with-destination-phayathai .x8-5WPhVT {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.booking-with-destination-phayathai .x9-Sq1BoA {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.border-class-1 {
+  border: 1px solid transparent;
+}
+.border-class-2 {
+  border: 1px solid var(--black);
+}
+.font-class-1 {
+  font-family: 'SFPro Display-Medium', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 500;
+}
+.font-class-10 {
+  color: var(--coral-red);
+  font-family: 'SFPro Text-Medium', Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: -0.24px;
+  line-height: 20px;
+}
+.font-class-2 {
+  color: var(--black);
+  font-family: 'SFPro Text-Regular', Helvetica, Arial, serif;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.87px;
+  line-height: 22px;
+}
+.font-class-3 {
+  font-family: 'SFPro Display-Bold', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.font-class-4 {
+  color: var(--black);
+  font-family: 'SFPro Display-Regular', Helvetica, Arial, serif;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.29px;
+  line-height: 25px;
+}
+.font-class-5 {
+  font-family: 'SFPro Text-Medium', Helvetica, Arial, serif;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: -0.41px;
+  line-height: 22px;
+}
+.font-class-6 {
+  font-family: 'SFPro Display-Bold', Helvetica, Arial, serif;
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0.27px;
+  line-height: 41px;
+}
+.font-class-7 {
+  color: var(--azure-radiance);
+  font-family: 'SFPro Text-Regular', Helvetica, Arial, serif;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.54px;
+  line-height: 22px;
+}
+.font-class-8 {
+  color: var(--ship-gray-2);
+  font-family: 'SFPro Text-Semibold', Helvetica, Arial, serif;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.08px;
+  line-height: 22px;
+}
+.font-class-9 {
+  color: var(--black);
+  font-family: 'SFPro Text-Semibold', Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.30px;
+  line-height: 15px;
+}
+:root {
+  --azure-radiance: rgba(0,122,255,1.0);
+  --black: rgba(0,0,0,1.0);
+  --coral-red: rgba(255,69,58,0.6);
+  --oslo-gray: rgba(138,138,142,1.0);
+  --pizazz: rgba(253,147,0,1.0);
+  --pizazz-2: rgba(255,149,0,1.0);
+  --ship-gray: rgba(60,60,67,0.29);
+  --ship-gray-2: rgba(60,60,67,0.302);
+  --ship-gray-3: rgba(60,60,67,1.0);
+  --white: rgba(255,255,255,1.0);
+}

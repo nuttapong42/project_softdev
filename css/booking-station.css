@@ -1,0 +1,1101 @@
+/* screen - booking-station */
+
+.booking-station {
+  background-color: var(--white);
+  border: 1px solid rgba(112,112,112,1.0);
+  height: 896px;
+  overflow: hidden;
+  position: relative;
+  width: 414px;
+}
+.booking-station .arrow-copy-AX7pWk {
+  background-color: transparent;
+  height: 12px;
+  position: absolute;
+  right: 13px;
+  top: calc(50.00% - 6px);
+  width: 12px;
+}
+.booking-station .arrow-copy-SO40Oe {
+  background-color: transparent;
+  height: 12px;
+  position: absolute;
+  right: 13px;
+  top: calc(50.00% - 6px);
+  width: 12px;
+}
+.booking-station .arrow-copy-WQXeF1 {
+  background-color: transparent;
+  height: 12px;
+  position: absolute;
+  right: 13px;
+  top: calc(50.00% - 6px);
+  width: 12px;
+}
+.booking-station .arrow-copy-bAyQtV {
+  background-color: transparent;
+  height: 12px;
+  position: absolute;
+  right: 13px;
+  top: calc(50.00% - 6px);
+  width: 12px;
+}
+.booking-station .arrow-copy-vUOK69 {
+  background-color: transparent;
+  height: 12px;
+  position: absolute;
+  right: 13px;
+  top: calc(50.00% - 6px);
+  width: 12px;
+}
+.booking-station .arrow-copy-wz60dm {
+  background-color: transparent;
+  height: 12px;
+  position: absolute;
+  right: 13px;
+  top: calc(50.00% - 6px);
+  width: 12px;
+}
+.booking-station .arrow-copy-xFApRQ {
+  background-color: transparent;
+  height: 12px;
+  position: absolute;
+  right: 13px;
+  top: calc(50.00% - 6px);
+  width: 12px;
+}
+.booking-station .back-meduim-YJx3m3 {
+  background-color: transparent;
+  bottom: calc(47.62% - 11px);
+  height: 23px;
+  left: 6px;
+  position: absolute;
+  width: 23px;
+}
+.booking-station .background-svx8Gt {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.booking-station .bars-navig-ith-search-C61RwL {
+  background-color: transparent;
+  height: 192px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 414px;
+}
+.booking-station .bg-5bC1xY {
+  background-color: var(--white);
+  height: 100%;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.booking-station .bg-8Htb4o {
+  background-color: var(--white);
+  height: 100%;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.booking-station .bg-RaxmHB {
+  background-color: var(--white);
+  height: 100%;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.booking-station .bg-RfdxCP {
+  background-color: var(--white);
+  height: 100%;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.booking-station .bg-ayqBV4 {
+  background-color: var(--white);
+  height: 100%;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.booking-station .bg-cBpqeU {
+  background-color: var(--white);
+  height: 100%;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.booking-station .bg-tCibme {
+  background-color: var(--white);
+  height: 100%;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.booking-station .disclosure-2SNI4m {
+  background-color: transparent;
+  height: 100%;
+  left: 24px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% - 39px);
+}
+.booking-station .disclosure-FmFiXw {
+  background-color: transparent;
+  height: 100%;
+  left: 24px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% - 39px);
+}
+.booking-station .disclosure-GaZyP7 {
+  background-color: transparent;
+  height: 100%;
+  left: 24px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% - 39px);
+}
+.booking-station .disclosure-RNFajs {
+  background-color: transparent;
+  height: 100%;
+  left: 24px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% - 39px);
+}
+.booking-station .disclosure-jTJZp8 {
+  background-color: transparent;
+  height: 100%;
+  left: 24px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% - 39px);
+}
+.booking-station .disclosure-s4EA4V {
+  background-color: transparent;
+  height: 100%;
+  left: 24px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% - 39px);
+}
+.booking-station .disclosure-ur8oio {
+  background-color: transparent;
+  height: 100%;
+  left: 24px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% - 39px);
+}
+.booking-station .frame-CKb00L {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 119px);
+}
+.booking-station .frame-qe4Vxz {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 112px);
+}
+.booking-station .group-1-AX7pWk {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.booking-station .group-1-SO40Oe {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.booking-station .group-1-WQXeF1 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.booking-station .group-1-bAyQtV {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.booking-station .group-1-vUOK69 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.booking-station .group-1-wz60dm {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.booking-station .group-1-xFApRQ {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.booking-station .group-11-C61RwL {
+  background-color: transparent;
+  height: 60px;
+  left: 0px;
+  position: absolute;
+  top: 252px;
+  width: 414px;
+}
+.booking-station .group-12-C61RwL {
+  background-color: transparent;
+  height: 60px;
+  left: 0px;
+  position: absolute;
+  top: 312px;
+  width: 414px;
+}
+.booking-station .group-13-C61RwL {
+  background-color: transparent;
+  height: 60px;
+  left: 0px;
+  position: absolute;
+  top: 372px;
+  width: 414px;
+}
+.booking-station .group-14-C61RwL {
+  background-color: transparent;
+  height: 60px;
+  left: 0px;
+  position: absolute;
+  top: 432px;
+  width: 414px;
+}
+.booking-station .group-15-C61RwL {
+  background-color: transparent;
+  height: 60px;
+  left: 0px;
+  position: absolute;
+  top: 492px;
+  width: 414px;
+}
+.booking-station .group-16-C61RwL {
+  background-color: transparent;
+  height: 60px;
+  left: 0px;
+  position: absolute;
+  top: 552px;
+  width: 414px;
+}
+.booking-station .group-7-C61RwL {
+  background-color: transparent;
+  height: 60px;
+  left: 0px;
+  position: absolute;
+  top: 192px;
+  width: 414px;
+}
+.booking-station .left-accessory-5bC1xY {
+  background-color: transparent;
+  height: 100%;
+  left: 16px;
+  position: absolute;
+  top: 0px;
+  width: 183px;
+}
+.booking-station .left-accessory-8Htb4o {
+  background-color: transparent;
+  height: 100%;
+  left: 16px;
+  position: absolute;
+  top: 0px;
+  width: 183px;
+}
+.booking-station .left-accessory-RWLQm2 {
+  background-color: transparent;
+  height: 44px;
+  left: 0px;
+  position: absolute;
+  top: calc(29.73% - 13px);
+  width: 180px;
+}
+.booking-station .left-accessory-RaxmHB {
+  background-color: transparent;
+  height: 100%;
+  left: 16px;
+  position: absolute;
+  top: 0px;
+  width: 183px;
+}
+.booking-station .left-accessory-RfdxCP {
+  background-color: transparent;
+  height: 100%;
+  left: 16px;
+  position: absolute;
+  top: 0px;
+  width: 302px;
+}
+.booking-station .left-accessory-ayqBV4 {
+  background-color: transparent;
+  height: 100%;
+  left: 16px;
+  position: absolute;
+  top: 0px;
+  width: 295px;
+}
+.booking-station .left-accessory-cBpqeU {
+  background-color: transparent;
+  height: 100%;
+  left: 16px;
+  position: absolute;
+  top: 0px;
+  width: 183px;
+}
+.booking-station .left-accessory-tCibme {
+  background-color: transparent;
+  height: 100%;
+  left: 16px;
+  position: absolute;
+  top: 0px;
+  width: 183px;
+}
+.booking-station .magnifyingglass-C61RwL {
+  background-color: transparent;
+  height: 16px;
+  left: 24px;
+  position: absolute;
+  top: 151px;
+  width: 16px;
+}
+.booking-station .micfill-C61RwL {
+  background-color: transparent;
+  height: 18px;
+  left: 360px;
+  position: absolute;
+  top: 150px;
+  width: 17px;
+}
+.booking-station .navigation-background-RWLQm2 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.booking-station .parent-title-YJx3m3 {
+  background-color: transparent;
+  height: 22px;
+  left: 26px;
+  position: absolute;
+  text-align: left;
+  top: calc(43.18% - 10px);
+  white-space: nowrap;
+  width: 88px;
+}
+.booking-station .placeholder-label-C61RwL {
+  background-color: transparent;
+  color: rgba(60,60,67,0.6);
+  font-family: 'SFPro Text-Regular', Helvetica, Arial, serif;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  height: 24px;
+  left: 45px;
+  letter-spacing: -0.56px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 146px;
+  white-space: nowrap;
+  width: 56px;
+}
+.booking-station .right-accessory-5bC1xY {
+  background-color: var(--azure-radiance);
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 189px;
+}
+.booking-station .right-accessory-8Htb4o {
+  background-color: var(--azure-radiance);
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 189px;
+}
+.booking-station .right-accessory-RWLQm2 {
+  background-color: transparent;
+  height: 44px;
+  position: absolute;
+  right: 1px;
+  top: calc(29.73% - 13px);
+  width: 180px;
+}
+.booking-station .right-accessory-RaxmHB {
+  background-color: var(--azure-radiance);
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 189px;
+}
+.booking-station .right-accessory-RfdxCP {
+  background-color: var(--azure-radiance);
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 189px;
+}
+.booking-station .right-accessory-ayqBV4 {
+  background-color: var(--azure-radiance);
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 189px;
+}
+.booking-station .right-accessory-cBpqeU {
+  background-color: var(--azure-radiance);
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 189px;
+}
+.booking-station .right-accessory-tCibme {
+  background-color: var(--azure-radiance);
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 189px;
+}
+.booking-station .row-large-75u7LO {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.booking-station .row-large-BqlHzs {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.booking-station .row-large-RJnAwL {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.booking-station .row-large-SPRiqU {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.booking-station .row-large-T8Bvw3 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.booking-station .row-large-UcxzRt {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.booking-station .row-large-onYGoY {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.booking-station .search-field-s1TgCM {
+  background-color: rgba(118,118,128,0.122);
+  border-radius: 10px;
+  height: 100%;
+  left: 16px;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% - 32px);
+}
+.booking-station .search-field-type-RWLQm2 {
+  background-color: transparent;
+  bottom: 15px;
+  height: 36px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.booking-station .separator-1VxX8z {
+  background-color: var(--ship-gray);
+  bottom: 0px;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.booking-station .separator-5bC1xY {
+  background-color: var(--white);
+  bottom: 0px;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.booking-station .separator-8Htb4o {
+  background-color: var(--white);
+  bottom: 0px;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.booking-station .separator-8tzTvn {
+  background-color: var(--ship-gray);
+  bottom: 0px;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.booking-station .separator-Ndkv9L {
+  background-color: var(--ship-gray);
+  bottom: 0px;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.booking-station .separator-RaxmHB {
+  background-color: var(--white);
+  bottom: 0px;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.booking-station .separator-RfdxCP {
+  background-color: var(--white);
+  bottom: 0px;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.booking-station .separator-ayqBV4 {
+  background-color: var(--white);
+  bottom: 0px;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.booking-station .separator-cBpqeU {
+  background-color: var(--white);
+  bottom: 0px;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.booking-station .separator-f1ZgAn {
+  background-color: var(--ship-gray);
+  bottom: 0px;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.booking-station .separator-oxHNcV {
+  background-color: var(--ship-gray);
+  bottom: 0px;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.booking-station .separator-tCibme {
+  background-color: var(--white);
+  bottom: 0px;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.booking-station .separator-wM1lQt {
+  background-color: var(--ship-gray);
+  bottom: 0px;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.booking-station .separator-wm0oRq {
+  background-color: var(--ship-gray);
+  bottom: 0px;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.booking-station .span0-RFexKN {
+  color: rgba(255,69,58,0.6);
+  font-family: 'SFPro Text-Medium', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 500;
+}
+.booking-station .span0-xXYU3U {
+  color: rgba(255,69,58,0.6);
+  font-family: 'SFPro Text-Medium', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 500;
+}
+.booking-station .span1-RFexKN {
+  font-family: 'SFPro Text-Medium', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 500;
+}
+.booking-station .span1-xXYU3U {
+  font-family: 'SFPro Text-Medium', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 500;
+}
+.booking-station .subtitle-BTB7BJ {
+  background-color: transparent;
+  bottom: 1px;
+  color: rgba(10,132,255,0.6);
+  font-family: "SF Pro Text", Helvetica, Arial, serif;
+  font-size: 13px;
+  height: 17px;
+  left: 0px;
+  letter-spacing: -0.21px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.booking-station .subtitle-EzxRUg {
+  background-color: transparent;
+  bottom: -1px;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 16px);
+}
+.booking-station .subtitle-NSV5BV {
+  background-color: transparent;
+  bottom: -1px;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 1px);
+}
+.booking-station .subtitle-eZVDOh {
+  background-color: transparent;
+  bottom: -1px;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.booking-station .subtitle-mwo70m {
+  background-color: transparent;
+  bottom: -1px;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 13px);
+}
+.booking-station .subtitle-n1xysx {
+  background-color: transparent;
+  bottom: 1px;
+  color: rgba(50,215,75,0.6);
+  font-family: "SF Pro Text", Helvetica, Arial, serif;
+  font-size: 13px;
+  height: 17px;
+  left: 0px;
+  letter-spacing: -0.21px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.booking-station .subtitle-qGiHKJ {
+  background-color: transparent;
+  bottom: -1px;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.booking-station .title-1a1Sex {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.booking-station .title-BTB7BJ {
+  background-color: transparent;
+  color: var(--black);
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  white-space: nowrap;
+  width: 192px;
+}
+.booking-station .title-CKb00L {
+  background-color: transparent;
+  height: 39px;
+  left: 0px;
+  position: absolute;
+  top: calc(47.62% - 19px);
+  width: 302px;
+}
+.booking-station .title-EzxRUg {
+  background-color: transparent;
+  color: var(--black);
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  white-space: nowrap;
+  width: 132px;
+}
+.booking-station .title-GxcmE3 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.booking-station .title-KONdK9 {
+  background-color: transparent;
+  height: 40px;
+  left: 0px;
+  position: relative;
+  top: calc(50.00% - 20px);
+  width: 112px;
+}
+.booking-station .title-NSV5BV {
+  background-color: transparent;
+  color: var(--black);
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  white-space: nowrap;
+  width: 115px;
+}
+.booking-station .title-PAXkDa {
+  background-color: transparent;
+  height: 40px;
+  left: 0px;
+  position: relative;
+  top: calc(50.00% - 20px);
+  width: 127px;
+}
+.booking-station .title-Qn00o0 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.booking-station .title-UbY52M {
+  background-color: transparent;
+  height: 40px;
+  left: 0px;
+  position: relative;
+  top: calc(50.00% - 20px);
+  width: 113px;
+}
+.booking-station .title-Uy0R1r {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.booking-station .title-XMygsu {
+  background-color: transparent;
+  height: 40px;
+  left: 0px;
+  position: relative;
+  top: calc(50.00% - 20px);
+  width: 112px;
+}
+.booking-station .title-Yrxnwg {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.booking-station .title-cfGpkJ {
+  background-color: transparent;
+  height: 40px;
+  left: 0px;
+  position: relative;
+  top: calc(50.00% - 20px);
+  width: 130px;
+}
+.booking-station .title-eZVDOh {
+  background-color: transparent;
+  color: var(--black);
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  white-space: nowrap;
+  width: 71px;
+}
+.booking-station .title-mwo70m {
+  background-color: transparent;
+  color: var(--black);
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  white-space: nowrap;
+  width: 129px;
+}
+.booking-station .title-n1xysx {
+  background-color: transparent;
+  color: var(--black);
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  white-space: nowrap;
+  width: 79px;
+}
+.booking-station .title-pBCZ9f {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.booking-station .title-qGiHKJ {
+  background-color: transparent;
+  color: var(--black);
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  white-space: nowrap;
+  width: 109px;
+}
+.booking-station .title-qe4Vxz {
+  background-color: transparent;
+  height: 39px;
+  left: 0px;
+  position: absolute;
+  top: calc(47.62% - 19px);
+  width: 295px;
+}
+.booking-station .title-sll2iC {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.booking-station .to-RWLQm2 {
+  background-color: transparent;
+  bottom: calc(39.00% - 16px);
+  color: var(--black);
+  height: 42px;
+  left: 14px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 38px;
+}
+.border-class-1 {
+  border: 1px solid transparent;
+}
+.border-class-2 {
+  border: 1px solid var(--black);
+}
+.font-class-1 {
+  font-family: 'SFPro Display-Medium', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 500;
+}
+.font-class-10 {
+  color: var(--coral-red);
+  font-family: 'SFPro Text-Medium', Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: -0.24px;
+  line-height: 20px;
+}
+.font-class-2 {
+  color: var(--black);
+  font-family: 'SFPro Text-Regular', Helvetica, Arial, serif;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.87px;
+  line-height: 22px;
+}
+.font-class-3 {
+  font-family: 'SFPro Display-Bold', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.font-class-4 {
+  color: var(--black);
+  font-family: 'SFPro Display-Regular', Helvetica, Arial, serif;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.29px;
+  line-height: 25px;
+}
+.font-class-5 {
+  font-family: 'SFPro Text-Medium', Helvetica, Arial, serif;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: -0.41px;
+  line-height: 22px;
+}
+.font-class-6 {
+  font-family: 'SFPro Display-Bold', Helvetica, Arial, serif;
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0.27px;
+  line-height: 41px;
+}
+.font-class-7 {
+  color: var(--azure-radiance);
+  font-family: 'SFPro Text-Regular', Helvetica, Arial, serif;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.54px;
+  line-height: 22px;
+}
+.font-class-8 {
+  color: var(--ship-gray-2);
+  font-family: 'SFPro Text-Semibold', Helvetica, Arial, serif;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.08px;
+  line-height: 22px;
+}
+.font-class-9 {
+  color: var(--black);
+  font-family: 'SFPro Text-Semibold', Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.30px;
+  line-height: 15px;
+}
+:root {
+  --azure-radiance: rgba(0,122,255,1.0);
+  --black: rgba(0,0,0,1.0);
+  --coral-red: rgba(255,69,58,0.6);
+  --oslo-gray: rgba(138,138,142,1.0);
+  --pizazz: rgba(253,147,0,1.0);
+  --pizazz-2: rgba(255,149,0,1.0);
+  --ship-gray: rgba(60,60,67,0.29);
+  --ship-gray-2: rgba(60,60,67,0.302);
+  --ship-gray-3: rgba(60,60,67,1.0);
+  --white: rgba(255,255,255,1.0);
+}

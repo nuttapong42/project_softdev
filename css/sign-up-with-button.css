@@ -1,0 +1,219 @@
+/* screen - sign-up-with-button */
+
+.border-class-1 {
+  border: 1px solid transparent;
+}
+.border-class-2 {
+  border: 1px solid var(--black);
+}
+.font-class-1 {
+  font-family: 'SFPro Display-Medium', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 500;
+}
+.font-class-10 {
+  color: var(--coral-red);
+  font-family: 'SFPro Text-Medium', Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: -0.24px;
+  line-height: 20px;
+}
+.font-class-2 {
+  color: var(--black);
+  font-family: 'SFPro Text-Regular', Helvetica, Arial, serif;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.87px;
+  line-height: 22px;
+}
+.font-class-3 {
+  font-family: 'SFPro Display-Bold', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.font-class-4 {
+  color: var(--black);
+  font-family: 'SFPro Display-Regular', Helvetica, Arial, serif;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.29px;
+  line-height: 25px;
+}
+.font-class-5 {
+  font-family: 'SFPro Text-Medium', Helvetica, Arial, serif;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: -0.41px;
+  line-height: 22px;
+}
+.font-class-6 {
+  font-family: 'SFPro Display-Bold', Helvetica, Arial, serif;
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0.27px;
+  line-height: 41px;
+}
+.font-class-7 {
+  color: var(--azure-radiance);
+  font-family: 'SFPro Text-Regular', Helvetica, Arial, serif;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.54px;
+  line-height: 22px;
+}
+.font-class-8 {
+  color: var(--ship-gray-2);
+  font-family: 'SFPro Text-Semibold', Helvetica, Arial, serif;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.08px;
+  line-height: 22px;
+}
+.font-class-9 {
+  color: var(--black);
+  font-family: 'SFPro Text-Semibold', Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.30px;
+  line-height: 15px;
+}
+.sign-up-with-button {
+  background-color: transparent;
+  height: 896px;
+  overflow: hidden;
+  position: relative;
+  width: 414px;
+}
+.sign-up-with-button .already-ha-ccount-yet-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-size: 16px;
+  height: 34px;
+  left: 114px;
+  line-height: 16px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 724px;
+  transition: all 0.2s ease;
+  width: 189px;
+}
+.sign-up-with-button .already-ha-ccount-yet-C61RwL:hover {
+
+transform: scale(1.1);
+}
+.sign-up-with-button .button-background-NCkdbP {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.sign-up-with-button .button-shape-AULykm {
+  background-color: var(--azure-radiance);
+  border-radius: 6px;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.sign-up-with-button .continue-with-apple-C61RwL {
+  background-color: transparent;
+  height: 44px;
+  left: 57px;
+  pointer-events: auto;
+  position: absolute;
+  top: 650px;
+  transition: all 0.2s ease;
+  width: 300px;
+}
+.sign-up-with-button .continue-with-apple-C61RwL:hover {
+
+transform: scale(1.1);
+}
+.sign-up-with-button .group-85-C61RwL {
+  background-color: transparent;
+  height: 104px;
+  left: 57px;
+  position: absolute;
+  top: 159px;
+  width: 220px;
+}
+.sign-up-with-button .img5248-xwQzQP {
+  background-color: transparent;
+  height: 100%;
+  left: -62px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 180px);
+}
+.sign-up-with-button .mask-group-2-C61RwL {
+  background-color: transparent;
+  height: 896px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 414px;
+}
+.sign-up-with-button .title1-CNpLuU {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'SFPro Display-Regular', Helvetica, Arial, serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: 38px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 34px;
+  position: absolute;
+  text-align: left;
+  top: calc(104.55% - 40px);
+  white-space: nowrap;
+  width: 100.92%;
+}
+.sign-up-with-button .title1-rFX9Nh {
+  background-color: transparent;
+  color: var(--white);
+  font-size: 30px;
+  height: 72px;
+  left: 0px;
+  line-height: 34px;
+  position: absolute;
+  text-align: left;
+  top: calc(3.12% - 2px);
+  white-space: nowrap;
+  width: 96.33%;
+}
+.sign-up-with-button .x-continue-with-appl-NCkdbP {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 5px;
+  position: absolute;
+  top: 4px;
+  width: calc(100.00% - 10px);
+}
+:root {
+  --azure-radiance: rgba(0,122,255,1.0);
+  --black: rgba(0,0,0,1.0);
+  --coral-red: rgba(255,69,58,0.6);
+  --oslo-gray: rgba(138,138,142,1.0);
+  --pizazz: rgba(253,147,0,1.0);
+  --pizazz-2: rgba(255,149,0,1.0);
+  --ship-gray: rgba(60,60,67,0.29);
+  --ship-gray-2: rgba(60,60,67,0.302);
+  --ship-gray-3: rgba(60,60,67,1.0);
+  --white: rgba(255,255,255,1.0);
+}

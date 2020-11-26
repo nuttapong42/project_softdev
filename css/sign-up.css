@@ -1,0 +1,624 @@
+/* screen - sign-up */
+
+.border-class-1 {
+  border: 1px solid var(--black);
+}
+.font-class-1 {
+  font-family: 'SFPro Display-Medium', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 500;
+}
+.font-class-10 {
+  font-family: 'SFPro Text-Regular', Helvetica, Arial, serif;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.56px;
+  line-height: 22px;
+}
+.font-class-2 {
+  color: var(--black);
+  font-family: 'SFPro Text-Regular', Helvetica, Arial, serif;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.87px;
+  line-height: 22px;
+}
+.font-class-3 {
+  color: var(--black);
+  font-family: 'SFPro Display-Regular', Helvetica, Arial, serif;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.29px;
+  line-height: 25px;
+}
+.font-class-4 {
+  font-family: 'SFPro Display-Bold', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.font-class-5 {
+  font-family: 'SFPro Text-Medium', Helvetica, Arial, serif;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: -0.41px;
+  line-height: 22px;
+}
+.font-class-6 {
+  color: var(--ship-gray-2);
+  font-family: 'SFPro Text-Semibold', Helvetica, Arial, serif;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.08px;
+  line-height: 22px;
+}
+.font-class-7 {
+  font-family: 'SFPro Display-Bold', Helvetica, Arial, serif;
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0.27px;
+  line-height: 41px;
+}
+.font-class-8 {
+  color: var(--azure-radiance);
+  font-family: 'SFPro Text-Regular', Helvetica, Arial, serif;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.54px;
+  line-height: 22px;
+}
+.font-class-9 {
+  color: var(--coral-red);
+  font-family: 'SFPro Text-Medium', Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: -0.24px;
+  line-height: 20px;
+}
+.sign-up {
+  background-color: var(--white);
+  height: 896px;
+  overflow: hidden;
+  position: relative;
+  width: 414px;
+}
+.sign-up .already-ha-ccount-yet-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-size: 16px;
+  height: 34px;
+  left: 114px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  top: 724px;
+  width: 189px;
+}
+.sign-up .battery-hRp5Ot {
+  background-color: transparent;
+  height: 11px;
+  position: absolute;
+  right: 0px;
+  top: calc(50.00% - 6px);
+  width: 24px;
+}
+.sign-up .border-NZfiAq {
+  background-color: transparent;
+  border-radius: 2.7px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.35;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 2px);
+}
+.sign-up .button-background-HcIYzq {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.sign-up .button-background-NCkdbP {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.sign-up .button-background-SUr2Ro {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.sign-up .button-background-SbQ76T {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.sign-up .button-background-cFLpZP {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.sign-up .button-background-rYsaXx {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.sign-up .button-shape-2gsgZP {
+  background-color: transparent;
+  border-radius: 6px;
+  height: calc(100.00% + 18px);
+  left: -9px;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 18px);
+}
+.sign-up .button-shape-4tPtOX {
+  background-color: transparent;
+  border-radius: 6px;
+  height: calc(100.00% + 18px);
+  left: -9px;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 18px);
+}
+.sign-up .button-shape-AULykm {
+  background-color: var(--azure-radiance);
+  border-radius: 6px;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.sign-up .button-shape-ez0GF9 {
+  background-color: transparent;
+  border-radius: 6px;
+  height: calc(100.00% + 18px);
+  left: -9px;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 18px);
+}
+.sign-up .button-shape-gcoNzY {
+  background-color: transparent;
+  border-radius: 6px;
+  height: calc(100.00% + 18px);
+  left: -9px;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 18px);
+}
+.sign-up .button-shape-zruVRw {
+  background-color: transparent;
+  border-radius: 6px;
+  height: calc(100.00% + 18px);
+  left: -9px;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 18px);
+}
+.sign-up .cap-NZfiAq {
+  background-color: transparent;
+  bottom: calc(50.00% - 2px);
+  height: 4px;
+  position: absolute;
+  right: 0px;
+  width: 1px;
+}
+.sign-up .capacity-NZfiAq {
+  background-color: var(--black);
+  border-radius: 1.3px;
+  height: calc(100.00% - 4px);
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  width: 18px;
+}
+.sign-up .cellular-c-ction-path-5BR0lh {
+  background-color: transparent;
+  bottom: 1px;
+  height: 4px;
+  left: 1px;
+  position: absolute;
+  width: 3px;
+}
+.sign-up .cellular-c-ction-path-8awI5F {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 3px;
+}
+.sign-up .cellular-c-ction-path-vAYWZw {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 1px;
+  top: 0px;
+  width: 3px;
+}
+.sign-up .cellular-c-ction-path-vz6XFD {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 3px;
+}
+.sign-up .cellular-connection-hRp5Ot {
+  background-color: transparent;
+  height: calc(100.00% - 7px);
+  position: absolute;
+  right: 50px;
+  top: 4px;
+  width: 17px;
+}
+.sign-up .continue-with-apple-0N6bnk {
+  background-color: transparent;
+  height: 44px;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.sign-up .continue-with-apple-C2we7x {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.sign-up .continue-with-apple-C61RwL {
+  background-color: transparent;
+  height: 44px;
+  left: 57px;
+  position: absolute;
+  top: 650px;
+  width: 300px;
+}
+.sign-up .continue-with-apple-SGWmDw {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.sign-up .continue-with-apple-cPi90N {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.sign-up .continue-with-apple-myaAZc {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.sign-up .email-0N6bnk {
+  background-color: transparent;
+  color: var(--white);
+  font-size: 16px;
+  height: 25px;
+  left: 0px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  top: calc(20.56% - 5px);
+  width: 152px;
+}
+.sign-up .exclusion-4-Q7LKIV {
+  background-color: transparent;
+  height: calc(100.00% - 4px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.sign-up .exclusion-5-vAYWZw {
+  background-color: transparent;
+  bottom: 0px;
+  height: 6px;
+  left: 1px;
+  position: absolute;
+  width: 8px;
+}
+.sign-up .exclusion-6-8awI5F {
+  background-color: transparent;
+  bottom: 1px;
+  height: 8px;
+  left: 0px;
+  position: absolute;
+  width: 12px;
+}
+.sign-up .group-86-C61RwL {
+  background-color: transparent;
+  height: 44px;
+  left: 57px;
+  position: absolute;
+  top: 261px;
+  width: 302px;
+}
+.sign-up .group-90-C61RwL {
+  background-color: transparent;
+  height: 272px;
+  left: 57px;
+  position: absolute;
+  top: 334px;
+  width: 302px;
+}
+.sign-up .group-91-0N6bnk {
+  background-color: transparent;
+  height: 44px;
+  left: 0px;
+  position: absolute;
+  top: calc(32.46% - 14px);
+  width: calc(100.00% - 2px);
+}
+.sign-up .group-92-0N6bnk {
+  background-color: transparent;
+  bottom: calc(33.77% - 15px);
+  height: 44px;
+  left: 0px;
+  position: absolute;
+  width: calc(100.00% - 2px);
+}
+.sign-up .group-93-0N6bnk {
+  background-color: transparent;
+  bottom: 0px;
+  height: 44px;
+  left: 0px;
+  position: absolute;
+  width: calc(100.00% - 2px);
+}
+.sign-up .img5248-WggUxa {
+  background-color: transparent;
+  height: 100%;
+  left: -62px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 180px);
+}
+.sign-up .name-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-size: 16px;
+  height: 25px;
+  left: 57px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  top: 238px;
+  width: 152px;
+}
+.sign-up .password-0N6bnk {
+  background-color: transparent;
+  bottom: calc(17.09% - 4px);
+  color: var(--white);
+  font-size: 16px;
+  height: 25px;
+  left: 0px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  width: 152px;
+}
+.sign-up .phone-number-0N6bnk {
+  background-color: transparent;
+  bottom: calc(48.27% - 12px);
+  color: var(--white);
+  font-size: 16px;
+  height: 25px;
+  left: 0px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  width: 152px;
+}
+.sign-up .status-bar-ASWxeQ {
+  background-color: transparent;
+  height: 18px;
+  left: 21px;
+  position: relative;
+  top: calc(50.00% - 9px);
+  width: calc(100.00% - 35px);
+}
+.sign-up .status-bar-C61RwL {
+  background-color: var(--white);
+  height: 44px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 375px;
+}
+.sign-up .surname-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-size: 16px;
+  height: 25px;
+  left: 57px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  top: 311px;
+  width: 152px;
+}
+.sign-up .time-KRAbRt {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'SFPro Text-Semibold', Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 0px;
+  letter-spacing: -0.30px;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: calc(100.00% + 2px);
+}
+.sign-up .time-style-hRp5Ot {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 54px;
+}
+.sign-up .title1-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-size: 30px;
+  height: auto;
+  left: 57px;
+  line-height: 34px;
+  position: absolute;
+  text-align: left;
+  top: 163px;
+  white-space: nowrap;
+  width: auto;
+}
+.sign-up .train-pic-C61RwL {
+  background-color: transparent;
+  height: 896px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 414px;
+}
+.sign-up .wifi-hRp5Ot {
+  background-color: transparent;
+  height: calc(100.00% - 7px);
+  position: absolute;
+  right: 29px;
+  top: 3px;
+  width: 15px;
+}
+.sign-up .wifi-path-BIj6xZ {
+  background-color: transparent;
+  height: 5px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.sign-up .wifi-path-Nw9yab {
+  background-color: transparent;
+  bottom: 1px;
+  height: 4px;
+  left: 3px;
+  position: absolute;
+  width: calc(100.00% - 5px);
+}
+.sign-up .wifi-path-Q7LKIV {
+  background-color: transparent;
+  bottom: 0px;
+  height: 3px;
+  position: absolute;
+  right: calc(50.00% - 2px);
+  width: 5px;
+}
+.sign-up .x-continue-with-appl-NCkdbP {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 5px;
+  position: absolute;
+  top: 4px;
+  width: calc(100.00% - 10px);
+}
+.sign-up .x-enter-you-one-number-SGWmDw {
+  background-color: transparent;
+  bottom: 4px;
+  color: var(--white);
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  width: calc(100.00% + 2px);
+}
+.sign-up .x-enter-your-email-C2we7x {
+  background-color: transparent;
+  bottom: 4px;
+  color: var(--white);
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  width: calc(100.00% + 2px);
+}
+.sign-up .x-enter-your-name-cPi90N {
+  background-color: transparent;
+  bottom: 4px;
+  color: var(--white);
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  width: calc(100.00% + 2px);
+}
+.sign-up .x-enter-your-password-myaAZc {
+  background-color: transparent;
+  bottom: 4px;
+  color: var(--white);
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  width: calc(100.00% + 2px);
+}
+.sign-up .x-enter-your-surname-0N6bnk {
+  background-color: transparent;
+  color: var(--white);
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  width: calc(100.00% + 2px);
+}
+:root {
+  --azure-radiance: rgba(0,122,255,1.0);
+  --black: rgba(0,0,0,1.0);
+  --coral-red: rgba(255,69,58,0.6);
+  --malachite: rgba(50,215,75,1.0);
+  --pizazz: rgba(253,147,0,1.0);
+  --pizazz-2: rgba(255,149,0,1.0);
+  --ship-gray: rgba(60,60,67,0.29);
+  --ship-gray-2: rgba(60,60,67,0.302);
+  --ship-gray-3: rgba(60,60,67,1.0);
+  --white: rgba(255,255,255,1.0);
+}

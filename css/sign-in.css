@@ -1,0 +1,310 @@
+/* screen - sign-in */
+
+.border-class-1 {
+  border: 1px solid transparent;
+}
+.border-class-2 {
+  border: 1px solid var(--black);
+}
+.font-class-1 {
+  font-family: 'SFPro Display-Medium', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 500;
+}
+.font-class-10 {
+  color: var(--coral-red);
+  font-family: 'SFPro Text-Medium', Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: -0.24px;
+  line-height: 20px;
+}
+.font-class-2 {
+  color: var(--black);
+  font-family: 'SFPro Text-Regular', Helvetica, Arial, serif;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.87px;
+  line-height: 22px;
+}
+.font-class-3 {
+  font-family: 'SFPro Display-Bold', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.font-class-4 {
+  color: var(--black);
+  font-family: 'SFPro Display-Regular', Helvetica, Arial, serif;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.29px;
+  line-height: 25px;
+}
+.font-class-5 {
+  font-family: 'SFPro Text-Medium', Helvetica, Arial, serif;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: -0.41px;
+  line-height: 22px;
+}
+.font-class-6 {
+  font-family: 'SFPro Display-Bold', Helvetica, Arial, serif;
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0.27px;
+  line-height: 41px;
+}
+.font-class-7 {
+  color: var(--azure-radiance);
+  font-family: 'SFPro Text-Regular', Helvetica, Arial, serif;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.54px;
+  line-height: 22px;
+}
+.font-class-8 {
+  color: var(--ship-gray-2);
+  font-family: 'SFPro Text-Semibold', Helvetica, Arial, serif;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.08px;
+  line-height: 22px;
+}
+.font-class-9 {
+  color: var(--black);
+  font-family: 'SFPro Text-Semibold', Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.30px;
+  line-height: 15px;
+}
+.sign-in {
+  background-color: var(--white);
+  height: 896px;
+  overflow: hidden;
+  position: relative;
+  width: 414px;
+}
+.sign-in .button-background-NCkdbP {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.sign-in .button-background-ZOmkLV {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.sign-in .button-background-cFLpZP {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.sign-in .button-shape-AULykm {
+  background-color: transparent;
+  border-radius: 6px;
+  height: calc(100.00% + 18px);
+  left: -9px;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 18px);
+}
+.sign-in .button-shape-eNcbKg {
+  background-color: transparent;
+  border-radius: 6px;
+  height: calc(100.00% + 18px);
+  left: -9px;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 18px);
+}
+.sign-in .button-shape-zruVRw {
+  background-color: transparent;
+  border-radius: 6px;
+  height: calc(100.00% + 18px);
+  left: -9px;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 18px);
+}
+.sign-in .continue-with-apple-C61RwL {
+  background-color: transparent;
+  height: 44px;
+  left: 57px;
+  position: absolute;
+  top: 650px;
+  width: 300px;
+}
+.sign-in .continue-with-apple-D1n0rW {
+  background-color: transparent;
+  height: 100%;
+  left: 91px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 91px);
+}
+.sign-in .continue-with-apple-cPi90N {
+  background-color: transparent;
+  height: 100%;
+  left: 49px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 49px);
+}
+.sign-in .doesnt-hav-ccount-yet-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-size: 16px;
+  height: 34px;
+  left: 105px;
+  line-height: 16px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 723px;
+  transition: all 0.2s ease;
+  width: 207px;
+}
+.sign-in .doesnt-hav-ccount-yet-C61RwL:hover {
+
+transform: scale(1.1);
+}
+.sign-in .exampleemailcom-cPi90N {
+  background-color: transparent;
+  bottom: 4px;
+  color: var(--white);
+  font-family: 'SFPro Text-Regular', Helvetica, Arial, serif;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  height: 31px;
+  left: 0px;
+  letter-spacing: -0.56px;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  width: calc(100.00% - 61px);
+}
+.sign-in .group-86-C61RwL {
+  background-color: transparent;
+  height: 44px;
+  left: 8px;
+  position: absolute;
+  top: 261px;
+  width: 349px;
+}
+.sign-in .group-87-C61RwL {
+  background-color: transparent;
+  height: 44px;
+  left: -34px;
+  position: absolute;
+  top: 315px;
+  width: 391px;
+}
+.sign-in .img5248-WggUxa {
+  background-color: transparent;
+  height: 100%;
+  left: -62px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 180px);
+}
+.sign-in .password-D1n0rW {
+  background-color: transparent;
+  bottom: 3px;
+  color: var(--white);
+  font-family: 'SFPro Text-Regular', Helvetica, Arial, serif;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  height: 31px;
+  left: 0px;
+  letter-spacing: -0.56px;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  width: calc(100.00% - 103px);
+}
+.sign-in .span0-8hr6Ox {
+  color: rgba(255,255,255,1.0);
+  font-family: 'SFPro Display-Bold', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.sign-in .span1-8hr6Ox {
+  color: rgba(255,255,255,1.0);
+  font-family: 'SFPro Display-Regular', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.sign-in .title1-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: "SF Pro Display", Helvetica, Arial, serif;
+  font-size: 30px;
+  height: auto;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: 34px;
+  position: absolute;
+  text-align: left;
+  top: 163px;
+  white-space: nowrap;
+  width: auto;
+}
+.sign-in .train-pic-C61RwL {
+  background-color: transparent;
+  height: 896px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 414px;
+}
+.sign-in .x-continue-with-appl-NCkdbP {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'SFPro Display-Medium', Helvetica, Arial, serif;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 500;
+  height: 26px;
+  left: 14px;
+  letter-spacing: 0.38px;
+  line-height: 24px;
+  overflow: hidden;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  white-space: nowrap;
+  width: calc(100.00% - 26px);
+}
+:root {
+  --azure-radiance: rgba(0,122,255,1.0);
+  --black: rgba(0,0,0,1.0);
+  --coral-red: rgba(255,69,58,0.6);
+  --oslo-gray: rgba(138,138,142,1.0);
+  --pizazz: rgba(253,147,0,1.0);
+  --pizazz-2: rgba(255,149,0,1.0);
+  --ship-gray: rgba(60,60,67,0.29);
+  --ship-gray-2: rgba(60,60,67,0.302);
+  --ship-gray-3: rgba(60,60,67,1.0);
+  --white: rgba(255,255,255,1.0);
+}

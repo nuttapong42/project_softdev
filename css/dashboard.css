@@ -1,0 +1,574 @@
+/* screen - dashboard */
+
+.border-class-1 {
+  border: 1px solid transparent;
+}
+.border-class-2 {
+  border: 1px solid var(--black);
+}
+.dashboard {
+  background-color: var(--white);
+  height: 999px;
+  overflow: hidden;
+  position: relative;
+  width: 414px;
+}
+.dashboard .background-5tjGCi {
+  background-color: transparent;
+  border-radius: 13px;
+  height: calc(100.00% + 180px);
+  left: -90px;
+  position: absolute;
+  top: -80px;
+  width: calc(100.00% + 180px);
+}
+.dashboard .background-djPv95 {
+  background-color: transparent;
+  border-radius: 13px;
+  height: calc(100.00% + 180px);
+  left: -90px;
+  position: absolute;
+  top: -80px;
+  width: calc(100.00% + 180px);
+}
+.dashboard .background-hWq7aW {
+  background-color: transparent;
+  border-radius: 13px;
+  height: calc(100.00% + 180px);
+  left: -90px;
+  position: absolute;
+  top: -80px;
+  width: calc(100.00% + 180px);
+}
+.dashboard .background-qgx4Z9 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.dashboard .background-wxfTtj {
+  background-color: transparent;
+  border-radius: 13px;
+  height: calc(100.00% + 180px);
+  left: -90px;
+  position: absolute;
+  top: -80px;
+  width: calc(100.00% + 180px);
+}
+.dashboard .bars-navig-arge-title-M6IvrE {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.dashboard .booking-C61RwL {
+  background-color: transparent;
+  height: 195px;
+  left: 16px;
+  pointer-events: auto;
+  position: absolute;
+  top: 369px;
+  transition: all 0.2s ease;
+  width: 382px;
+}
+.dashboard .booking-C61RwL:hover {
+
+transform: translate(0, -5px);
+}
+.dashboard .booking-wxfTtj {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'SFPro Display-Medium', Helvetica, Arial, serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 500;
+  height: 38px;
+  left: 14px;
+  letter-spacing: 0.24px;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  top: 16px;
+  white-space: nowrap;
+  width: 110px;
+}
+.dashboard .exit-white-M6IvrE {
+  background-color: transparent;
+  height: 21px;
+  pointer-events: auto;
+  position: absolute;
+  right: 37px;
+  top: calc(28.57% - 6px);
+  transition: all 0.2s ease;
+  width: 21px;
+}
+.dashboard .exit-white-M6IvrE:hover {
+
+transform: scale(1.1);
+}
+.dashboard .flight-etd-5tjGCi {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'SFPro Display-Medium', Helvetica, Arial, serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 500;
+  height: 38px;
+  left: 14px;
+  letter-spacing: 0.24px;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  top: 16px;
+  white-space: nowrap;
+  width: 138px;
+}
+.dashboard .fligth-eta-C61RwL {
+  background-color: transparent;
+  height: 195px;
+  left: 16px;
+  pointer-events: auto;
+  position: absolute;
+  top: 787px;
+  transition: all 0.2s ease;
+  width: 382px;
+}
+.dashboard .fligth-eta-C61RwL:hover {
+
+transform: translate(0, -5px);
+}
+.dashboard .footnote-gC6YM4 {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'SFPro Text-Semibold', Helvetica, Arial, serif;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+  height: 17px;
+  left: 3.62%;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: calc(50.00% - 8px);
+  white-space: nowrap;
+  width: 32.85%;
+}
+.dashboard .group-34-5vxC2w {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.dashboard .group-34-WHd95d {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.dashboard .group-34-rxCKUK {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.dashboard .group-34-sI2Boi {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.dashboard .group-53-gC6YM4 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.dashboard .group-54-lWux8x {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.dashboard .group-55-s1PSRm {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.dashboard .head-C61RwL {
+  background-color: transparent;
+  height: 140px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 414px;
+}
+.dashboard .hi-puwadon-5eCU1J {
+  background-color: transparent;
+  bottom: 6px;
+  color: var(--white);
+  height: 42px;
+  left: 14px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 195px;
+}
+.dashboard .img5248-WggUxa {
+  background-color: rgba(27,30,34,1.0);
+  height: 100%;
+  left: -62px;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 180px);
+}
+.dashboard .large-title-5tjGCi {
+  background-color: transparent;
+  height: 76px;
+  left: 1.31%;
+  position: absolute;
+  top: calc(100.00% - 76px);
+  width: 72.77%;
+}
+.dashboard .large-title-djPv95 {
+  background-color: transparent;
+  height: 76px;
+  left: 1.31%;
+  position: absolute;
+  top: calc(100.00% - 76px);
+  width: 78.01%;
+}
+.dashboard .large-title-hWq7aW {
+  background-color: transparent;
+  bottom: calc(14.39% - 8px);
+  height: 56px;
+  left: 1.31%;
+  position: absolute;
+  width: 73.56%;
+}
+.dashboard .large-title-wxfTtj {
+  background-color: transparent;
+  height: 76px;
+  left: 1.31%;
+  position: absolute;
+  top: calc(100.00% - 76px);
+  width: 72.77%;
+}
+.dashboard .maps-C61RwL {
+  background-color: transparent;
+  height: 195px;
+  left: 16px;
+  pointer-events: auto;
+  position: absolute;
+  top: 578px;
+  transition: all 0.2s ease;
+  width: 382px;
+}
+.dashboard .maps-C61RwL:hover {
+
+transform: translate(0, -5px);
+}
+.dashboard .mask-group-1-S87wYi {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.dashboard .mask-group-1-XWuJ8C {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.dashboard .mask-group-1-fOZgWR {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.dashboard .mask-group-1-jvvjIp {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.dashboard .merlin1414-uper-jumbo-I73MKs {
+  background-color: transparent;
+  height: calc(100.00% + 82px);
+  left: 0px;
+  position: absolute;
+  top: -81px;
+  width: calc(100.00% + 33px);
+}
+.dashboard .merlin1414-uper-jumbo-Rx1xuI {
+  background-color: transparent;
+  height: calc(100.00% + 82px);
+  left: 0px;
+  position: absolute;
+  top: -81px;
+  width: calc(100.00% + 33px);
+}
+.dashboard .merlin1414-uper-jumbo-ZFKSOc {
+  background-color: transparent;
+  height: calc(100.00% + 82px);
+  left: 0px;
+  position: absolute;
+  top: -38px;
+  width: calc(100.00% + 33px);
+}
+.dashboard .merlin1414-uper-jumbo-abxViO {
+  background-color: transparent;
+  height: calc(100.00% + 82px);
+  left: 0px;
+  position: absolute;
+  top: -81px;
+  width: calc(100.00% + 33px);
+}
+.dashboard .metro-maps-djPv95 {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'SFPro Display-Medium', Helvetica, Arial, serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 500;
+  height: 38px;
+  left: 14px;
+  letter-spacing: 0.24px;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  top: 16px;
+  white-space: nowrap;
+  width: 158px;
+}
+.dashboard .navigation-background-5eCU1J {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.dashboard .pic-in-pop-5tjGCi {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.dashboard .pic-in-pop-djPv95 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.dashboard .pic-in-pop-hWq7aW {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.dashboard .pic-in-pop-wxfTtj {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.dashboard .recently-boarding-C61RwL {
+  background-color: transparent;
+  height: 195px;
+  left: 16px;
+  pointer-events: auto;
+  position: absolute;
+  top: 160px;
+  transition: all 0.2s ease;
+  width: 382px;
+}
+.dashboard .recently-boarding-C61RwL:hover {
+
+transform: translate(0, -5px);
+}
+.dashboard .recently-boarding-hWq7aW {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'SFPro Display-Medium', Helvetica, Arial, serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 500;
+  height: 38px;
+  left: 14px;
+  letter-spacing: 0.24px;
+  line-height: 41px;
+  position: absolute;
+  text-align: left;
+  top: 16px;
+  white-space: nowrap;
+  width: 242px;
+}
+.dashboard .text-maps-1VrxyH {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.dashboard .text-maps-6ipa7t {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.dashboard .text-maps-HgWHKH {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.dashboard .text-maps-Z1OvHH {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.dashboard .train-pic-C61RwL {
+  background-color: transparent;
+  height: 1120px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 414px;
+}
+.font-class-1 {
+  font-family: 'SFPro Display-Medium', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 500;
+}
+.font-class-10 {
+  color: var(--coral-red);
+  font-family: 'SFPro Text-Medium', Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: -0.24px;
+  line-height: 20px;
+}
+.font-class-2 {
+  color: var(--black);
+  font-family: 'SFPro Text-Regular', Helvetica, Arial, serif;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.87px;
+  line-height: 22px;
+}
+.font-class-3 {
+  font-family: 'SFPro Display-Bold', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.font-class-4 {
+  color: var(--black);
+  font-family: 'SFPro Display-Regular', Helvetica, Arial, serif;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.29px;
+  line-height: 25px;
+}
+.font-class-5 {
+  font-family: 'SFPro Text-Medium', Helvetica, Arial, serif;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: -0.41px;
+  line-height: 22px;
+}
+.font-class-6 {
+  font-family: 'SFPro Display-Bold', Helvetica, Arial, serif;
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0.27px;
+  line-height: 41px;
+}
+.font-class-7 {
+  color: var(--azure-radiance);
+  font-family: 'SFPro Text-Regular', Helvetica, Arial, serif;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.54px;
+  line-height: 22px;
+}
+.font-class-8 {
+  color: var(--ship-gray-2);
+  font-family: 'SFPro Text-Semibold', Helvetica, Arial, serif;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.08px;
+  line-height: 22px;
+}
+.font-class-9 {
+  color: var(--black);
+  font-family: 'SFPro Text-Semibold', Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.30px;
+  line-height: 15px;
+}
+:root {
+  --azure-radiance: rgba(0,122,255,1.0);
+  --black: rgba(0,0,0,1.0);
+  --coral-red: rgba(255,69,58,0.6);
+  --oslo-gray: rgba(138,138,142,1.0);
+  --pizazz: rgba(253,147,0,1.0);
+  --pizazz-2: rgba(255,149,0,1.0);
+  --ship-gray: rgba(60,60,67,0.29);
+  --ship-gray-2: rgba(60,60,67,0.302);
+  --ship-gray-3: rgba(60,60,67,1.0);
+  --white: rgba(255,255,255,1.0);
+}
