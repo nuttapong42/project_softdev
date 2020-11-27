@@ -31,7 +31,7 @@ $result = mysqli_query($conn, $query) or die ("Error in sql : $query". mysql_err
  	<div class="row">
 	<div class="col-sm-2"></div>
 	<div class="col-sm-8">
-	<center>ข้อมูลประวัติการจอง</center>
+	<center><h2>ข้อมูลประวัติการจอง</h2></center>
 	<div class="table-responsive">	
 	<table class="table" border="" >
 

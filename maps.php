@@ -46,49 +46,49 @@ include ('menu.php');
             <img class="line-15-mA8TeR" src="img/line-10@1x.png" />
           </div>
         </div>
-        <a href="phaya-thai.html">
+        <a href="8-phaya-thai.php">
           <div class="group-104-C61RwL">
             <img class="path-1-yXv3Oh" src="img/path-1@1x.png" />
             <div class="phaya-thai-yXv3Oh font-class-3">Phaya Thai</div>
           </div></a
         >
-        <a href="makkasan.html">
+        <a href="6-makkasan.php">
           <div class="group-102-C61RwL">
             <img class="ellipse-4-eYqyUC" src="img/ellipse-3@1x.png" />
             <div class="makkasan-eYqyUC font-class-3">Makkasan</div>
           </div></a
         >
-        <a href="hua-mak.html">
+        <a href="4-hua-mak.php">
           <div class="group-100-C61RwL">
             <img class="ellipse-6-lvfzGr" src="img/ellipse-3@1x.png" />
             <div class="hua-mak-lvfzGr font-class-3">Hua Mak</div>
           </div></a
         >
-        <a href="latkrabang.html">
+        <a href="2-ladkrabang.php">
           <div class="group-96-C61RwL">
             <img class="ellipse-8-3U5qE3" src="img/ellipse-3@1x.png" />
             <div class="latkrabang-3U5qE3 font-class-3">Latkrabang</div>
           </div></a
         >
-        <a href="ratchaprarop.html">
+        <a href="7-ratchaprarop.php">
           <div class="group-103-C61RwL">
             <img class="ellipse-3-B08mCn" src="img/ellipse-3@1x.png" />
             <div class="ratchaprarop-B08mCn font-class-3">Ratchaprarop</div>
           </div></a
         >
-        <a href="ramkhamhaeng.html">
+        <a href="5-ramkhamhaeng.php">
           <div class="group-101-C61RwL">
             <img class="ellipse-5-wAIKMX" src="img/ellipse-3@1x.png" />
             <div class="ramkhamhaeng-wAIKMX font-class-3">Ramkhamhaeng</div>
           </div></a
         >
-        <a href="ban-thap-chang.html">
+        <a href="3-ban-thap-chang.php">
           <div class="group-99-C61RwL">
             <img class="ellipse-7-ZnSQrh" src="img/ellipse-3@1x.png" />
             <div class="ban-thap-chang-ZnSQrh font-class-3">Ban Thap Chang</div>
           </div></a
         >
-        <a href="suvarnabhumi.html">
+        <a href="1suvarnabhumi.php">
           <div class="group-98-C61RwL">
             <img class="ellipse-9-royatl" src="img/ellipse-3@1x.png" />
             <div class="suvarnabhumi-royatl font-class-3">Suvarnabhumi</div>

@@ -61,8 +61,12 @@ include('menu.php');
 	    <input type="textarea" name="payment_detail" id="payment_detail" class="form-control"  placeholder="">
 	  </div>
 	  <div class="form-group">
-	    <label for="exampleInputFile">Payment for</label>
-	    <input type="text" name="payment_for" id="payment_for" class="form-control">    
+	  	<label for="exampleInputFile">Payment for</label>
+	  	<select class="form-group"> 
+	  		<option value="TRTSF" name="TRTSF">TRTSF</option>
+	  	</select>
+	    
+	    
 	  </div>
 	  
 	  <center><button type="submit" name="add_payment" class="btn btn-success" value="Submit">ยืนยันการชำระเงิน</button></center>

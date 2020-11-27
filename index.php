@@ -142,7 +142,6 @@ body {
 
 
             <tr>
-
                 <td><h3 style="color: white">Recently Boarding</h3></br>
                     <p style="color: white">With Boarding Pass, you tickets include BTS,MRT,ARL all of them in one place.</p>
                     <a href="booking_history.php"><img src="img/mask-group-1-1@1x.png" width="650" height=""></a> 
@@ -162,6 +161,13 @@ body {
                 <td><h3 style="color: white">Maptro Maps</h3></br>
                     <p style="color: white">Complete Bangkok Metro Public Transportation Network BTS Skytrain,MRT,Airport Rail Link</p>
                     <a href="maps.php"><img src="img/mask-group-1-3@1x.png" width="650" height=""></a>
+                </td>
+            </tr>
+
+            </tr>
+                <td><h3 style="color: white">Flight ETD</h3></br>
+                    <p style="color: white">Flight status, tracking and historical data including scheduled, estimated, and actual departure and arrval times.</p>
+                    <a href="flight-eta.php"><img src="img/flight2.png" width="650" height=""></a>
                 </td>
             </tr>
             

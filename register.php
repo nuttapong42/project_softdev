@@ -13,13 +13,13 @@
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
 </head>
-<body>
+<body background="img/bgnew.jpg">
     <div class="row">
     <div class="col-sm-4"></div>
     <div class="col-sm-4">
     
     <div class="header">
-        <h2>Register</h2>
+    <font color="white">    <h2>Register</h2>
     </div>
 
     <form action="register_db.php" method="post">
@@ -39,7 +39,7 @@
         <div>
      
             <label for="username">Username</label>
-            <input type="text" name="username" class="form-control">
+            <input type="text" maxlength="20" minlength="2" name="username" class="form-control">
 
         </div>
       
@@ -49,15 +49,45 @@
         </div>
         <div >
             <label for="tel">Tel. (+66)</label>
-            <input type="tel" maxlength="10"  name="tel" class="form-control">
+            <input type="number"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             name="tel" class="form-control">
         </div>
         <div>
             <label for="password_1">Password</label>
-            <input type="password" name="password_1" class="form-control">
+            <input type="password" name="password_1" class="form-control" maxlength="20" minlength="6">
         </div>
         <div>
             <label for="password_2">Confirm Password</label>
-            <input type="password" name="password_2" class="form-control">
+            <input type="password" name="password_2" class="form-control" maxlength="20" minlength="6">
         </div>
 
         </br></br>
@@ -70,7 +100,7 @@
         <div></br>
         <p>Already a member? <a href="login.php">Sign in</a></p>
         </div>
-        
+        <font> 
     </form>
 
 </body>
